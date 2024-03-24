@@ -134,6 +134,46 @@ def setModel(enc_inputs, dec_inputs, output, dec_lstm, dec_embedding, dec_dense,
     return model, enc_model, dec_model
 
 
+# def chat(input_value, tokenizer, maxlen_answers, enc_model, dec_model):
+#     input_value = stemmer.stem(
+#         normalize_sentence(normalize_sentence(input_value))
+#     )
+
+#     states_values = enc_model.predict(
+#         str_to_tokens(input_value, tokenizer, maxlen_questions)
+#     )
+
+#     empty_target_seq = np.zeros((1, 1))
+#     empty_target_seq[0, 0] = tokenizer.word_index['start']
+
+#     stop_condition = False
+#     decoded_translation = ''
+#     status = "false"
+
+#     while not stop_condition:
+#         dec_outputs , h , c = dec_model.predict([ empty_target_seq ] + states_values )
+
+#         sampled_word_index = np.argmax(dec_outputs[0, -1, :])
+#         if dec_outputs[0, -1, sampled_word_index] < 0.1:
+#             decoded_translation = unknowns[random.randint(0, (len(unknowns) - 1))]
+#             break
+#         sampled_word = None
+#         for word, index in tokenizer.word_index.items():
+#             if sampled_word_index == index:
+#                 if word != 'end':
+#                     decoded_translation += ' {}'.format(word)
+#                 sampled_word = word
+
+#         if sampled_word == 'end' or len(decoded_translation.split()) > maxlen_answers:
+#             stop_condition = True
+
+#         empty_target_seq = np.zeros((1, 1))
+#         empty_target_seq[0, 0] = sampled_word_index
+#         states_values = [h, c]
+#         status = "true"
+
+#     return decoded_translation.strip(), str(status).lower()
+
 def chat(input_value, tokenizer, maxlen_answers, enc_model, dec_model):
     input_value = stemmer.stem(
         normalize_sentence(normalize_sentence(input_value))
@@ -150,10 +190,12 @@ def chat(input_value, tokenizer, maxlen_answers, enc_model, dec_model):
     decoded_translation = ''
     status = "false"
 
+    kecocokan = 0
+
     while not stop_condition:
         dec_outputs , h , c = dec_model.predict([ empty_target_seq ] + states_values )
-
         sampled_word_index = np.argmax(dec_outputs[0, -1, :])
+        kecocokan = dec_outputs[0, -1, sampled_word_index]
         if dec_outputs[0, -1, sampled_word_index] < 0.1:
             decoded_translation = unknowns[random.randint(0, (len(unknowns) - 1))]
             break
@@ -166,13 +208,14 @@ def chat(input_value, tokenizer, maxlen_answers, enc_model, dec_model):
 
         if sampled_word == 'end' or len(decoded_translation.split()) > maxlen_answers:
             stop_condition = True
+            print(len(decoded_translation.split()));
 
         empty_target_seq = np.zeros((1, 1))
         empty_target_seq[0, 0] = sampled_word_index
         states_values = [h, c]
         status = "true"
 
-    return decoded_translation.strip(), str(status).lower()
+    return decoded_translation.strip(), str(status).lower(), dec_outputs, kecocokan
 
 
 factory, stemmer, punct_re_escape, unknowns, file_name, path = setConfig("output_dir")

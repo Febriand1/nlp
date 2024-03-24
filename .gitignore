@@ -3,9 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# files
+*.xlsx
+dataset/dataset.csv
+dataset/clean*.txt
+
 # C extensions
 *.so
 output_dir/
+
 # Distribution / packaging
 .Python
 build/
