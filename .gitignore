@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# files
+# files dataset
 *.xlsx
 dataset/dataset.csv
 dataset/clean*.txt
