@@ -29,10 +29,10 @@ except:
 dataset = pd.read_csv('./dataset/clean_dataset2.txt', delimiter="|", header=None,lineterminator='\n')
 
 # Mengambil sebagian data untuk data validasi dan menyimpannya dalam file CSV.
-dataset_val = dataset.iloc[100:].to_csv('output_dir/val1.csv')
+dataset_val = dataset.iloc[203:].to_csv('output_dir/val1.csv')
 
 # Mengambil sebagian data untuk data pelatihan.
-dataset_train = dataset.iloc[:100]
+dataset_train = dataset.iloc[:403]
 
 # Mengambil pertanyaan dari data pelatihan.
 questions_train = dataset_train.iloc[:, 0].values.tolist()
@@ -199,10 +199,10 @@ model.compile(optimizer=RMSprop(), loss='categorical_crossentropy', metrics=['ac
 model.summary()
 
 #  Mendefinisikan ukuran batch.
-batch_size = 10
+batch_size = 20
 
 # Mendefinisikan jumlah epoch.
-epochs = 10
+epochs = 150
 
 # Melatih model dengan data pelatihan dan validasi, menggunakan callback yang telah didefinisikan.
 model.fit([encoder_input_data_train, decoder_input_data_train],

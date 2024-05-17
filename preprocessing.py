@@ -68,7 +68,7 @@ def normalize_sentence(sentence):
   return sentence
 
 # Membaca file CSV yang berisi data pertanyaan dan jawaban ke dalam pandas DataFrame.
-df = pd.read_csv('./dataset/dataset.csv', sep='|',usecols= ['question','answer'])
+df = pd.read_csv('./dataset/datasets.csv', sep='|',usecols= ['question','answer'])
 df.head()
 
 print('Membuat kamus kosong untuk menghitung panjang pertanyaan dan jawaban.')
@@ -128,7 +128,7 @@ print('Membuat kamus kosong untuk menghitung panjang pertanyaan dan jawaban.')
 # Menentukan nama file untuk menyimpan data yang telah diproses.
 #filename = open('./dataset/clean_qa.txt', 'a+')
 print("Menentukan nama file untuk menyimpan data yang telah diproses.")
-filename= './dataset/clean_dataset2.txt'
+filename= './dataset/clean_datasets.txt'
 
 # Membuka file untuk menulis data.
 print("Membuka file untuk menulis data.")
@@ -146,7 +146,7 @@ with open(filename, 'w', encoding='utf-8') as f:
     print('\n')
     
     print('Memeriksa apakah panjang pertanyaan dan jawaban memenuhi kriteria yang ditentukan.')
-    if len(question.split()) > 0 and len(question.split()) < 13 and len(answer.split()) < 29:
+    if len(question.split()) > 0 and len(question.split()) < 100 and len(answer.split()) < 100:
         
       print('Membuat string yang akan ditulis ke file.')  
       body="{"+question+"}|<START> {"+answer+"} <END>"
