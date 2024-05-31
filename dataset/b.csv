@@ -2999,36 +2999,36 @@ fedhira
 fedhira
 fedhira
 fedhira
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
+the number of times the word appears in the corpus|\n\n Code\n\n Your code here\n\n  Create a dictionary to store the word counts\nword_counts = {}\n\n Iterate through the corpus\nfor word in corpus:\n   If the word is already in the dictionary, increment its count\n  if word in word_counts:\n  word_counts[word] += 1\n  Otherwise, set its count to 1\n    else:\n word_counts[word] = 1\n\n Print the word counts\nprint(word_counts)\n\n Output\n\n> stdout : [""{'hello': 1, 'world': 1, 'this': 1, 'is': 1, 'a': 1, 'sentence': 1}\n""]\n\n \n Markdown\n\n Part 2:\n\nCreate a function that takes in a word and the word counts dictionary, and returns the number of times the word appears in the corpus.\n\n Code\n\n  Your code here\n\ndef count_word(word, word_counts):\n  \n    Counts the number of times a word appears in a corpus.\n  \n Parameters\n  \n  word: str\n  The word to count.\n  word_counts: dict\n   A dictionary of words and their counts.\n  \n    Returns\n  \n    int\n The number of times the word appears in the corpus.\n \n \n  If the word is in the dictionary, return its count\n    if word in word_counts:\n return word_counts[word]\n  Otherwise, the word doesn't appear in the corpus\n    else:\n  return 0\n Test your function\n\n Should return 1\nprint(count_word('hello', word_counts))\n\n Should return 0\nprint(count_word('goodbye', word_counts))\n\n Output\n\n> stdout : ['1\n', '0\n']\n\n \n END OF DOC"
+absensi matematika bisnis|\n\nAbsensi matematika bisnis adalah proses mencatat dan mengikuti kehadiran siswa di kelas matematika bisnis. Ini bisa dilakukan dengan menggunakan buku absensi, aplikasi absensi, atau sistem absensi online. Proses ini bertujuan untuk memastikan bahwa siswa hadir di kelas dan mengikuti pelajaran. Ini juga membantu mengidentifikasi siswa yang sering absen atau terlambat.
+cek absensi matematika bisnis|\n\nAbsensi matematika bisnis adalah proses mencatat dan mengawasi kehadiran siswa di kelas matematika bisnis. Proses ini biasanya dilakukan dengan mencatat nama siswa yang hadir dan tidak hadir di kelas. Proses ini bertujuan untuk memastikan bahwa siswa hadir di kelas dan mengikuti pelajaran dengan benar.
+apa itu poor data validation|\n\nPoor data validation adalah proses validasi data yang tidak memenuhi standar keamanan yang ditetapkan. Ini dapat menyebabkan masukan data yang tidak valid atau berbahaya masuk ke sistem. Hal ini dapat menyebabkan kerusakan data, kerentanan keamanan, dan masalah lainnya.
+input absensi fqfe|\n\nFQFE adalah singkatan dari Fingerprint Quick Fingerprint Enrollment. FQFE adalah sistem absensi yang menggunakan sidik jari untuk mengidentifikasi dan mencatat kehadiran karyawan. Sistem ini memungkinkan karyawan untuk mengidentifikasi diri mereka dengan menyentuh sensor sidik jari, yang kemudian akan mengidentifikasi mereka dan mencatat waktu masuk dan keluar. Sistem ini juga dapat digunakan untuk mengontrol akses ke ruangan tertentu dan mencatat waktu yang dihabiskan di lokasi tersebut.
+apa itu security misconfiguration|\n\nSecurity misconfiguration adalah kesalahan konfigurasi yang menyebabkan sistem atau aplikasi menjadi rentan terhadap serangan. Ini dapat terjadi karena kesalahan manusia, seperti mengkonfigurasi sistem dengan pengaturan yang tidak aman, atau karena kesalahan dalam proses pengembangan, seperti meninggalkan kode yang tidak diinginkan atau mengkonfigurasi aplikasi dengan pengaturan yang tidak aman.
+the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.
+apa itu untrusted input|\n\nUntrusted input adalah data yang diterima dari sumber yang tidak dapat dipercaya. Data ini dapat berupa input dari pengguna, data yang diterima dari jaringan, atau data yang diterima dari sistem lain. Data ini dapat berisi kode berbahaya yang dapat menyebabkan kerusakan pada sistem. Oleh karena itu, penting untuk memvalidasi semua input untuk memastikan bahwa data yang diterima aman.
+input presensi tmhxlf|\n\nPresensi TMHXLF:\n\nHadir.
+input presensi udhj|\n\nInput presensi adalah proses memasukkan data kehadiran seseorang ke dalam sistem. Data yang dimasukkan biasanya berupa informasi tentang waktu masuk dan keluar, jenis absensi, dan alasan absensi. Data ini kemudian digunakan untuk menghitung gaji, menghitung jam kerja, dan menghitung jumlah hari kerja.
+input abensi tm nhnu|\n\nPresensi NHNUF:\n\nHadir.
+input abensi tm nhnu|\n\nPresensi NHNUF:\n\nHadir.
+input absensi clwp|\n\nInput absensi CLWP dapat dilakukan dengan menggunakan berbagai macam cara, seperti menggunakan sistem absensi berbasis komputer, sistem absensi berbasis web, sistem absensi berbasis aplikasi, serta sistem absensi berbasis RFID. Setiap sistem memiliki kelebihan dan kekurangannya masing-masing. Sistem absensi berbasis komputer memiliki kelebihan dalam hal kecepatan dan akurasi, sistem absensi berbasis web memiliki kelebihan dalam hal fleksibilitas, sistem absensi berbasis aplikasi memiliki kelebihan dalam hal kemudahan penggunaan, dan sistem absensi berbasis RFID memiliki kelebihan dalam hal keamanan.
+input abensi tm nhnu|\n\nPresensi NHNUF:\n\nHadir.
+input absensi jbue tm|\n\nUntuk input absensi di JBUE TM, Anda dapat menggunakan aplikasi absensi yang disediakan oleh pihak JBUE TM. Aplikasi ini dapat diunduh melalui toko aplikasi resmi seperti Google Play Store atau Apple App Store. Setelah aplikasi terinstal, Anda dapat membuka aplikasi dan mengikuti petunjuk untuk mengisi absensi.
+konfirmasi pembayaran ukt|\n\nUntuk konfirmasi pembayaran UKT, Anda harus menghubungi kantor pembayaran UKT di kampus Anda. Anda harus membawa bukti pembayaran dan dokumen identitas yang valid. Setelah memverifikasi pembayaran, kantor pembayaran UKT akan mengkonfirmasi pembayaran Anda.
+input absensi gyqt|\n\nUntuk mengakses input absensi Gyqt, Anda harus memiliki akun Gyqt. Setelah memiliki akun, Anda dapat masuk ke aplikasi Gyqt dan mengakses menu Input Absensi. Di sana, Anda dapat memasukkan data absensi untuk setiap karyawan.
+verifikasi pembayaranva|\n\nVerifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lain yang diperlukan. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+verifikasi pembayaranva|\n\nVerifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lain yang diperlukan. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+cek pembayaranvamahasiswa|\n\nPembayaran mahasiswa dapat dikonfirmasi dengan menghubungi kantor administrasi universitas atau sekolah tempat mahasiswa tersebut mendaftar. Kantor administrasi akan memiliki informasi tentang pembayaran yang telah dibuat oleh mahasiswa dan dapat memberikan konfirmasi apakah pembayaran telah diterima atau belum.	
+input absensi mode tm rumd|\n\nMode TM (Time and Motion) adalah metode yang digunakan untuk mengukur waktu yang dibutuhkan untuk menyelesaikan suatu tugas. Metode ini juga dapat digunakan untuk mengukur waktu yang dibutuhkan untuk melakukan berbagai aktivitas, seperti mengisi absensi. Dengan menggunakan mode TM, Anda dapat mengukur waktu yang dibutuhkan untuk mengisi absensi dan mengidentifikasi area yang membutuhkan perbaikan.
+cek bimbingan mahasisea i1 20221|\n\nUntuk informasi lebih lanjut tentang bimbingan mahasiswa di tahun 2021, silakan hubungi kantor pembimbingan mahasiswa di kampus Anda.
+verifikasi pembayaranva|\n\nVerifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lain yang diperlukan. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+tidak bisa absen|\n\nMaaf, Anda tidak dapat melakukan absen jika Anda tidak berada di lokasi yang telah ditentukan. Anda harus hadir di lokasi untuk dapat melakukan absen.
+verifikasi pembayaranva|\n\nVerifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lainnya. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+input absensi tmgpmh|\n\nUntuk mengakses input absensi TMGPMH, Anda harus memiliki akun TMGPMH. Setelah memiliki akun, Anda dapat masuk ke situs web TMGPMH dan mengakses menu Input Absensi. Di sana, Anda dapat memasukkan informasi absensi Anda dan menyimpan data.
+kenapa ya i rusak  apa karna kamu udah pergi ninggalin i|\n\nMaaf, tapi saya tidak bisa menjawab pertanyaan Anda. Ini adalah masalah teknis yang harus ditangani oleh ahli teknis.
+minta kalender akademik|\n\nUntuk informasi kalender akademik, silakan kunjungi situs web universitas atau sekolah yang Anda tuju. Setiap universitas dan sekolah memiliki kalender akademik yang berbeda. Kalender akademik biasanya mencakup informasi tentang tanggal pendaftaran, tanggal ujian, tanggal liburan, dan tanggal lain yang berkaitan dengan kegiatan akademik.	
+input absensi dwpl|\n\nTerima kasih telah menginput data absensi.	
+input absensi swvj|\n\nInput absensi swvj dapat dilakukan dengan menggunakan aplikasi absensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat dan mengelola data absensi siswa. Aplikasi ini juga dapat membantu Anda untuk mengirimkan laporan absensi kepada orang tua siswa dan mengirimkan pemberitahuan kepada siswa tentang absensi mereka.	
 agita
 agita
 agita
