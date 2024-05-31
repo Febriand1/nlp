@@ -13999,36 +13999,36 @@ danidalll
 danidalll
 danidalll
 danidalll
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
+haiqal abdillah 4194050 hadir|\n\nTerima kasih atas kehadiran anda. Semoga anda dapat mengambil manfaat dari kelas yang anda hadiri.
+hari ini libur apaan|\n\nHari ini adalah hari Sabtu, jadi tidak ada libur khusus.
+gresya hutabarat 4194049 hadir|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Silakan dijelaskan lebih lanjut.
+fransnico sihombing 4194047 hadir|\n\nHalo Fransnico Sihombing, terima kasih telah hadir. Kami berharap Anda dapat menikmati waktu Anda di sini dan menikmati pengalaman yang menyenangkan. Jika ada pertanyaan atau bantuan yang Anda butuhkan, jangan ragu untuk menghubungi kami. Terima kasih.
+rahmala sari 4194060 hadir|\n\nMaaf, saya tidak dapat menjawab pertanyaan Anda. Mohon maaf atas ketidaknyamanan ini.
+hibatul fadli dzil ikram 4184052 hadir|\n\nTerima kasih atas kehadiran Saudara Fadli Dzil Ikram. Semoga kehadiran Saudara dapat memberikan manfaat bagi semua.
+dody siahaan 4194046 hadir|\n\nHalo Dody,\n\nSelamat datang di sini. Kami senang bisa berbicara dengan Anda. Apa yang bisa kami bantu?
+dhafin 4194043 hadir|\n\nSaya hadir.
+aef saepurohim 4194036 hadir|\n\nHai saepurohim,\n\nSelamat datang di acara yang kami adakan. Kami sangat senang bisa menghadirkan Anda di sini. Kami berharap Anda dapat menikmati acara ini dan berbagi pengalaman Anda dengan kami. Terima kasih atas kunjungan Anda.
+apa itu bukupedia|\nbukupedia adalah penerbit buku
+selamat siang pak punten pak saya ingin bertanya untuk proposal kami apakah sudah memenuhi  apabila sudah memenuhi apakah kami sudah bisa untuk mengupload proposal kami ke untuk pengumpulan proposal terima kasih pak,\n\nSelamat siang|\nTerima kasih atas pertanyaan Anda. Untuk mengetahui apakah proposal Anda sudah memenuhi syarat, Anda harus mengikuti petunjuk yang diberikan oleh. Jika Anda telah memenuhi semua persyaratan, Anda dapat mengupload proposal Anda ke untuk pengumpulan proposal. Semoga membantu.
+program C++ yang membaca matriks ukuran 𝑛 × 𝑚 dan menghitung serta mencetak jumlah maksimum dari submatriks mana pun di dalam matriks tersebut|\n\n#include <iostream>\n#include <string>\n#include <vector>\n#include <algorithm>\n#include <cmath>\n#include <sstream>\n#include <map>\n#include <set>\n#include <iomanip>\n\nusing namespace std;\n\n#define sz(a) int((a).size())\n#define pb push_back\n#define all(c) (c).begin(), (c).end()\n#define tr(c,i) for(typeof((c).begin()) i = (c).begin(); i!=(c).end(); i++\n#define present(c,x) ((c).find(x)!=(c).end())\n#define cpresent(c,x) (find(all(c),x) != (c).end()\n\ntypedef vector<int> vi;\ntypedef vector<vi> vvi;\ntypedef pair<int, int> ii;\n\nint main(){\n\n    int n,m;\n    cin>>n>>m;\n    int arr[n][m];\n    for(int i=0;i<n;i++){\n        for(int j=0;j<m;j++){\n            cin>>arr[i][j];\n        }\n    }\n    int max_sum=0;\n    int sum=0;\n    for(int i=0;i<n;i++){\n        for(int j=0;j<m;j++){\n            for(int k=i;k<n;k++){\n                for(int l=j;l<m;l++){\n                    sum=0;\n                    for(int a=i;a<=k;a++){\n                        for(int b=j;b<=l;b++){\n                            sum+=arr[a][b];\n                        }\n                    }\n                    if(sum>max_sum)\n                        max_sum=sum;\n                }\n            }\n        }\n    }\n    cout<<max_sum<<endl;\n    return 0;\n}
+Apakah orang dengan tubuh kurus lebih sehat daripada orang dengan tubuh yang lebih berat?|\n\nTidak benar bahwa orang dengan tubuh kurus lebih sehat daripada orang dengan tubuh yang lebih berat. Ada banyak faktor yang berkontribusi pada kesehatan seseorang, termasuk nutrisi, olahraga, genetika, dan gaya hidup. Tubuh kurus bisa sama sehatnya dengan tubuh yang lebih berat, tergantung pada gaya hidup orang tersebut. Seseorang dengan tubuh kurus bisa sama sehatnya dengan seseorang dengan tubuh yang lebih berat jika mereka memiliki gaya hidup yang sehat, seperti pola makan yang sehat, cukup berolahraga, dan cukup istirahat.
+tempat makan terdekat dari bandung|\n\nBerikut adalah beberapa tempat makan terdekat dari Bandung: \n\n1. Warung Makan Sederhana \n2. Warung Makan Sari Rasa \n3. Warung Makan Sari Laut \n4. Warung Makan Sari Kuring \n5. Warung Makan Sari Bumbu \n6. Warung Makan Sari Kebon \n7. Warung Makan Sari Kebon Raya \n8. Warung Makan Sari Kebon Jati \n9. Warung Makan Sari Kebon Jati Baru \n10. Warung Makan Sari Kebon Jati Lama
+update judul tipe bimbingan p1 tahun id 20222 membuat package dengan bahasa pemograman go pada google drive dan google docs,\n\nMembuat Package dengan Bahasa Pemrograman Go di Google Drive dan Google Docs.|\n\nJudul tipe bimbingan P1 untuk tahun ID 20222 telah diperbarui menjadi: Membuat Package dengan Bahasa Pemrograman Go di Google Drive dan Google Docs.
+update judul tipe bimbingan p1 tahun id 20222 membuat package dengan bahasa pemograman go pada google drive dan google docs,\n\nMembuat Package dengan Bahasa Pemrograman Go di Google Drive dan Google Docs|\n\nJudul tipe bimbingan P1 untuk tahun ID 20222 telah diperbarui menjadi: Membuat Package dengan Bahasa Pemrograman Go di Google Drive dan Google Docs.
+minta kode dosen dong|\n\nMaaf, saya tidak bisa memberikan kode dosen. Silakan hubungi pihak terkait atau dosen yang bersangkutan secara langsung untuk mendapatkan informasi tersebut.	
+minta link bimbingan kemarin|\n\nuntuk link bimbingan kemarin boleh diminta ke i,qbal.maulana@binus.edu
+izin pak kalau kata bu novi paling telat besok pak tapi katanya kalau bisa hari ini karena besok maintenance|\n\nMaaf, saya tidak bisa memberikan jawaban yang pasti karena saya tidak tahu apa yang Anda maksud dengan pak. Namun, jika Anda bertanya tentang waktu pemeliharaan, maka jawabannya adalah tergantung pada jadwal pemeliharaan yang telah ditentukan.
+minta link website bukupedia|\n\nini link nya https://www.bukupedia.co.id/
+apa itu perwalian|\n\nPerwalian adalah proses pengawasan dan pengelolaan pendidikan siswa di sekolah. Proses ini melibatkan orang tua, guru, dan pihak sekolah. Perwalian bertujuan untuk memastikan bahwa siswa mendapatkan pendidikan yang tepat dan berkualitas. Proses ini juga membantu siswa untuk mencapai tujuan akademik mereka.\n\nPerwalian meliputi berbagai aspek pendidikan siswa, termasuk pemilihan mata pelajaran, pemantauan kemajuan akademik, pengelolaan masalah disiplin, dan pengembangan keterampilan sosial. Proses ini juga melibatkan orang tua dalam membantu siswa mencapai tujuan akademik mereka.\n\nPerwalian juga membantu siswa untuk mengembangkan keterampilan sosial mereka. Proses ini melibatkan orang tua dan guru untuk membantu siswa mengembangkan keterampilan sosial yang diperlukan untuk berhasil di sekolah dan di kehidupan. Proses ini juga membantu siswa untuk mengembangkan keterampilan berpikir kritis dan keterampilan komunikasi yang diperlukan untuk berhasil di sekolah dan di kehidupan.
+are you still there|\n\nYes, I'm still here.
+what relation public key infrastructure and digital signature|\n\nPublic Key Infrastructure (PKI) is a system of digital certificates, public and private keys, and other authentication mechanisms that are used to verify the identity of a user or device and to secure data in digital transactions. Digital signatures are a type of authentication mechanism used in PKI that uses a combination of public and private keys to verify the identity of the sender and the integrity of the data being sent. Digital signatures are used to ensure that the data has not been tampered with and that the sender is who they say they are.
+lah ngape|\n\nAng pag-aalaga ng ape ay isang mahalagang aspeto ng pag-aalaga ng hayop. Ang mga ape ay may kahalagahan sa kapaligiran at sa mga ekosistema. Ang pag-aalaga ng ape ay nangangailangan ng pag-iingat, pag-aalaga, at pag-iingat sa kalusugan. Ang mga ape ay kailangang magkaroon ng isang malusog na diyeta, isang malinis na kapaligiran, at isang mahusay na pag-aalaga sa kalusugan. Ang mga ape ay kailangang magkaroon ng isang mahusay na pag-aalaga sa kalusugan, kabilang ang pag-iwas sa mga sakit at pag-iwas sa mga parasito. Ang mga ape ay kailangang magkaroon ng isang mahusay na pag-aalaga sa kalusugan, kabilang ang pag-iwas sa mga sakit at pag-iwas sa mga parasito. Ang mga ape ay kailangang magkaroon ng isang mahusay na pag-aalaga sa kalusugan, kabilang ang pag-iwas sa mga sakit at pag-iwas sa mga parasito. Ang mga ape ay kailangang magkaroon ng isang mahusay na pag-aalaga sa kalusugan, kabilang ang pag-iwas sa mga sakit at pag-iwas sa mga parasito.
+bagaimana cara untuk konfirmasi judul pak|\n\nAnda dapat menghubungi penerbit buku untuk mengkonfirmasi judul. Anda juga dapat mencari informasi tentang judul di internet.
+Apa yang membuat Tutuengo menonjol di antara kota dan komune lainnya di daerah tersebut|\n\nTutuengo is a town and commune in the Cercle of Koutiala in the Sikasso Region of southern Mali. The commune covers an area of 545 square kilometers and includes the town and 28 villages. In the 2009 census it had a population of 28,845. The town of Tutuengo, the administrative centre (chef-lieu) of the commune, is 40km northeast of Koutiala.\n\n\nExternal links\n\n* Plan de Sécurité Alimentaire Commune Rurale de Tutuengo 2006-2010 (http://www.aec.msu.edu/fs2/mali_fd_strtgy/plans/sikasso/koutiala/psa_tutuengo.pdf). Commissariat à la Sécurité Alimentaire, République du Mali, USAID-Mali..\n\nCategory:Communes of Sikasso Region
+tatang lagi pusing jangan panggil panggil|\n\nJangan panggil tatang. Cobalah untuk menenangkan dia dengan berbicara dengannya dan menanyakan apa yang membuatnya pusing. Jika dia tidak bisa mengatasi masalahnya sendiri, cobalah untuk menyarankan agar dia berbicara dengan seorang profesional untuk mendapatkan bantuan.
+ih sebentar pelan pelan dong|\n\nTentu saja, dengan senang hati. Aku akan melakukannya dengan pelan dan lembut. Aku akan memainkan lagu yang menenangkan dan menyenangkan. Aku akan memainkan lagu yang akan membuatmu merasa rileks dan nyaman.
+tatang lagi pusing jangan panggil panggil|\n\nJangan panggil panggil tatang. Cobalah untuk menghibur dia dengan mengobrol atau mengajaknya untuk melakukan sesuatu yang menyenangkan. Jika ia masih terus pusing, cobalah untuk mengajaknya untuk berbicara dengan dokter atau ahli kesehatan mental.
+tatang ada terus buat kamu kok|\n\nTentu saja! Saya selalu siap untuk membantu Anda.
 dimas
 dimas
 dimas
