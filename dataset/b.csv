@@ -8059,36 +8059,36 @@ minta surat aktif kuliah|\n\nYth.\n\nKepala Bagian Akademik\n\nUniversitas XYZ\n
 cara isi krs semester 2|\n\n1. Buka website universitas Anda.\n2. Login ke akun Anda.\n3. Pilih menu KRS.\n4. Pilih semester yang akan diisi KRS.\n5. Pilih mata kuliah yang akan diambil.\n6. Klik tombol “Simpan” untuk menyimpan KRS.\n7. Cetak KRS yang telah disimpan.
 minta surat aktif kuliah|\n\nYth.\n\nKepala Bagian Akademik\n\nUniversitas XYZ\n\ndi\n\nJakarta\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : ________________\n\nNIM : ________________\n\nProgram Studi : ________________\n\nMengajukan permohonan untuk mendapatkan surat aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n________________\n\n(Nama)
 @guywithnojobbbtwt id joshuasammm|\n\nSorry, I couldn't find a Twitter account for Joshua Sammm.
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
-dirga
+hp6imxrc|\n\nhttp://www.youtube.com/watch?v=_VVV_VVV_VVV\n\nThe first link is a video of a song called ""The Fox (What Does the Fox Say?)"" by Ylvis. The second link is an invalid YouTube link.
+verifikasi va adam rafliansyah npm 13121050|\n\nVerifikasi berhasil. Selamat datang Adam Rafliansyah.
+minta surat aktif kuliah|\n\nYth.\n\nKepala Bagian Akademik\n\nUniversitas XYZ\n\ndi\n\nJakarta\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : ________________\n\nNIM : ________________\n\nMata Kuliah : ________________\n\nSemester : ________________\n\nMengajukan permohonan untuk mendapatkan surat aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n________________\n\n(Nama)
+minta transkip nilai|\n\nBerikut adalah transkip nilai Anda:\n\nMata Kuliah, Nilai\nMatematika, A\nFisika, B\nKimia, A\nBiologi, A
+cek status pembayaran|\n\nAnda dapat mengecek status pembayaran Anda dengan mengunjungi situs web atau aplikasi penyedia layanan pembayaran Anda. Anda juga dapat menghubungi layanan pelanggan untuk meminta informasi tentang status pembayaran Anda.
+u1mf0khp|\n\n#include <iostream>\n#include <string>\n\nusing namespace std;\n\nint main()\n{\n    string name;\n    cout << ""Please enter your name: "";\n    getline(cin, name);\n    cout << ""Hello, "" << name << ""!"" << endl;\n    return 0;\n}
+cara heregistrasi|\n\nUntuk mendaftar atau mendaftarkan diri, Anda harus mengikuti langkah-langkah berikut:\n\n1. Cari situs web yang Anda inginkan untuk mendaftar.\n2. Klik tombol ""Daftar"" atau ""Buat Akun"".\n3. Masukkan informasi yang diminta, seperti nama, alamat email, nomor telepon, dan lainnya.\n4. Baca dan setuju dengan syarat dan ketentuan yang berlaku.\n5. Klik tombol ""Kirim"" atau ""Daftar"" untuk menyelesaikan proses pendaftaran.
+package hehe|package com.example.demo.controller;\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
+ngisi krs kpn|\n\nUntuk mengisi KRS, Anda harus memiliki akun di sistem informasi akademik universitas Anda. Setelah Anda memiliki akun, Anda dapat masuk ke sistem informasi akademik dan mengikuti petunjuk untuk mengisi KRS. Biasanya, Anda harus memilih mata kuliah yang ingin Anda ambil, memeriksa jadwal kuliah, dan mengkonfirmasi pilihan Anda. Setelah Anda selesai, Anda harus mencetak KRS dan menyerahkannya ke kantor akademik untuk disetujui.
+minta transkrip nilai|\n\nUntuk meminta transkrip nilai, Anda harus menghubungi kantor akademik di universitas Anda. Anda harus menyertakan informasi tentang diri Anda, seperti nama lengkap, nomor mahasiswa, dan informasi lain yang diperlukan. Anda juga harus menyertakan biaya yang dikenakan untuk meminta transkrip nilai. Setelah menerima permintaan Anda, kantor akademik akan mengirimkan transkrip nilai ke alamat yang Anda berikan.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text a total of 8 times.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text 8 times.
+minta transkrip nilai|\n\nUntuk meminta transkrip nilai, Anda harus menghubungi kantor akademik di universitas Anda. Anda harus menyertakan informasi tentang diri Anda, seperti nama lengkap, nomor mahasiswa, dan informasi lain yang diperlukan. Setelah itu, kantor akademik akan mengirimkan transkrip nilai Anda.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text a total of 8 times.
+creat sertifikat webinar judul membangun negeri zweihamdani@gmailcom|\n\nUntuk membuat sertifikat webinar dengan judul ""Membangun Negeri"", Anda dapat menggunakan berbagai aplikasi desain grafis seperti Adobe Photoshop, Adobe Illustrator, atau Canva. Anda dapat menggunakan template sertifikat yang tersedia di aplikasi tersebut atau membuat desain sertifikat sendiri. Anda juga dapat menggunakan berbagai font, warna, dan gambar untuk membuat sertifikat yang unik dan menarik. Setelah selesai, Anda dapat mencetak sertifikat dan mengirimkannya ke alamat email zweihamdani@gmail.com.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text 8 times.
+menu|mau pesan apa nih?	
+ganti password sip|\n\nUntuk mengganti password SIP, Anda harus masuk ke akun Anda dan mengakses pengaturan. Di sana, Anda akan menemukan opsi untuk mengubah password SIP Anda. Setelah Anda memasukkan password baru, pastikan untuk menyimpan perubahan Anda.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text 8 times.
+halo|\n\nHi there! How can I help you?
+kenapa tidak bisa bayar va|\n\nMungkin ada beberapa alasan mengapa Anda tidak dapat melakukan pembayaran melalui VA. Pertama, Anda mungkin tidak memiliki saldo yang cukup di akun VA Anda. Kedua, Anda mungkin tidak memiliki kartu kredit atau debit yang terhubung ke akun VA Anda. Ketiga, Anda mungkin tidak memiliki akses ke layanan internet yang cukup untuk melakukan pembayaran. Keempat, Anda mungkin tidak memiliki akses ke layanan pembayaran yang dapat digunakan untuk melakukan pembayaran melalui VA.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text a total of 8 times.
+berapa kali kata "the" muncul|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text a total of 8 times.
+lupa password sip|\n\nUntuk mereset password SIP, silakan hubungi administrator jaringan Anda. Administrator jaringan Anda dapat menggunakan alat administrasi untuk mereset password Anda.
+tidak terdaftar di semester berarti belum di aktifkan status dia di menu data akademik atau belum verifikasi|jazah\n\nStatus mahasiswa yang belum terdaftar di semester adalah tidak aktif. Mahasiswa tersebut belum dapat mengakses layanan akademik dan tidak dapat mengikuti kegiatan akademik. Untuk memastikan bahwa mahasiswa tersebut dapat mengakses layanan akademik dan mengikuti kegiatan akademik, mahasiswa tersebut harus melakukan verifikasi ke ijazah dan mengaktifkan statusnya di menu data akademik.
+tidak terdaftar di semester berarti belum di aktifkan status dia di menu data akademik atau belum verifikasi|jazah\n\nStatus mahasiswa yang belum terdaftar di semester adalah tidak aktif. Mahasiswa tersebut belum dapat mengakses layanan akademik dan tidak dapat mengikuti kegiatan akademik. Untuk memastikan bahwa mahasiswa tersebut dapat mengakses layanan akademik dan mengikuti kegiatan akademik, mahasiswa tersebut harus melakukan verifikasi ke ijazah dan mengaktifkan statusnya di menu data akademik.
+tidak terdaftar di semester berarti belum di aktifkan status dia di menu data akademik atau belum verifikasi|jazah\n\nStatus mahasiswa yang belum terdaftar di semester adalah tidak aktif. Mahasiswa tersebut belum dapat mengakses layanan akademik dan tidak dapat mengikuti kegiatan akademik. Untuk memastikan bahwa mahasiswa tersebut dapat mengakses layanan akademik dan mengikuti kegiatan akademik, mahasiswa tersebut harus melakukan verifikasi ke ijazah dan mengaktifkan statusnya di menu data akademik.
+assalamualaikum pak izin menyampaikan beberapa hal untuk hari ini sudah mulai krs pak tapi untuk verifikasi pembayaran lewat i belum bisa pak|\n\nWaalaikumsalam. Terima kasih atas informasinya. Saya akan coba membantu Anda untuk menyelesaikan masalah ini. Silakan hubungi bagian keuangan untuk memastikan bahwa pembayaran Anda telah diverifikasi dan Anda dapat melanjutkan proses KRS. Semoga membantu.
+minta data saya|ga bisa nemuin data kamu nih sepertinya data kamu belum dibuat oleh bauk coba langsung kontak pihak bauk ya
+jawab seperti ini pak|\n\nTerima kasih atas pertanyaan Bapak.\n\nUntuk menjawab pertanyaan Bapak, saya akan menjelaskan beberapa hal yang perlu diperhatikan dalam memilih sebuah laptop. Pertama, pastikan laptop yang akan Anda beli memiliki spesifikasi yang sesuai dengan kebutuhan Anda. Misalnya, jika Anda ingin menggunakan laptop untuk bermain game, pastikan laptop yang Anda beli memiliki spesifikasi yang cukup untuk menjalankan game tersebut. Kedua, pastikan laptop yang akan Anda beli memiliki fitur yang Anda butuhkan. Misalnya, jika Anda ingin laptop yang dapat digunakan untuk menonton video, pastikan laptop yang Anda beli memiliki fitur untuk menonton video. Ketiga, pastikan laptop yang akan Anda beli memiliki harga yang sesuai dengan budget Anda. Pastikan Anda membandingkan harga laptop yang berbeda sebelum membeli.\n\nSemoga jawaban saya dapat membantu Bapak.
 dirga
 dirga
 dirga
