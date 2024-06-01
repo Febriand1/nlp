@@ -9121,7 +9121,7 @@ minta password sip|\n\nPassword anda adalah: sip123
 minta password sip ulbi 4204036|\n\nPassword Anda adalah: Ulbi4204036	
 iteung input penilaiansidang tipe p3 tahun id 20221 npm 4204019|\n\nInput penilaian sidang tipe P3 tahun 2021 untuk NPM 4204019 adalah:\n\n1. Kualitas presentasi: 8/10\n2. Kualitas materi: 9/10\n3. Kualitas diskusi: 7/10\n4. Kualitas jawaban: 8/10\n5. Kualitas laporan: 9/10\n6. Kualitas kesimpulan: 8/10	
 package com.example.demo.controller|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}"	
-input nilai sidang p3 tahun id 20221 npm 4204021|\n\nNilai sidang P3 tahun 2021 untuk NPM 4204021 adalah A.
+input nilai sidang tipe p3 tahun id 20221 npm 4204045|\n\nNilai sidang tipe P3 tahun 2021 untuk NPM 
 marlina
 marlina
 marlina
