@@ -15089,37 +15089,37 @@ approve revisi sidanh 1194050 tipe i2 tahun 20222|\n\nKami menyetujui revisi sid
 timeoff - 0000|\n\nThe time 0000 is 12:00 AM.
 bapuk|an\n\nBapukan adalah sebuah teknik pembelajaran yang menggunakan pendekatan berbasis masalah. Teknik ini menekankan pada pemecahan masalah dan menggunakan pendekatan berbasis proyek untuk mengajarkan konsep dan keterampilan. Bapukan menekankan pada pembelajaran aktif, yang memungkinkan siswa untuk mengembangkan keterampilan berpikir kritis dan kreatif. Teknik ini juga menekankan pada pembelajaran kolaboratif, yang memungkinkan siswa untuk bekerja sama dalam menyelesaikan masalah. Bapukan juga menekankan pada pembelajaran berbasis kontekstual, yang memungkinkan siswa untuk menghubungkan konsep dan keterampilan yang dipelajari dengan situasi nyata.
 bapuk|an\n\nBapukan adalah sebuah teknik pembelajaran yang menggunakan pendekatan berbasis masalah. Teknik ini menekankan pada pemecahan masalah dan menggunakan pendekatan berbasis proyek untuk mengajarkan konsep dan keterampilan. Bapukan menekankan pada pembelajaran aktif, yang memungkinkan siswa untuk mengembangkan keterampilan berpikir kritis dan kreatif. Teknik ini juga menekankan pada pembelajaran kolaboratif, yang memungkinkan siswa untuk bekerja sama dalam menyelesaikan masalah. Bapukan juga menekankan pada pembelajaran berbasis kontekstual, yang memungkinkan siswa untuk menghubungkan konsep dan keterampilan yang dipelajari dengan situasi nyata.
-pandja dosen bapak|\n\nHalo,\n\nTerima kasih telah menghubungi saya. Saya tidak tahu siapa dosen Bapak. Mohon maaf atas ketidaknyamanan ini.
+pada dosen bapak|\n\nHalo,\n\nTerima kasih telah menghubungi saya. Saya tidak tahu siapa dosen Bapak. Mohon maaf atas ketidaknyamanan ini.
 kepada dosen bapak|\n\nHalo,\n\nTerima kasih telah menghubungi saya. Saya tidak tahu siapa dosen Bapak. Mohon maaf atas ketidaknyamanan ini.
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
+panggil" teruss nih ge rela yaa i pergii  aaa sinii peyukkk|\n\nMaaf, saya tidak mengerti apa yang Anda maksud.
+ah naon sih ih  balas mulu wkwk|\n\nHaha, itu tergantung dari situasi dan konteksnya.
+ah naon sih ish balas mulu wkwk|\n\nHaha, itu tergantung dari situasi dan konteksnya.
+Manggil" teruss nih ge rela yaa i pergii  aaa sinii peyukkk|\n\nMaaf, saya tidak mengerti apa yang Anda maksud.
+Manggil-manggil teruss nih ge rela yaa i pergii  aaa sinii peyukkk|\n\nMaaf, saya tidak mengerti apa yang Anda maksud.
+ih sebentar yaa|\n\nÂ§ Code\n\n# Membuat fungsi\ndef kuadrat(x):\n    return x**2\n\n# Memanggil fungsi\nkuadrat(4)\n\nÂ§ Output\n\n> ['16']\n\n \nÂ§ Markdown\n\n## 2. Apa yang dimaksud dengan parameter dan argument?\nParameter adalah variabel yang didefinisikan di dalam fungsi. Parameter digunakan untuk mengambil nilai yang diberikan ketika fungsi dipanggil.\n\nArgument adalah nilai yang diberikan ketika fungsi dipanggil. Argument dapat berupa nilai, variabel, atau ekspresi. Argument yang diberikan harus sesuai dengan jumlah dan tipe parameter yang didefinisikan dalam fungsi.\n \nÂ§ END OF DOC
+sebentar yaa|\n\nÂ§ Code\n\n# Membuat fungsi\ndef kuadrat(x):\n    return x**2\n\n# Memanggil fungsi\nkuadrat(4)\n\nÂ§ Output\n\n> ['16']\n\n \nÂ§ Markdown\n\n## 2. Apa yang dimaksud dengan parameter dan argument?\nParameter adalah variabel yang didefinisikan di dalam fungsi. Parameter digunakan untuk mengambil nilai yang diberikan ketika fungsi dipanggil.\n\nArgument adalah nilai yang diberikan ketika fungsi dipanggil. Argument dapat berupa nilai, variabel, atau ekspresi. Argument yang diberikan harus sesuai dengan jumlah dan tipe parameter yang didefinisikan dalam fungsi.\n \nÂ§ END OF DOC
+nongol|\n\nÂ§ Code\n\nimport pandas as pd\nimport numpy as np\n\ndf = pd.read_csv('data.csv')\ndf\n\nÂ§ Output\n\n> ['    Unnamed: 0  no  nama  usia        kota\n', '0            0   1  Andi    21    Jakarta \n', '1            1   2  Budi    22    Bandung \n', '2            2   3  Caca    23    Semarang\n', '3            3   4  Deni    24    Surabaya\n', '4            4   5  Euis    25    Malang  \n', '5            5   6  Fafa    26    Bali    \n', '6            6   7  Gita    27  Yogyakarta']\n\n \nÂ§ Markdown\n\n# Soal 1\n\nÂ§ Code\n\ndf.drop('Unnamed: 0', axis=1, inplace=True)\ndf\n\nÂ§ Output\n\n> ['   no  nama  usia        kota\n', '0   1  Andi    21    Jakarta \n', '1   2  Budi    22    Bandung \n', '2   3  Caca    23    Semarang\n', '3   4  Deni    24    Surabaya\n', '4   5  Euis    25    Malang  \n', '5   6  Fafa    26    Bali    \n', '6   7  Gita    27  Yogyakarta']\n\n \nÂ§ Markdown\n\n# Soal 2\n\nÂ§ Code\n\ndf.loc[df['usia'] > 24]\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '4   5  Euis    25  Malang  \n', '5   6  Fafa    26  Bali    \n', '6   7  Gita    27  Yogyakarta']\n\n \nÂ§ Markdown\n\n# Soal 3\n\nÂ§ Code\n\ndf.loc[df['kota'] == 'Jakarta ']\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '0   1  Andi    21  Jakarta ']\n\n \nÂ§ Markdown\n\n# Soal 4\n\nÂ§ Code\n\ndf.loc[df['usia'] > 24, 'kota'] = 'Other'\ndf\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '0   1  Andi    21  Jakarta \n', '1   2  Budi    22  Bandung \n', '2   3  Caca    23  Semarang\n', '3   4  Deni    24  Surabaya\n', '4   5  Euis    25    Other\n', '5   6  Fafa    26    Other\n', '6   7  Gita    27    Other']\n\n \nÂ§ Markdown\n\n# Soal 5\n\nÂ§ Code\n\ndf.loc[df['usia'] > 24, 'kota'] = np.nan\ndf\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '0   1  Andi    21  Jakarta \n', '1   2  Budi    22  Bandung \n', '2   3  Caca    23  Semarang\n', '3   4  Deni    24  Surabaya\n', '4   5  Euis    25       NaN\n', '5   6  Fafa    26       NaN\n', '6   7  Gita    27       NaN']\n\n \nÂ§ END OF DOC
+nongol nih|\n\nÂ§ Code\n\nimport pandas as pd\nimport numpy as np\n\ndf = pd.read_csv('data.csv')\ndf\n\nÂ§ Output\n\n> ['    Unnamed: 0  no  nama  usia        kota\n', '0            0   1  Andi    21    Jakarta \n', '1            1   2  Budi    22    Bandung \n', '2            2   3  Caca    23    Semarang\n', '3            3   4  Deni    24    Surabaya\n', '4            4   5  Euis    25    Malang  \n', '5            5   6  Fafa    26    Bali    \n', '6            6   7  Gita    27  Yogyakarta']\n\n \nÂ§ Markdown\n\n# Soal 1\n\nÂ§ Code\n\ndf.drop('Unnamed: 0', axis=1, inplace=True)\ndf\n\nÂ§ Output\n\n> ['   no  nama  usia        kota\n', '0   1  Andi    21    Jakarta \n', '1   2  Budi    22    Bandung \n', '2   3  Caca    23    Semarang\n', '3   4  Deni    24    Surabaya\n', '4   5  Euis    25    Malang  \n', '5   6  Fafa    26    Bali    \n', '6   7  Gita    27  Yogyakarta']\n\n \nÂ§ Markdown\n\n# Soal 2\n\nÂ§ Code\n\ndf.loc[df['usia'] > 24]\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '4   5  Euis    25  Malang  \n', '5   6  Fafa    26  Bali    \n', '6   7  Gita    27  Yogyakarta']\n\n \nÂ§ Markdown\n\n# Soal 3\n\nÂ§ Code\n\ndf.loc[df['kota'] == 'Jakarta ']\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '0   1  Andi    21  Jakarta ']\n\n \nÂ§ Markdown\n\n# Soal 4\n\nÂ§ Code\n\ndf.loc[df['usia'] > 24, 'kota'] = 'Other'\ndf\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '0   1  Andi    21  Jakarta \n', '1   2  Budi    22  Bandung \n', '2   3  Caca    23  Semarang\n', '3   4  Deni    24  Surabaya\n', '4   5  Euis    25    Other\n', '5   6  Fafa    26    Other\n', '6   7  Gita    27    Other']\n\n \nÂ§ Markdown\n\n# Soal 5\n\nÂ§ Code\n\ndf.loc[df['usia'] > 24, 'kota'] = np.nan\ndf\n\nÂ§ Output\n\n> ['   no  nama  usia      kota\n', '0   1  Andi    21  Jakarta \n', '1   2  Budi    22  Bandung \n', '2   3  Caca    23  Semarang\n', '3   4  Deni    24  Surabaya\n', '4   5  Euis    25       NaN\n', '5   6  Fafa    26       NaN\n', '6   7  Gita    27       NaN']\n\n \nÂ§ END OF DOC
+bacot |\n\nBacot is a slang term used in Indonesia, Malaysia, and Singapore to describe someone who is rude or disrespectful. It is derived from the Indonesian word bacot, which means "to talk too much".
+ini naon|\n\nKudu nyebar wae
+ih naon|\n\nKudu nyebar wae
+jadwal emyu|\n\nJadwal EMYU tergantung pada lokasi dan jenis program yang dipilih. Untuk informasi lebih lanjut, silakan hubungi kantor pendaftaran lokal Anda atau kunjungi situs web resmi EMYU.
+minta jadwal emyu|\n\nJadwal EMYU tergantung pada lokasi dan jenis program yang dipilih. Untuk informasi lebih lanjut, silakan hubungi kantor pendaftaran lokal Anda atau kunjungi situs web resmi EMYU.
+hey, minta nomer va|\n\nHalo, saya ingin nomer telepon Anda.
+data dosen minta|\n\nData dosen yang diminta biasanya meliputi informasi seperti nama, nomor identitas, alamat, nomor telepon, dan informasi lain yang relevan.
+minta data dosen|\n\nData dosen yang diminta biasanya meliputi informasi seperti nama, nomor identitas, alamat, nomor telepon, dan informasi lain yang relevan.
+biarin dah datang nya setengah 7|\n\nSetengah 7 adalah 6:30.
+cek nilai ta tahun 20222|\n\nUntuk mengetahui nilai TA tahun 2022, Anda harus menunggu informasi lebih lanjut dari pemerintah. Nilai TA tahun 2022 belum diumumkan.
+pengajuan surat keterangan masih kuliah|\n\nUntuk mengajukan surat keterangan masih kuliah, Anda harus menghubungi bagian akademik di universitas tempat Anda kuliah. Anda harus menyediakan informasi tentang identitas Anda, seperti nama, nomor mahasiswa, dan informasi lain yang diperlukan. Anda juga harus menyertakan salinan bukti pembayaran biaya kuliah. Setelah itu, bagian akademik akan meninjau permintaan Anda dan mengeluarkan surat keterangan jika Anda memenuhi persyaratan.
+buatin kode ini dong|"package com.example.demo.controller\n\nimport com.example.demo.model.User\nimport com.example.demo.service.UserService\nimport org.springframework.beans.factory.annotation.Autowired\nimport\n\nimport java.util.List org.springframework.web.bind.annotation.*\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user)\n        userService.addUser(user)
+tolong buatin kode ini dong|"package com.example.demo.controller\n\nimport com.example.demo.model.User\nimport com.example.demo.service.UserService\nimport org.springframework.beans.factory.annotation.Autowired\nimport\n\nimport java.util.List org.springframework.web.bind.annotation.*\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user)\n        userService.addUser(user)
+mahasiswa keuangan|\n\nMahasiswa keuangan dapat mempelajari berbagai aspek keuangan, termasuk manajemen keuangan, akuntansi, investasi, pajak, dan keuangan internasional. Mereka juga dapat mempelajari bagaimana menganalisis data keuangan dan menggunakan teknik pengambilan keputusan untuk membuat keputusan keuangan yang tepat. Mahasiswa keuangan juga dapat mempelajari bagaimana mengelola risiko keuangan dan mengidentifikasi peluang investasi. Mahasiswa keuangan juga dapat mempelajari bagaimana mengintegrasikan teknologi keuangan dalam bisnis dan mengimplementasikan strategi keuangan yang efektif.
+minta dhs|\n\nmatthewbarnes1 0VF\n\njulien bertrand1 qX3
+hey minta dhs|\n\nmatthewbarnes1 0VF\n\njulien bertrand1 qX3
+how many words of "the" are they?|".e. the number of times the word appears in the text).\n \nThe word ""the"" appears in the text 8 times."
+berapa banyak kata "the" yang muncul?|".e. the number of times the word appears in the text).\n \nThe word ""the"" appears in the text 8 times."
+what is pantyhouse|\n\nThe term pantyhose refers to a type of close-fitting, sheer hosiery that covers the body from the waist to the feet. Pantyhose are typically made of nylon or a blend of nylon and spandex, and are available in a variety of colors and styles. Pantyhose are often worn as an undergarment, but can also be worn as a fashion accessory.
+apa itu pantyhouse|\n\nThe term pantyhose refers to a type of close-fitting, sheer hosiery that covers the body from the waist to the feet. Pantyhose are typically made of nylon or a blend of nylon and spandex, and are available in a variety of colors and styles. Pantyhose are often worn as an undergarment, but can also be worn as a fashion accessory.
 naufal
 naufal
 naufal
