@@ -1121,36 +1121,36 @@ hahaha|\n\nHahaha! That's a great joke!
 The Smurfs|\n\nThe Smurfs are a group of small, blue, fictional creatures created by Belgian cartoonist Peyo in 1958. They live in a village in the forest and are led by Papa Smurf. The Smurfs are known for their positive attitudes, their love of nature, and their ability to work together to solve problems. They are also known for their catchphrase, Smurf it up!
 mau minta ktm|\n\nMaaf, kami tidak menjual tiket kereta api.
 yg bener|\n\nYa, bener.
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
+serius|\n\nSerius is a software development company that specializes in creating custom software solutions for businesses. They offer a wide range of services, including web and mobile application development, software integration, cloud computing, and more. They also provide consulting services to help businesses identify their software needs and develop the best solutions for their needs. Serius has a team of experienced software engineers and developers who are dedicated to creating innovative and reliable software solutions.
+gajelass|a\n\nGajelass is a village in the district of Kebbi, Nigeria. It is located in the Bagudo Local Government Area. The village is home to the Gajelawa people, who are predominantly farmers. The village is known for its traditional festivals, such as the Gajelawa Festival, which is celebrated every year in December. The festival is a celebration of the Gajelawa people's culture and heritage.
+kalo email mahasiswa ada ngga|\n\nTidak, kami tidak menyediakan email mahasiswa.
+kenapa|\n\nKarena komputer membutuhkan sistem operasi untuk menjalankan berbagai aplikasi dan program. Sistem operasi menyediakan antarmuka antara komputer dan pengguna, memungkinkan pengguna untuk mengakses dan mengontrol berbagai fungsi komputer. Sistem operasi juga menyediakan dukungan untuk berbagai perangkat keras dan perangkat lunak, sehingga memungkinkan komputer untuk berinteraksi dengan lingkungan luar.
+yahh|\n\n#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << ""Yahh!"" << endl;\n    return 0;\n}
+input presesnsi tm wbns|\n\nUntuk mengisi presensi TM/WBNS, Anda dapat menggunakan aplikasi presensi yang telah disediakan oleh perusahaan. Anda dapat mengakses aplikasi tersebut melalui intranet perusahaan atau melalui aplikasi mobile yang tersedia.
+input presensi dbht|\n\nAbsensi dbht berhasil diinput.
+input presensi efqu|\n\nPresensi Efqu dapat dilakukan dengan menggunakan aplikasi Efqu Attendance. Aplikasi ini memungkinkan pengguna untuk melakukan presensi dengan menggunakan kode QR atau kartu identitas. Pengguna juga dapat mengatur jadwal presensi, mengatur laporan presensi, dan mengirim pemberitahuan kepada karyawan tentang presensi."
+apa itu nasi goreng|\n\nNasi goreng adalah makanan yang terbuat dari nasi yang digoreng dengan berbagai bumbu dan rempah-rempah. Nasi goreng biasanya disajikan dengan telur, ayam, udang, atau sayuran. Makanan ini populer di seluruh dunia dan merupakan makanan favorit di Indonesia.
+apa itu luhut pandjaitan|\n\nLuhut Binsar Pandjaitan adalah seorang politisi dan pejabat Indonesia yang saat ini menjabat sebagai Menteri Koordinator Bidang Politik, Hukum, dan Keamanan. Ia juga menjabat sebagai Wakil Presiden Joko Widodo sejak tahun 2014. Ia merupakan salah satu tokoh utama dalam pemerintahan Jokowi. Ia juga merupakan salah satu pendiri Partai Demokrat.
+sayang|\n\nAww, I love you too!
+lgi apa sayang|\n\nAku sayang kamu juga, sayang.
+dimna ayank|\n\nHai Ayank, selamat datang! Semoga Anda menikmati waktu Anda di sini.
+iya|\n\nThe most popular tourist attractions in Kanniya are:\n\n1. Kanniya Hot Springs: Located in the Trincomalee district, the Kanniya Hot Springs are a popular tourist attraction. The hot springs are believed to have healing properties and are said to have been used by the ancient kings of Sri Lanka.\n\n2. Kanniya Temple: The Kanniya Temple is an ancient Hindu temple located in the Trincomalee district. The temple is dedicated to the Hindu god Shiva and is believed to have been built in the 8th century.\n\n3. Kanniya Cave: The Kanniya Cave is a natural cave located in the Trincomalee district. The cave is believed to have been used by the ancient kings of Sri Lanka and is said to have been a place of worship.\n\n4. Kanniya Beach: Kanniya Beach is a popular beach located in the Trincomalee district. The beach is known for its white sand and crystal clear waters and is a popular spot for swimming and sunbathing.\n\n5. Kanniya Waterfalls: The Kanniya Waterfalls are a series of waterfalls located in the Trincomalee district. The waterfalls are a popular spot for swimming and are said to have healing properties.
+apa itu bubble sort|\n\nBubble sort adalah algoritma sorting yang mengurutkan data dengan membandingkan setiap pasangan elemen yang berdekatan dan menukar posisi mereka jika diperlukan. Algoritma ini disebut bubble sort karena elemen yang lebih besar "bubble" ke atas seperti gelembung.
+kekurangan dan kelebihan bubble sort|\n\nKekurangan Bubble Sort :\n1. Membutuhkan waktu yang lama untuk menyelesaikan proses sorting.\n2. Membutuhkan banyak operasi perbandingan dan pertukaran.\n3. Tidak efisien untuk data yang besar.\n\nKelebihan Bubble Sort :\n1. Mudah dipahami dan diimplementasikan.\n2. Memiliki kompleksitas waktu yang rendah dalam kasus terbaik.\n3. Memiliki kompleksitas ruang yang rendah.\n4. Dapat digunakan untuk mengurutkan data yang tidak terurut.
+contoh bubble sort|\n\nBubble sort adalah algoritma sorting yang mengurutkan data dengan cara membandingkan setiap pasangan elemen yang berdekatan dan menukar posisi mereka jika diperlukan.\n\nContoh:\n\n// Array yang akan diurutkan\nint arr[] = {5, 1, 4, 2, 8};\n\n// Proses sorting\nfor (int i = 0; i < arr.length-1; i++) \n{\n    for (int j = 0; j < arr.length-i-1; j++) \n    {\n        if (arr[j] > arr[j+1]) \n        {\n            // Tukar posisi\n            int temp = arr[j];\n            arr[j] = arr[j+1];\n            arr[j+1] = temp;\n        }\n    }\n}\n\n// Hasil sorting\n// Array yang telah diurutkan\nint arr[] = {1, 2, 4, 5, 8};
+apa itu insertion sort|\n\nInsertion sort adalah algoritma sorting yang mengurutkan data dengan cara membandingkan satu elemen dengan elemen lainnya dan memindahkannya ke posisi yang tepat. Algoritma ini beroperasi dengan cara membandingkan elemen yang dipilih dengan elemen yang ada di sebelah kiri, dan jika elemen yang dipilih lebih kecil daripada elemen yang ada di sebelah kiri, maka elemen tersebut dipindahkan ke posisi yang tepat. Proses ini berlanjut sampai semua elemen terurut. Insertion sort adalah algoritma sorting yang efisien untuk data yang relatif kecil, tetapi tidak efisien untuk data yang besar.
+kekurangan dan kelebihan insertion sort|\n\nKekurangan :\n1. Insertion sort memiliki kompleksitas waktu yang tinggi, yaitu O(n2).\n2. Insertion sort tidak efisien untuk data yang besar.\n\nKelebihan :\n1. Insertion sort sangat efisien untuk data yang kecil.\n2. Insertion sort memiliki kompleksitas waktu yang rendah untuk data yang sudah hampir terurut.\n3. Insertion sort mudah dipahami dan diimplementasikan.
+apa itu musik phonk|\n\nMusik phonk adalah genre musik hip-hop yang berasal dari Houston, Texas. Genre ini dicirikan oleh beat yang berbasis sample dan lirik yang mencerminkan kehidupan di jalanan. Musik phonk biasanya menggunakan sample dari musik R&B dan soul tua, serta sample dari musik rock dan pop. Genre ini juga dikenal dengan nama "screwed and chopped" karena teknik mengurangi kecepatan dan mengubah pitch sample untuk menciptakan efek yang unik.
+apa itu selection sort|\n\nSelection sort adalah algoritma sorting yang mengurutkan data dengan memilih nilai terkecil dari data yang belum diurutkan dan memindahkannya ke posisi yang benar. Algoritma ini berulang hingga semua data terurut.
+kelebihan dan kekurangan selection sort|\n\nKelebihan :\n1. Proses sorting yang cepat jika data yang diurutkan hanya memiliki sedikit item.\n2. Mudah untuk diimplementasikan.\n3. Memiliki kompleksitas waktu yang konstan.\n\nKekurangan :\n1. Memiliki kompleksitas waktu yang tinggi jika data yang diurutkan memiliki banyak item.\n2. Membutuhkan banyak ruang memori untuk menyimpan data yang diurutkan.\n3. Tidak efisien jika data yang diurutkan memiliki banyak item.
+apa itu quick sort|\n\nQuick sort adalah algoritma pengurutan yang menggunakan teknik pembagian dan penaklukan (divide and conquer). Algoritma ini memilih satu elemen sebagai pivot dan membandingkan semua elemen lainnya terhadap pivot. Elemen yang lebih kecil dari pivot dipindahkan ke sebelah kiri pivot, dan elemen yang lebih besar dari pivot dipindahkan ke sebelah kanan pivot. Proses ini diulangi untuk bagian-bagian yang terpisah sampai semua elemen terurut. Quick sort merupakan salah satu algoritma sorting yang paling efisien, dengan rata-rata kompleksitas waktu O(n log n).
+kelebihan dan kekurangan quick sort|\n\nKelebihan :\n1. Quick Sort memiliki kompleksitas waktu yang lebih baik dibandingkan dengan algoritma sorting lainnya.\n2. Quick Sort memiliki ruang yang lebih efisien dibandingkan dengan algoritma sorting lainnya.\n3. Quick Sort memiliki kompleksitas waktu yang konstan, yaitu O (n log n).\n4. Quick Sort memiliki kompleksitas ruang yang lebih baik dibandingkan dengan algoritma sorting lainnya.\n\nKekurangan :\n1. Quick Sort memiliki masalah stabilitas.\n2. Quick Sort memiliki masalah efisiensi jika data yang diurutkan sudah terurut.\n3. Quick Sort memiliki masalah efisiensi jika data yang diurutkan memiliki banyak nilai yang sama.\n4. Quick Sort memiliki masalah efisiensi jika data yang diurutkan memiliki banyak nilai yang sama.
+whatsauth codegen trial the connection listing|\n\nThe connection listing is a feature that allows you to view all of the active connections to your WhatsApp account. It displays the IP address, device type, and time of connection for each active connection. This feature is useful for monitoring suspicious activity on your account.
+whatsauth codegen trial the connection listing|\n\nThe connection listing is a feature that allows you to view all of the active connections to your WhatsApp account. It displays the IP address, device type, and time of connection for each active connection. This feature is useful for monitoring suspicious activity on your account.
+whatsauth codegen trial the connection listing|\n\nThe connection listing is a feature that allows you to view all of the active connections to your WhatsApp account. It displays the IP address, device type, and time of connection for each active connection. This feature is useful for monitoring suspicious activity on your account.
+whatsauth codegen trial the connection listing|\n\nThe connection listing is a feature that allows you to view all of the active connections to your WhatsApp account. It displays the IP address, device type, and time of connection for each active connection. This feature is useful for monitoring suspicious activity on your account.
+pengertian quick sort|\n\nQuick sort adalah algoritma pengurutan yang menggunakan teknik pembagian dan penaklukan (divide and conquer). Algoritma ini memilih satu elemen sebagai pivot dan membandingkan semua elemen lainnya terhadap pivot. Elemen yang lebih kecil dari pivot dipindahkan ke bagian kiri pivot, dan elemen yang lebih besar dari pivot dipindahkan ke bagian kanan pivot. Proses ini diulangi untuk bagian kiri dan kanan pivot sampai semua elemen terurut. Quick sort merupakan salah satu algoritma sorting yang paling efisien, dengan kompleksitas waktu O(n log n).
+kelebihan dan kekurangan dari quick sort|\n\nKelebihan :\n1. Quick Sort memiliki kompleksitas waktu yang lebih baik dibandingkan dengan algoritma sorting lainnya.\n2. Quick Sort memiliki ruang memori yang lebih kecil dibandingkan dengan algoritma sorting lainnya.\n3. Quick Sort memiliki kinerja yang lebih baik dibandingkan dengan algoritma sorting lainnya.\n4. Quick Sort dapat digunakan untuk mengurutkan data yang tidak terstruktur.\n\nKekurangan :\n1. Quick Sort memiliki kompleksitas waktu yang lebih buruk dibandingkan dengan algoritma sorting lainnya jika data yang akan diurutkan sudah terurut.\n2. Quick Sort memiliki kompleksitas waktu yang lebih buruk dibandingkan dengan algoritma sorting lainnya jika data yang akan diurutkan memiliki banyak nilai yang sama.\n3. Quick Sort memiliki kompleksitas waktu yang lebih buruk dibandingkan dengan algoritma sorting lainnya jika data yang akan diurutkan memiliki banyak nilai yang sama.\n4. Quick Sort memiliki kompleksitas waktu yang lebih buruk dibandingkan dengan algoritma sorting lainnya jika data yang akan diurutkan memiliki banyak nilai yang sama.
 juwita
 juwita
 juwita
