@@ -13179,36 +13179,36 @@ please describe the envisaged backstopping by the home office for the team worki
 please describe the envisaged backstopping by the home office for the team working locally on technical and administrative questions that could arise during project implementation as well as for the controlling and monitoring of the work translate to indonesia|Kantor Pusat akan memberikan dukungan teknis dan administratif kepada tim yang bekerja secara lokal untuk menjawab pertanyaan yang mungkin muncul selama pelaksanaan proyek, serta untuk mengontrol dan memonitor pekerjaan.
 Bagaimana cara mengintegrasikan pengujian unit ke dalam siklus pengembangan Agile?|Pengujian unit dapat diintegrasikan ke dalam siklus pengembangan Agile dengan menerapkan praktik seperti test-driven development, pengujian kontinu, dan retrospektif untuk terus meningkatkan proses pengujian.  
 inpuy presensi tm ttxw|Input presensi TM TTXW adalah proses memasukkan data kehadiran karyawan pada hari tertentu. Data yang dimasukkan meliputi nama karyawan, jam masuk, jam pulang, dan jumlah jam kerja. Data ini digunakan untuk menghitung gaji karyawan dan mengontrol kehadiran karyawan.
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
+Apakah metode ""OPTIONS"" dapat mengembalikan konten?|Tidak, metode ""OPTIONS"" umumnya tidak mengembalikan konten.
+Apa peran pengujian unit dalam proses pengembangan berbasis CI/CD?|Pengujian unit memainkan peran kunci dalam proses pengembangan berbasis CI/CD dengan memastikan bahwa setiap perubahan kode diuji secara otomatis dan cepat sebelum diterapkan ke lingkungan produksi.
+Bagaimana cara memastikan bahwa validasi form tidak mengganggu pengalaman pengguna atau kinerja aplikasi secara keseluruhan?|Validasi form tidak boleh mengganggu pengalaman pengguna atau kinerja aplikasi secara keseluruhan, sehingga perlu dioptimalkan dengan baik.
+login sip|Untuk login ke SIP, Anda harus memiliki akun SIP yang dibuat oleh administrator jaringan Anda. Setelah Anda memiliki akun, Anda dapat menggunakan aplikasi SIP yang disediakan oleh administrator jaringan Anda untuk mengakses SIP. Anda harus memasukkan nama pengguna dan kata sandi Anda untuk masuk ke aplikasi SIP. Setelah Anda masuk, Anda dapat mengakses layanan SIP yang tersedia.
+input absensi lnui|Untuk mengakses sistem absensi LNUI, Anda harus memiliki akun yang dibuat oleh pihak LNUI. Setelah memiliki akun, Anda dapat mengakses sistem absensi LNUI melalui situs web resmi LNUI. Di halaman utama, Anda akan melihat tombol ""Absensi"" di bagian atas halaman. Klik tombol ini untuk masuk ke halaman absensi. Di halaman absensi, Anda dapat melihat daftar kelas yang tersedia dan mengisi absensi untuk setiap kelas.
+input absensi lnui|Untuk mengakses sistem absensi LNUI, Anda harus memiliki akun yang dibuat oleh pihak LNUI. Setelah memiliki akun, Anda dapat mengakses sistem absensi LNUI melalui situs web resmi LNUI. Di halaman utama, Anda akan melihat tombol ""Absensi"" di bagian atas halaman. Klik tombol ini untuk masuk ke halaman absensi. Di halaman absensi, Anda dapat melihat daftar kelas yang tersedia dan mengisi absensi untuk setiap kelas.
+input presensi jeoc|Input presensi jeoc dapat dilakukan dengan menggunakan aplikasi berbasis web atau aplikasi mobile. Aplikasi ini memungkinkan pengguna untuk memasukkan data presensi secara online, memeriksa status presensi, dan mengirim laporan presensi. Aplikasi ini juga memungkinkan pengguna untuk mengatur jadwal presensi, mengatur keterlambatan, dan mengatur pengingat presensi.
+Apakah alert Bootstrap dapat menampilkan teks dengan format teks sub/super-script?|Ya, Anda dapat menggunakan tag HTML seperti <sub> atau <sup> di dalam pesan teks alert untuk menambahkan format teks sub/super-script.
+Apakah ada standar atau pedoman yang harus diikuti dalam merancang validasi form?|Standar atau pedoman seperti WCAG (Web Content Accessibility Guidelines) dapat digunakan sebagai referensi dalam merancang validasi form yang ramah pengguna dan dapat diakses.
+Apakah GitHub Pages mendukung penggunaan SASS?|Ya, GitHub Pages mendukung penggunaan SASS sebagai preprocessor CSS untuk membuat kode CSS yang lebih terstruktur dan mudah dikelola.
+Kapan kita harus menggunakan metode request HTTP ""DELETE""?|Metode request HTTP ""DELETE"" digunakan ketika klien ingin menghapus sumber daya tertentu dari server.
+apa itu gjqa|GJQA adalah singkatan dari Gaji, Jam Kerja, QA (Quality Assurance) dan Absensi. GJQA adalah sistem yang digunakan untuk mencatat dan mengawasi gaji, jam kerja, kualitas dan absensi karyawan. Sistem ini memungkinkan perusahaan untuk mengawasi dan mengontrol biaya tenaga kerja, meningkatkan produktivitas dan meningkatkan kualitas produk dan layanan.
+Apakah GitHub Pages mendukung penggunaan SVG?|Ya, GitHub Pages mendukung penggunaan SVG (Scalable Vector Graphics) untuk menampilkan grafik vektor di situs web Anda.
+sistem absensi pabrik|Input absensi pabrik dapat dilakukan dengan menggunakan berbagai macam teknologi, seperti sistem absensi berbasis kartu, sistem absensi berbasis sidik jari, sistem absensi berbasis wajah, sistem absensi berbasis QR Code, dan sistem absensi berbasis aplikasi. Teknologi ini memungkinkan pengelola untuk mengontrol dan mencatat kehadiran peserta dengan mudah dan cepat.
+input absensi  wadv|Input absensi WADV dapat dilakukan dengan menggunakan aplikasi absensi yang telah disediakan oleh perusahaan. Aplikasi ini dapat diakses melalui komputer atau smartphone. Pengguna dapat memasukkan data absensi seperti jam masuk, jam pulang, jenis absensi, dan lain-lain. Setelah data absensi dimasukkan, maka data tersebut akan dikirimkan ke server dan dapat dilihat oleh pihak manajemen.
+cek akun sip|Untuk memeriksa akun SIP, Anda harus mengakses server SIP Anda dan masuk ke akun Anda. Setelah masuk, Anda dapat melihat informasi akun SIP Anda, termasuk nomor telepon, alamat IP, dan informasi lainnya. Anda juga dapat mengubah pengaturan akun SIP Anda, seperti mengubah nama pengguna, kata sandi, dan pengaturan lainnya.
+lupa akun sip|Jika Anda lupa akun SIP, Anda dapat menghubungi penyedia layanan SIP Anda untuk meminta bantuan. Mereka dapat membantu Anda mengidentifikasi akun Anda dan memberi Anda informasi yang diperlukan untuk mengaksesnya. Jika Anda tidak dapat menghubungi penyedia layanan Anda, Anda dapat mencoba mencari informasi tentang akun Anda di internet. Anda juga dapat mencoba menggunakan alat pencarian seperti Google untuk mencari informasi tentang akun Anda.
+input presensi zwqu|Input presensi zwqu dapat dilakukan dengan menggunakan aplikasi zwqu yang tersedia di Google Play Store. Aplikasi ini memungkinkan pengguna untuk memasukkan data presensi secara online, memeriksa jadwal presensi, dan melacak kehadiran. Pengguna juga dapat mengatur pengingat untuk mengingatkan mereka tentang presensi.
+input presensi pllk|Input presensi PLLK dapat dilakukan dengan menggunakan berbagai macam alat bantu, seperti aplikasi presensi, sistem absensi, mesin absensi, dan lain sebagainya. Alat bantu ini dapat membantu PLLK dalam mencatat dan mengelola data presensi karyawan. Selain itu, PLLK juga dapat menggunakan metode manual untuk mencatat presensi karyawan, seperti menggunakan kartu presensi, daftar presensi, dan lain sebagainya.
+input presensi vnav|Untuk memasukkan presensi di VNAV, Anda harus masuk ke akun VNAV Anda dan klik tombol ""Presensi"" di bagian atas halaman. Anda akan dibawa ke halaman presensi, di mana Anda dapat memilih jenis presensi yang ingin Anda masukkan. Setelah memilih jenis presensi, Anda dapat memasukkan tanggal, jam masuk, jam pulang, dan keterangan lainnya yang diperlukan. Setelah selesai, klik tombol ""Simpan"" untuk menyimpan presensi Anda.
+input presensi piik|Input presensi piik adalah proses memasukkan data presensi karyawan ke dalam sistem piik. Data presensi yang dimasukkan meliputi waktu masuk dan waktu pulang karyawan, serta jenis presensi yang dilakukan. Data presensi ini akan digunakan untuk menghitung jumlah jam kerja karyawan dan menghitung gaji yang diterima.
+input presensi pilkades|Input presensi pilkades dapat dilakukan dengan menggunakan berbagai macam cara, seperti menggunakan sistem absensi elektronik, menggunakan kartu absensi, atau menggunakan aplikasi presensi. Pada sistem absensi elektronik, para peserta pilkades dapat menggunakan kartu identitas atau kartu absensi untuk memasukkan data presensi. Pada kartu absensi, para peserta pilkades dapat menuliskan nama, nomor identitas, dan tanggal presensi. Sedangkan pada aplikasi presensi, para peserta pilkades dapat menggunakan smartphone atau komputer untuk memasukkan data presensi."
+Apakah normalisasi data mempengaruhi interpretasi koefisien dalam regresi linear?|Ya, normalisasi data dapat mempengaruhi interpretasi koefisien dalam regresi linear karena normalisasi dapat membuat nilai-nilai fitur berada dalam rentang yang seragam, sehingga koefisien memiliki interpretasi yang lebih langsung.
+inout absensi mode tm avwu|Untuk mengakses mode absensi TM AVWU, Anda harus memiliki akun TM AVWU. Setelah Anda memiliki akun, Anda dapat mengakses mode absensi dengan mengikuti langkah-langkah berikut:\n\n1. Masuk ke situs web TM AVWU.\n\n2. Klik tombol ""Masuk"" di bagian atas halaman.\n\n3. Masukkan nama pengguna dan kata sandi Anda.\n\n4. Klik tombol ""Masuk"" untuk masuk ke akun Anda.\n\n5. Setelah masuk, klik pada tab ""Absensi"" di bagian atas halaman.\n\n6. Anda akan melihat berbagai opsi untuk mengatur absensi Anda.\n\n7. Pilih opsi yang Anda inginkan dan ikuti petunjuk yang diberikan untuk mengatur absensi Anda.\n\n8. Setelah selesai, klik tombol ""Simpan"" untuk menyimpan perubahan.
+input anbsensi tm krge|Anbsensi tm krge adalah teknologi yang memungkinkan pengguna untuk mengakses informasi melalui sentuhan jari. Teknologi ini menggunakan sensor yang dapat mendeteksi sentuhan jari dan mengirimkan informasi ke sistem yang dikonfigurasi. Teknologi ini dapat digunakan untuk berbagai aplikasi, seperti pembayaran, pengenalan wajah, dan lainnya.
+input absensu tm frvy|Absensu tm frvy adalah sistem absensi berbasis web yang memungkinkan pengguna untuk mencatat dan mengelola data absensi secara online. Sistem ini menyediakan berbagai fitur seperti pengelolaan data karyawan, pengelolaan data absensi, laporan absensi, dan lain-lain.
+kemana iii|Ia mungkin pergi ke toko, restoran, bioskop, atau tempat lain yang ia sukai.
+kenapa gak bisa login sip|Mungkin ada beberapa alasan mengapa Anda tidak dapat masuk ke SIP. Pertama, pastikan bahwa Anda memasukkan informasi login yang benar. Jika Anda masih tidak dapat masuk, coba cek apakah Anda memiliki koneksi internet yang stabil. Jika masih tidak berhasil, coba hubungi administrator sistem untuk memeriksa apakah ada masalah dengan server.
+input absensi mode tm tsei|absensi mode tm tsei adalah mode yang digunakan untuk mengirimkan pesan teks melalui telepon seluler. Mode ini memungkinkan pengguna untuk mengirimkan pesan teks kepada orang lain dengan menggunakan nomor telepon mereka. Mode ini juga dapat digunakan untuk mengirimkan pesan teks ke grup orang yang berbeda.
+minta ktm|beli sendiri aja sono
 danidalll
 danidalll
 danidalll
