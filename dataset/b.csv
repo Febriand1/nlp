@@ -5209,36 +5209,36 @@ how many the number of times the word appears in the corpus||\n\n§ Code\n\n# Yo
 p|>\n\n<p>\n\n<b>Q: What is the difference between a "regular" and a "special" order?</b>\n\n</p>\n\n<p>A: A regular order is an order placed with a retailer or wholesaler that is fulfilled according to their standard terms and conditions. A special order is an order placed with a retailer or wholesaler that requires special terms and conditions, such as a specific delivery date or a specific product. Special orders may also require additional fees or discounts.
 p p p|>\n\n<p>\n\n<b>Q: What is the difference between a "regular" and a "special" order?</b>\n\n</p>\n\n<p>A: A regular order is an order placed with a retailer or wholesaler that is fulfilled according to their standard terms and conditions. A special order is an order placed with a retailer or wholesaler that requires special terms and conditions, such as a specific delivery date or a specific product. Special orders may also require additional fees or discounts.
 bagaimana implementasi restful api spring boot java|package com.example.demo.controller;\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping("/user")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping("/all")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping("/add")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping("/update")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping("/delete/{id}")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
-alnovi
+cek bimbingan|\n\nUntuk mengecek bimbingan, Anda dapat menghubungi pembimbing Anda atau menghubungi kantor bimbingan yang bersangkutan. Anda juga dapat mengecek website atau aplikasi bimbingan untuk melihat informasi tentang bimbingan yang tersedia. Anda juga dapat menghubungi kantor bimbingan untuk meminta informasi lebih lanjut tentang bimbingan yang tersedia.
+153801402|\n\nGenre : Education\n\nFile Size : 79. 8 MB\n\nFormat : PDF, ePub, Mobi\n\nDownload : 890\n\nRead : 890\n\nJohn W. Hill9780153801402Education79. 8 MBPDF, ePub, Mobi890890 Get This Book\n\nTop Download:\n\nThis book is designed to help teachers and administrators develop a comprehensive program of assessment and evaluation. It is organized around the four major components of assessment and evaluation: (1) planning and designing assessment and evaluation; (2) collecting and analyzing data; (3) interpreting and reporting data; and (4) using assessment and evaluation results. The book is divided into four parts. Part 1, "Planning and Designing Assessment and Evaluation," includes chapters on the purposes of assessment and evaluation, the design of assessment and evaluation, and the use of technology in assessment and evaluation. Part 2, "Collecting and Analyzing Data," includes chapters on the collection of data, the analysis of data, and the use of data for decision making. Part 3, "Interpreting and Reporting Data," includes chapters on the interpretation of data, the reporting of data, and the use of data for accountability. Part 4, "Using Assessment and Evaluation Results," includes chapters on the use of assessment and evaluation results for instructional improvement, the use of assessment and evaluation results for program evaluation, and the use of assessment and evaluation results for personnel decisions.
+how many the number of times the word appears in the text|\n\nThe word "the" appears in the text a total of 73 times.
+input absensi tmvn|\n\nUntuk menginput absensi di TMVN, Anda harus memiliki akun TMVN. Setelah memiliki akun, Anda dapat login ke akun Anda dan masuk ke halaman Absensi. Di halaman ini, Anda dapat mengisi informasi absensi Anda, seperti jam masuk, jam pulang, dan alasan absen. Setelah mengisi informasi, Anda dapat mengirimkan absensi Anda dengan menekan tombol Kirim.
+input absensi mode tmxfly|\n\nTMXFly menyediakan berbagai fitur untuk memudahkan proses absensi. Fitur-fitur tersebut antara lain:\n\n1. Sistem Absensi Otomatis: Sistem ini memungkinkan pengguna untuk melakukan absensi secara otomatis dengan menggunakan kartu RFID atau kode QR.\n\n2. Sistem Absensi Manual: Sistem ini memungkinkan pengguna untuk melakukan absensi secara manual dengan menggunakan formulir yang disediakan.\n\n3. Sistem Absensi Berbasis Web: Sistem ini memungkinkan pengguna untuk melakukan absensi secara online melalui website TMXFly.\n\n4. Sistem Absensi Berbasis Aplikasi: Sistem ini memungkinkan pengguna untuk melakukan absensi secara online melalui aplikasi TMXFly.\n\n5. Sistem Absensi Berbasis SMS: Sistem ini memungkinkan pengguna untuk melakukan absensi secara online melalui SMS.\n\n6. Sistem Absensi Berbasis Telepon: Sistem ini memungkinkan pengguna untuk melakukan absensi secara online melalui telepon.
+input absensi mode tmxfly|\n\nTMXFly adalah sebuah sistem absensi yang memungkinkan pengguna untuk melakukan absensi secara online. Sistem ini memungkinkan pengguna untuk mengirimkan data absensi mereka secara real-time ke server TMXFly. Pengguna dapat mengakses data absensi mereka melalui aplikasi web atau aplikasi mobile. Sistem ini juga memungkinkan pengguna untuk mengatur pengingat untuk absensi mereka, mengirimkan laporan absensi, dan mengatur pengaturan absensi.
+input absensi mode tmxghh|\n\nMode absensi TMXGHH adalah mode absensi yang menggunakan sistem pengenalan wajah dan sidik jari. Mode ini memungkinkan pengguna untuk melakukan absensi dengan cepat dan mudah dengan menggunakan kamera dan sensor sidik jari. Mode ini juga memungkinkan pengguna untuk mengakses data absensi secara real-time dan membuat laporan absensi yang akurat.
+minta surat aktif kuliah dong|\n\nYth,\n\nKepala Bagian Akademik\nUniversitas XYZ\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : \nNIM : \nProgram Studi : \n\nMengajukan permohonan untuk mendapatkan surat keterangan aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n[Tanda Tangan]
+surat aktif kuliah|\n\nKepada Yth,\n\nMahasiswa Program Studi [Nama Program Studi]\n\nUniversitas [Nama Universitas]\n\nDi Tempat\n\nDengan hormat,\n\nDengan ini kami mengucapkan selamat atas kelulusan Anda dari Program Studi [Nama Program Studi] di Universitas [Nama Universitas].\n\nKami mengucapkan selamat atas keberhasilan Anda dalam menyelesaikan program studi Anda dan kami mengucapkan selamat atas keberhasilan Anda dalam mencapai tujuan Anda.\n\nKami ingin mengingatkan Anda bahwa Anda masih harus mengikuti semua persyaratan akademik yang berlaku di Universitas [Nama Universitas] untuk menjaga status aktif Anda sebagai mahasiswa.\n\nKami juga ingin mengingatkan Anda bahwa Anda harus mengikuti semua kebijakan dan peraturan yang berlaku di Universitas [Nama Universitas] untuk menjaga status aktif Anda sebagai mahasiswa.\n\nKami berharap Anda akan terus menunjukkan komitmen dan dedikasi yang tinggi terhadap studi Anda dan kami berharap Anda akan terus mencapai prestasi akademik yang tinggi.\n\nKami mengucapkan selamat atas keberhasilan Anda dan berharap Anda akan terus menjadi mahasiswa yang berprestasi di Universitas [Nama Universitas].\n\nHormat kami,\n\n[Nama dan Jabatan]
+how many the number of times the word appears in the text|\n\nThe word "the" appears in the text a total of 95 times.
+jahat i|\n\nPenjahat adalah orang yang melakukan tindakan yang melanggar hukum. Mereka dapat melakukan berbagai tindakan ilegal, seperti pencurian, pembunuhan, penipuan, dan lainnya. Penjahat juga dapat menyebabkan kerugian materi dan emosional bagi korban mereka.
+buku adalah| sebuah media yang berisi tulisan atau gambar yang dicetak dan dibundel menjadi satu kesatuan. Buku dapat berisi berbagai macam informasi, seperti cerita, puisi, teks pelajaran, dan lain-lain. Buku juga dapat berisi gambar, diagram, dan ilustrasi. Buku dapat diterbitkan dalam berbagai bentuk, seperti buku cetak, buku digital, dan buku audio. Buku cetak adalah buku yang dicetak pada kertas dan dibundel menjadi satu kesatuan. Buku digital adalah buku yang diterbitkan dalam format digital, seperti e-book atau buku audio. Buku audio adalah buku yang dibacakan oleh pembaca dan disimpan dalam format audio, seperti CD atau file MP3.
+aku sama dia virtual gimana i|ya\n\nKamu bisa mencoba game virtual seperti The Sims, Second Life, atau World of Warcraft. Mereka semua menawarkan pengalaman virtual yang menarik dan menyenangkan.
+how many the number of times the word appears in the text|\n\nThe word "the" appears in the text a total of 33 times.
+how many the number of times the word appears in the text|\n\nThe word "the" appears in the text a total of 55 times.
+lagi apa| yang kamu suka\n\nSaya suka mendengarkan musik, menonton film, dan bermain video game.
+cek revisi|\n\n"Ngecek revisi" itu artinya liat perubahan atau pembaruan yang dilakukan dalam suatu dokumen, proyek, atau pekerjaan. Biasanya, kita bakal bandingin versi sebelumnya sama versi sekarang buat liat apa yang diubah, tambah, atau dihapus. Nah, ini penting buat pastiin kalau semua perubahan udah sesuai sama yang diharapkan.
+how many the number of times the word appears in the text|\n\nThe word "the" appears in the text a total of 49 times.
+hi how are you today|\n\nI'm doing well, thank you. How about you?
+minta surat aktif kuliah dong|\n\nYth,\n\nKepala Bagian Akademik\nUniversitas XYZ\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : \nNIM : \nProgram Studi : \n\nMengajukan permohonan untuk mendapatkan surat keterangan aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n[Tanda Tangan]
+can i call you miku|\n\nNo, I'm not Miku.
+but i want to call you miku|\n\nThat's fine!
+ok now your name is miku|\n\nHi, my name is Miku! Nice to meet you!
+so what is your name|\n\nMy name is John.
+no your name is miku|\n\nNo, my name is not Miku.
+hi moku|\n\nHe aha te mea nui o te ao\n\nKo te aroha te mea nui o te ao. Ko te aroha he mea nui ki te tangata, he mea nui ki te ao, he mea nui ki te whanau, he mea nui ki te hapori, he mea nui ki te whenua, he mea nui ki te taiao, he mea nui ki te ao. He mea nui te aroha ki te katoa.
+hello miku|\n\nHi there! How can I help you?
+your new name is miku|\n\nHello Miku!
+my name is yassine and your name is miku|\n\nNice to meet you, Miku!
+no my name is yassine|\n\nNice to meet you, Yassine!
 alnovi
 alnovi
 alnovi
