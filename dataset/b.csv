@@ -3239,36 +3239,36 @@ input absensi hm hgdr|\n\nInput absensi HM HGDR dapat dilakukan dengan menggunak
 input absens tm hgdr|\n\nUntuk menginput absensi TM/HGDR, Anda dapat menggunakan aplikasi absensi yang disediakan oleh perusahaan. Aplikasi ini biasanya dapat diakses melalui intranet atau portal web perusahaan. Anda juga dapat menggunakan aplikasi absensi yang dapat diunduh dari toko aplikasi. Aplikasi ini biasanya memiliki fitur untuk mencatat jam masuk dan jam pulang, serta menghitung jumlah jam kerja.	
 minta surat keterangan aktif kuliah|\n\nYang bertanda tangan di bawah ini,\n\nKepala Bagian Akademik Fakultas Ilmu Komputer Universitas XYZ,\n\nMenerangkan bahwa :\n\nNama : ________________\nNIM : ________________\n\nAdalah mahasiswa Fakultas Ilmu Komputer Universitas XYZ yang sedang aktif mengikuti perkuliahan pada semester ___________ tahun ajaran ___________.\n\nDemikian surat keterangan ini dibuat dengan sebenarnya dan dapat dipergunakan sebagaimana mestinya.\n\nHormat kami,\n\nKepala Bagian Akademik\nFakultas Ilmu Komputer\nUniversitas XYZ	
 bu saya izin minta generate link ke i ya bu|\n\nUntuk membuat link ke iya, Anda dapat menggunakan layanan pembuatan tautan seperti Bitly atau TinyURL. Anda dapat mengunjungi salah satu situs web tersebut, memasukkan URL yang ingin Anda tautkan, dan mengklik tombol ""Membuat Tautan"". Setelah itu, Anda akan mendapatkan tautan yang dapat Anda gunakan untuk menautkan ke iya.	
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
+input absensi xpac|\n\nXpac tidak memiliki fitur absensi. Xpac adalah sebuah perusahaan yang bergerak di bidang teknologi informasi dan komunikasi. Perusahaan ini menyediakan layanan berbasis cloud, layanan jaringan, layanan keamanan, layanan konsultasi, dan layanan lainnya.
+ganti lupa kata sandi sipulbiacid|\n\nUntuk mengganti lupa kata sandi Sipulbiacid, Anda harus mengikuti langkah-langkah berikut:\n\n1. Kunjungi halaman masuk Sipulbiacid.\n2. Klik tombol ""Lupa Kata Sandi?"" di bawah kotak masuk.\n3. Masukkan alamat email Anda yang terkait dengan akun Sipulbiacid Anda.\n4. Klik tombol ""Kirim Tautan Reset Kata Sandi"".\n5. Periksa email Anda untuk menemukan tautan reset kata sandi.\n6. Klik tautan reset kata sandi untuk membuka halaman reset kata sandi.\n7. Masukkan kata sandi baru Anda dan konfirmasikan.\n8. Klik tombol ""Simpan Kata Sandi"".\n9. Anda sekarang dapat masuk ke akun Sipulbiacid Anda dengan kata sandi baru Anda.
+kata sandi lama sip ulbi lupacara mengirim reset sandi ke email Anda|\n\nUntuk mereset kata sandi Anda, buka tautan berikut di browser Anda: https://ulbi.ac.id/reset-password. Anda akan diminta untuk memasukkan alamat email Anda yang terdaftar di ULBI. Setelah itu, Anda akan menerima email dengan tautan untuk mereset kata sandi Anda.	
+tidak bisa membuka link tersebut, karena link tersebut sudah tidak aktif|\n\nAnda dapat mencoba mencari informasi yang sama di mesin pencari seperti Google atau mencari di situs web lain yang menyediakan informasi yang sama.	
+tidak menemukan data|\n\nMaaf, tidak ditemukan data yang Anda cari. Silakan coba lagi dengan kata kunci yang berbeda.	
+tidak bisa mereset sandi lama sipulbi|\n\nMaaf, Anda tidak dapat mereset sandi lama Sipulbi. Anda harus menghubungi tim dukungan Sipulbi untuk meminta bantuan.	
+pembayaran spp|\n\nPembayaran spp biasanya dilakukan dengan cara transfer melalui bank atau ATM. Pembayaran juga dapat dilakukan secara tunai di kas sekolah. Beberapa sekolah juga menyediakan fasilitas pembayaran online melalui aplikasi atau website sekolah.	
+bayar spp kemana|\n\nPembayaran SPP biasanya ditujukan ke rekening sekolah atau lembaga pendidikan yang bersangkutan.	
+virtual account ulbi|\n\nVirtual accounts are online bank accounts that are used to store and manage money. They are typically used for online payments, such as for online shopping, bill payments, and money transfers. Virtual accounts are also known as e-wallets, digital wallets, or online bank accounts. They are usually linked to a user’s existing bank account, allowing them to transfer money between the two accounts.	
+cek spp|\n	
+bayar spp|\n\nTergantung jenis sekolah yang Anda ikuti. Biasanya, biaya SPP ditentukan oleh sekolah dan berbeda-beda di setiap sekolah. Anda harus menghubungi sekolah Anda untuk mengetahui berapa biaya SPP yang harus Anda bayar.	
+minta nomor induk mahasiswa|\n\nMaaf, kami tidak dapat memberikan nomor induk mahasiswa. Anda harus menghubungi kampus tempat mahasiswa tersebut mendaftar untuk mendapatkan informasi tersebut.	
+cek jumlah bimbingan|\n	
+transaksi database adalah|\n\nTransaksi database adalah proses yang mengatur akses dan manipulasi data dalam suatu basis data. Transaksi memastikan bahwa data yang dimodifikasi dalam suatu basis data tetap konsisten dan aman. Transaksi juga memastikan bahwa jika terjadi masalah, data dapat dikembalikan ke kondisi sebelumnya. Transaksi database menggunakan teknik seperti locking, commit, dan rollback untuk mencapai tujuan ini.	
+pengertian dan contoh syntax rollback|\n\nRollback adalah proses mengembalikan data ke versi sebelumnya. Ini berguna ketika Anda melakukan perubahan yang salah atau tidak diinginkan pada data. Contoh sintaks rollback adalah:\n\nROLLBACK TRANSACTION;\n\nIni akan mengembalikan semua perubahan yang telah Anda lakukan sejak transaksi dimulai. Anda juga dapat menggunakan sintaks berikut untuk mengembalikan perubahan yang telah Anda lakukan sejak transaksi dimulai hingga titik tertentu:\n\nROLLBACK TRANSACTION TO SAVEPOINT nama_savepoint;	
+pengertian dan contoh syntax commit|\n\nCommit adalah proses menyimpan perubahan yang telah dilakukan pada file atau database. Ini memungkinkan Anda untuk mengambil snapshot dari perubahan yang telah Anda lakukan dan memungkinkan Anda untuk mengembalikan ke versi sebelumnya jika diperlukan.\n\nContoh syntax commit:\n\ngit commit -m ""Pesan commit""\n\nIni akan menyimpan semua perubahan yang telah Anda lakukan dan menambahkan pesan commit yang Anda masukkan.	
+pengertian dan contoh syntax commit di sql|\n\nCommit adalah perintah SQL yang digunakan untuk menyimpan transaksi yang telah dilakukan di database. Ini berarti bahwa setelah Anda menggunakan perintah commit, semua perubahan yang telah Anda lakukan pada database akan disimpan dan tidak dapat dibatalkan.\n\nContoh syntax commit di SQL:\n\nCOMMIT	
+"package com.example.demo.controller;|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n return userService.getAllUsers();\n}\n\n @PostMapping(""/add"")\n public void addUser(@RequestBody User user){\n userService.addUser(user);\n }\n\n @PutMapping(""/update"")\n public void updateUser(@RequestBody User user){\n userService.updateUser(user);\n }\n\n @DeleteMapping(""/delete/{id}"")\n public void deleteUser(@PathVariable int id){\n userService.deleteUser(id);\n }\n\n}"	
+pengertian dan 5 contoh select|\n\nPengertian Select\nSelect adalah perintah SQL yang digunakan untuk mengambil data dari tabel database. Perintah ini digunakan untuk mengambil data yang ditentukan dari tabel database.\n\nContoh Select:\n1. SELECT * FROM tabel_nama;\n2. SELECT nama, alamat FROM tabel_nama;\n3. SELECT * FROM tabel_nama WHERE nama='John';\n4. SELECT * FROM tabel_nama WHERE alamat LIKE '%Jakarta%';\n5. SELECT * FROM tabel_nama ORDER BY nama ASC;	
+pengertian dan 5 contoh syntax rollback|\n\nPengertian Rollback\nRollback adalah proses mengembalikan data ke versi sebelumnya. Ini digunakan untuk membatalkan perubahan yang telah dibuat pada data. Rollback dapat digunakan untuk mengembalikan data ke versi sebelumnya jika terjadi kesalahan atau masalah.\n\nContoh Syntax Rollback\n1. ROLLBACK TRANSACTION;\n2. ROLLBACK TRANSACTION NamaTransaksi;\n3. ROLLBACK WORK;\n4. ROLLBACK WORK TO NamaTransaksi;\n5. ROLLBACK WORK TO SAVEPOINT NamaSavepoint;	
+pengertian dan contoh syntax join|\n\nSyntax Join adalah sintaks yang digunakan untuk menggabungkan dua atau lebih tabel dalam basis data. Ini memungkinkan Anda untuk menggabungkan informasi dari tabel yang berbeda dan menggunakannya untuk mengambil data yang Anda butuhkan.\n\nContoh:\n\nSELECT *\nFROM tabel1\nJOIN tabel2\nON tabel1.kolom1 = tabel2.kolom2;	
+cek pembayaran|\n\nUntuk mengecek pembayaran, Anda dapat mengunjungi situs web atau aplikasi penyedia layanan pembayaran Anda. Anda juga dapat menghubungi layanan pelanggan untuk meminta informasi tentang pembayaran Anda.	
+bagaimana caranya|\n\nUntuk memulai bisnis online, Anda harus melakukan beberapa hal berikut:\n\n1. Tentukan produk atau layanan yang akan Anda jual.\n\n2. Buat website untuk bisnis Anda.\n\n3. Cari cara untuk menarik pelanggan.\n\n4. Tentukan cara untuk mengirimkan produk atau layanan Anda.\n\n5. Tentukan cara untuk mengatur pembayaran.\n\n6. Tentukan cara untuk mengelola bisnis Anda.\n\n7. Tentukan cara untuk mengukur kinerja bisnis Anda.\n\n8. Tentukan cara untuk meningkatkan bisnis Anda.	
+cek pembayaran semester 1|\n\nUntuk mengecek pembayaran semester 1, Anda dapat mengunjungi situs web universitas Anda atau menghubungi bagian keuangan untuk informasi lebih lanjut. Anda juga dapat menghubungi kantor pembayaran untuk memeriksa status pembayaran Anda.	
+cuk|up\n\nCukup adalah sebuah kata yang digunakan untuk menyatakan bahwa sesuatu telah mencapai tingkat yang diinginkan atau diharapkan. Ini dapat digunakan untuk menyatakan bahwa sesuatu telah mencapai tingkat yang memadai, atau bahwa sesuatu telah mencapai tingkat yang diharapkan. Kata ini juga dapat digunakan untuk menyatakan bahwa sesuatu telah mencapai tingkat yang memadai untuk mencapai tujuan tertentu."	
+jan|\n\nThe most popular tourist attractions in Kranj, Slovenia are:\n\n1. Kranjska Gora Ski Resort: This ski resort is located in the Julian Alps and is one of the most popular ski resorts in Slovenia. It offers a variety of slopes for all levels of skiers and snowboarders.\n\n2. Old Town Kranj: This historic town is located in the center of Kranj and is home to many old buildings and monuments. It is a great place to explore and learn about the history of the city.\n\n3. Škofja Loka Castle: This castle is located in the nearby town of Škofja Loka and is a great place to explore and learn about the history of the area.\n\n4. Bled Castle: This castle is located on an island in Lake Bled and is one of the most popular tourist attractions in Slovenia. It is a great place to explore and learn about the history of the area.\n\n5. Triglav National Park: This national park is located in the Julian Alps and is home to many different species of plants and animals. It is a great place to explore and learn about the natural beauty of Slovenia.	
+ini keterangan pendamping tulisan|\n\nKeterangan pendamping tulisan adalah informasi tambahan yang diberikan untuk menjelaskan isi tulisan. Keterangan pendamping tulisan dapat berupa gambar, tabel, grafik, atau ilustrasi lainnya yang bertujuan untuk memperjelas isi tulisan.	
+input presensi iwhm|\n\nInput presensi IWHM dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh pihak IWHM. Aplikasi ini dapat diakses melalui website resmi IWHM. Setelah masuk ke aplikasi, pengguna dapat memasukkan data presensi yang diperlukan, seperti tanggal, jam masuk dan jam pulang, serta informasi lainnya yang diperlukan.	
+verivikasi pembayaran va|\n\nVerifikasi pembayaran adalah proses memeriksa dan mengkonfirmasi bahwa pembayaran telah diterima dan dikreditkan ke akun yang tepat. Proses ini biasanya dilakukan oleh pihak ketiga yang independen, seperti bank atau perusahaan pemrosesan pembayaran. Verifikasi pembayaran dapat membantu mengurangi risiko penipuan dan memastikan bahwa pembayaran yang diterima adalah benar."	
+hari apakah ini ya?|\n\nYa, ini iya.
 agita
 agita
 agita
