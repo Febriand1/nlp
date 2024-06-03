@@ -15271,35 +15271,35 @@ minta surat keterangan lulus|\n\nYang bertanda tangan di bawah ini,\n\nKepala Se
 minta surat keterangan lulus|\n\nYang bertanda tangan di bawah ini,\n\nKepala Sekolah SMK Negeri 1 Kota Bandung,\n\nMenerangkan bahwa :\n\nNama : ________________________\nNIS : ________________________\n\nTelah menyelesaikan semua kewajiban sebagai siswa di SMK Negeri 1 Kota Bandung dan telah lulus dengan nilai yang memuaskan.\n\nDemikian surat keterangan ini dibuat untuk dapat dipergunakan sebagaimana mestinya.\n\nBandung, ___________________\n\nKepala Sekolah\n\n___________________\n\nNIP. ___________________
 Kemaren sdh sy coba approve semua walaupun dlm kondisi kurg sehat tpi nya yg eror tdk respon ada bukti  Silahkan info ke pk Cahyo dn nti oleh sy juga sampaikan saja klo memang keadaannya spt kemarenmhon mklum adanya|\n\nSaya akan menyampaikan informasi ini kepada Pak Cahyo dan saya juga akan menyampaikan bahwa keadaan Anda kemarin kurang sehat. Saya akan menyarankan agar Anda mengambil istirahat yang cukup dan menjaga kesehatan Anda. Jika Anda membutuhkan bantuan, jangan ragu untuk menghubungi saya.
 Kemaren sdh sy coba approve semua walaupun dlm kondisi kurg sehat tpi nya yg eror tdk respon ada bukti  Silahkan info ke pk Cahyo dn nti oleh sy juga sampaikan saja klo memang keadaannya spt kemarenmhon mklum adanya|\n\nSaya akan menyampaikan informasi ini kepada Pak Cahyo dan saya juga akan menyampaikan bahwa keadaan Anda kemarin kurang sehat. Saya akan menyarankan agar Anda mengambil istirahat yang cukup dan menjaga kesehatan Anda. Jika Anda membutuhkan bantuan, jangan ragu untuk menghubungi saya.
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
-naufal
+How many word "the" that appeare are there|the number of times the word appears in the text).\n\nThe word "the" appears in the text a total of 8 times.
+How many word "the" that appeare are there|the number of times the word appears in the text).\n\nThe word "the" appears in the text a total of 8 times.
+tolong buat kode ini dong|"package com.example.demo.controller\n\nimport com.example.demo.model.User\nimport com.example.demo.service.UserService\nimport org.springframework.beans.factory.annotation.Autowired\nimport\n\nimport java.util.List org.springframework.web.bind.annotation.*\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user)
+tolong buat kode ini dong|"package com.example.demo.controller\n\nimport com.example.demo.model.User\nimport com.example.demo.service.UserService\nimport org.springframework.beans.factory.annotation.Autowired\nimport\n\nimport java.util.List org.springframework.web.bind.annotation.*\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user)
+How many word "the" that appeare are there|the number of times the word appears in the text).\n\nThe word "the" appears in the text a total of 8 times.
+va mahasiswa|\n\nMahasiswa adalah seseorang yang sedang menempuh pendidikan di perguruan tinggi. Mereka biasanya mengambil program studi yang berbeda-beda, seperti ilmu komputer, hukum, sastra, dan lain-lain. Mahasiswa juga dapat mengikuti berbagai kegiatan ekstrakurikuler, seperti organisasi mahasiswa, kegiatan olahraga, dan lain-lain. Mahasiswa juga dapat mengikuti berbagai seminar, lokakarya, dan konferensi untuk meningkatkan pengetahuan dan keterampilan mereka.
+pembayaran va mahasiswa|\n\nPembayaran mahasiswa biasanya meliputi biaya sekolah, biaya akomodasi, biaya makanan, biaya transportasi, biaya buku, biaya asuransi, biaya pendaftaran, biaya laboratorium, biaya kuliah, biaya pengembangan karir, dan
+cek pembayaran va mahasiswa|\n\nPembayaran mahasiswa biasanya meliputi biaya sekolah, biaya akomodasi, biaya makanan, biaya transportasi, biaya buku, biaya asuransi, biaya pendaftaran, biaya laboratorium, biaya kuliah, biaya pengembangan karir, dan
+verifikasi pembayaran VA| BCA\n\nVerifikasi pembayaran VA BCA dapat dilakukan dengan cara mengecek saldo rekening BCA Anda. Anda dapat melakukan cek saldo melalui ATM, internet banking, atau aplikasi mobile banking BCA. Setelah melakukan cek saldo, Anda dapat melihat jumlah saldo yang tersedia dan jumlah saldo yang telah diterima dari pembayaran VA BCA.
+verifikasi pembayaran VA| BCA\n\nVerifikasi pembayaran VA BCA dapat dilakukan dengan cara mengecek saldo rekening BCA Anda. Anda dapat melakukan cek saldo melalui ATM, internet banking, atau aplikasi mobile banking BCA. Setelah melakukan cek saldo, Anda dapat melihat jumlah saldo yang tersedia dan jumlah saldo yang telah diterima dari pembayaran VA BCA.
+tolong buat kode ini dong|"package com.example.demo.controller\n\nimport com.example.demo.model.User\nimport com.example.demo.service.UserService\nimport org.springframework.beans.factory.annotation.Autowired\nimport\n\nimport java.util.List org.springframework.web.bind.annotation.*\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user)
+tolong buat kode ini dong|"package com.example.demo.controller\n\nimport com.example.demo.model.User\nimport com.example.demo.service.UserService\nimport org.springframework.beans.factory.annotation.Autowired\nimport\n\nimport java.util.List org.springframework.web.bind.annotation.*\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user)
+Do you like pecel lele|?\n\nNo, I do not like pecel lele.
+So Whats your favourite food|\n\nMy favorite food is pizza.
+Hei kamu|\n\nHai, apa kabar?
+Whats your favourite foods|\n\nMy favorite foods are pizza, tacos, sushi, and ice cream.
+Im fine and you|\n\nI'm doing great, thanks for asking!
+Watch out for the|\n\nThere are many potential dangers to watch out for when engaging in outdoor activities. These can include wild animals, hazardous terrain, extreme weather conditions, and even other people. It is important to be aware of your surroundings and take necessary precautions to ensure your safety. Additionally, it is important to be prepared with the right supplies and equipment for the activity you are engaging in.
+How about your favourite drinks?|\n\nMy favorite drinks are coffee, tea, and smoothies.
+Do you like avocado juice|?\n\nIt depends on the person. Some people enjoy the taste of avocado juice, while others may not.
+Can you gimme some information about ulbi|\n\nUlbi is a free online learning platform that provides users with access to a variety of educational resources. It offers courses in a variety of topics, including math, science, language, and more. It also provides users with access to a library of educational videos, articles, and other resources. Ulbi also offers a variety of tools and features to help users learn more effectively, such as quizzes, flashcards, and practice tests.
+How about you|?\n\nI'm doing well, thank you. I'm currently working on a few projects and looking forward to the summer.
+Do you like avocado juice|?\n\nIt depends on the person. Some people enjoy the taste of avocado juice, while others may not.
+Whats do you like to do|\n\nI like to read, write, watch movies, listen to music, explore nature, and spend time with friends and family.
+Really Can you gimme educational resources|\n\nThere are a variety of educational resources available online. Here are a few: \n\n1. Khan Academy: Khan Academy offers free online courses in math, science, computer programming, history, art history, economics, and more. \n\n2. Coursera: Coursera offers free online courses from top universities and organizations. \n\n3. edX: edX offers free online courses from top universities and organizations. \n\n4. TED-Ed: TED-Ed offers free online lessons in a variety of topics. \n\n5. Open Culture: Open Culture offers free online courses, audio books, movies, and more. \n\n6. Udemy: Udemy offers free and paid online courses in a variety of topics. \n\n7. Codecademy: Codecademy offers free online courses in coding and programming. \n\n8. MIT OpenCourseWare: MIT OpenCourseWare offers free online courses in a variety of topics. \n\n9. National Geographic Education: National Geographic Education offers free online courses in a variety of topics. \n\n10. Khan Lab School: Khan Lab School offers free online courses in a variety of topics.
+So whats kind of movie do you like|\n\nI like all kinds of movies, but I especially enjoy comedies, action/adventure films, and romantic dramas.
+Do you like horror movies?|\n\nIt depends on the movie. Some horror movies are too intense for me, but I do enjoy some of them.
+How about thriller film|\n\nIf you're looking for a thriller film, we recommend "The Silence of the Lambs" (1991). This classic psychological thriller stars Jodie Foster as Clarice Starling, an FBI trainee who must enlist the help of the notorious Hannibal Lecter (Anthony Hopkins) to catch a serial killer. The film won five Academy Awards, including Best Picture, and is widely considered one of the greatest thrillers of all time.
+Give me the link about ulbi|\n\nhttps://www.ulbi.com/
 naufal
 naufal
 naufal
