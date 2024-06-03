@@ -3299,36 +3299,36 @@ belum respon ya pak i nya|\n\nSebelum memberikan respon, pastikan Anda telah mem
 minta transkrip nilai|\n\nUntuk meminta transkrip nilai, Anda harus menghubungi kantor akademik di universitas Anda. Anda harus menyertakan informasi tentang diri Anda, seperti nama lengkap, nomor mahasiswa, dan informasi lain yang diperlukan. Anda juga harus menyertakan biaya yang dikenakan untuk meminta transkrip nilai. Setelah menerima permintaan Anda, kantor akademik akan mengirimkan transkrip nilai ke alamat yang Anda berikan.
 input absesnsi tm gylt|\n\nUntuk menginput absensi TM GYLT, Anda dapat menggunakan aplikasi absensi yang tersedia di pasaran. Aplikasi ini dapat membantu Anda untuk mencatat dan mengelola data absensi karyawan. Anda juga dapat menggunakan aplikasi ini untuk mengirimkan pemberitahuan kepada karyawan tentang absensi mereka. Aplikasi ini juga dapat membantu Anda untuk menghitung gaji karyawan berdasarkan jumlah jam kerja yang telah mereka lakukan.	
 input absesnsi tm gyit|\n\nUntuk menginput absensi TM GYIT, Anda dapat mengakses aplikasi absensi yang telah disediakan oleh GYIT. Aplikasi ini dapat diakses melalui website resmi GYIT. Setelah masuk ke aplikasi, Anda dapat mengisi data absensi yang diperlukan.	
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
-agita
+input absesnsi tm gy1t,|\n\nUntuk mengisi absensi TM GY1T, Anda dapat mengakses aplikasi absensi yang telah disediakan oleh perusahaan Anda. Setelah masuk ke aplikasi, Anda dapat memilih tanggal dan jam yang Anda inginkan untuk mengisi absensi. Setelah memilih tanggal dan jam, Anda dapat memasukkan kode TM GY1T dan mengklik tombol ""Submit"" untuk menyelesaikan proses absensi.	
+selamat siang pak izin minta approve form kambing di i pak|\n\nSelamat siang,\n\nTerima kasih atas permintaan Anda. Saya akan segera memproses permintaan Anda. Mohon ditunggu beberapa saat. Jika Anda memiliki pertanyaan lain, silakan hubungi saya.\n\nTerima kasih.	
+selamat siang pak izin minta approve form kambing di i pak|\n\nSelamat siang,\n\nTerima kasih atas permintaan Anda. Saya akan segera memproses permintaan Anda. Mohon ditunggu beberapa saat. Jika Anda memiliki pertanyaan lain, silakan hubungi saya.\n\nTerima kasih.	
+selamat siang pak izin minta approve form kambing di i pak|\n\nSelamat siang,\n\nTerima kasih atas permintaan Anda. Saya akan segera memproses permintaan Anda. Mohon ditunggu beberapa saat. Jika Anda memiliki pertanyaan lain, silakan hubungi saya.\n\nTerima kasih.	
+absen nya mana|\n\nMaaf, kami tidak dapat membantu Anda dengan masalah absen. Silakan hubungi pihak sekolah atau kantor Anda untuk informasi lebih lanjut.	
+minta pembayaran dan va|\n\nHalo,\n\nTerima kasih telah menghubungi kami. Kami menyediakan berbagai metode pembayaran untuk memudahkan Anda. Anda dapat membayar melalui transfer bank, kartu kredit, PayPal, atau Virtual Account (VA).\n\nUntuk pembayaran melalui VA, Anda dapat menggunakan layanan berikut:\n\n- ATM Bersama\n- Prima\n- Alto\n- BCA KlikPay\n- Mandiri Clickpay\n- CIMB Clicks\n- Danamon Online Banking\n\nSilakan pilih metode pembayaran yang paling sesuai dengan Anda. Jika Anda memiliki pertanyaan lain, jangan ragu untuk menghubungi kami.\n\nTerima kasih.	
+sudah dilengkapi|\n\n#include <iostream>\nusing namespace std;\n\nint main()\n{\n    int angka;\n    cout << ""Masukkan angka: "";\n cin >> angka;\n\n if (angka % 2 == 0)\n {\n cout << angka << "" adalah bilangan genap"";\n}\n else\n {\n cout << angka << "" adalah bilangan ganjil"";\n}\n\n return 0;\n}"	
+sudah saya lengkapi|\n\n1. \n\na. The students are studying in the library.\n\nb. The students are studying hard in the library.	
+a|\n\nThe first thing to do is to create a new project in Visual Studio.\n\n1. Open Visual Studio and select ""Create a new project"".\n\n2. Select the type of project you want to create. For example, if you want to create a Windows Forms application, select ""Windows Forms App (.NET Framework)"".\n\n3. Give your project a name and click ""Create"".\n\n4. Visual Studio will create the project and open the main window.\n\n5. From here, you can start adding code, designing the user interface, and setting up the project's configuration.	
+3|\n\nThe first step is to create a new repository on GitHub.\n\n1. Log in to your GitHub account.\n\n2. Click the ""+"" icon in the top right corner of the page and select ""New repository"".\n\n3. Enter a name for your repository and a brief description.\n\n4. Select the type of repository you want to create (public or private).\n\n5. Click the ""Create repository"" button.\n\n6. You will be taken to the repository page where you can add files, edit settings, and more.	
+0|\n\n#include <stdio.h>\n\nint main(void)\n{\n int n, i, j;\n printf(""Enter size of the magic square: "");\n scanf(""%d"", &n);\n\n int magic_square[n][n];\n\n // set all elements to 0\n for (i = 0; i < n; i++)\n {\n for (j = 0; j < n; j++)\n {\n magic_square[i][j] = 0;\n }\n }\n\n // set the initial position\n i = 0;\n j = n/ 2;\n magic_square[i][j] = 1;\n\n // generate the magic square\n for (int num = 2; num <= n * n; num++)\n {\n int next_i = (i - 1 + n) % n;\n int next_j = (j + 1) % n;\n\n if (magic_square[next_i][next_j] != 0)\n {\n next_i = (i + 1) % n;\n next_j = j;\n}\n\n i = next_i;\n j = next_j;\n magic_square[i][j] = num;\n }\n\n // print the magic square\n printf(""The Magic Square for n = %d:\n\n"", n);\n for (i = 0; i < n; i++)\n {\n for (j = 0; j < n; j++)\n        {\n            printf(""%3d "", magic_square[i][j]);\n        }\n        printf(""\n"");\n    }\n    printf(""\n"");\n    \n    return 0;\n}"	
+dari hari senin kami absen pak seharus nya hari ini sudah 8 kali pak namun di i tetap 6 absen pak|\n\nMaaf atas ketidaknyamanan ini. Kami mengerti bahwa Anda telah absen 8 kali sejak hari Senin. Namun, kami telah mencatat hanya 6 absen. Kami akan segera menyelidiki masalah ini dan mengambil tindakan yang diperlukan untuk memperbaiki masalah ini. Kami akan menghubungi Anda segera setelah kami menyelesaikan penyelidikan. Terima kasih atas pengertian Anda.	
+input absensi tmpnwi|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.	
+input absensi gxxi|\n\nInput absensi GXXI adalah proses memasukkan data kehadiran siswa atau karyawan ke dalam sistem absensi GXXI. Proses ini biasanya dilakukan dengan menggunakan kartu absensi atau kode QR yang dibaca oleh mesin absensi GXXI. Setelah data kehadiran dimasukkan, sistem akan mencatat waktu masuk dan keluar, serta menghitung jumlah jam kerja.	
+cetak kambing 4214007 p2 tahun id 20221|\n\nKambing 4214007 p2 tahun id 20221 telah berhasil dicetak.	
+kuliah luring mode tm selesai materi quiz evaluasi uas|\n\nSetelah selesai materi kuliah daring, mahasiswa harus melakukan quiz dan evaluasi UAS. Quiz dapat berupa tes online atau tes tertulis yang diberikan oleh dosen. Evaluasi UAS adalah penilaian akhir yang diberikan oleh dosen untuk menilai hasil belajar mahasiswa. Evaluasi UAS biasanya berupa tes tertulis atau presentasi.
+kuliah luring mode tm selesai materi quiz evaluasi uas|\n\nSetelah selesai materi kuliah daring, mahasiswa harus melakukan quiz dan evaluasi UAS. Quiz dapat berupa tes online atau tes tertulis yang diberikan oleh dosen. Evaluasi UAS adalah penilaian akhir yang diberikan oleh dosen untuk menilai hasil belajar mahasiswa. Evaluasi UAS biasanya berupa tes tertulis atau presentasi.
+kuliah luring mode tm selesai materi evaluasi uas|\n\nSetelah selesai materi kuliah daring, mahasiswa harus mengerjakan evaluasi UAS. Evaluasi UAS ini bisa berupa tes tertulis, presentasi, atau tugas lainnya yang ditentukan oleh dosen. Evaluasi UAS ini bertujuan untuk mengukur sejauh mana mahasiswa memahami materi yang telah diajarkan. Hasil evaluasi UAS ini akan menjadi salah satu faktor yang mempengaruhi nilai akhir mahasiswa.	
+input absensi wgexcel|\n\nUntuk menginput absensi di WGExcel, Anda harus memiliki akun WGExcel. Setelah memiliki akun, Anda dapat mengakses aplikasi WGExcel dan mengikuti langkah-langkah berikut:\n\n1. Pilih menu ""Absensi"" di bagian atas layar.\n\n2. Pilih ""Input Absensi"" di menu drop-down.\n\n3. Pilih tanggal yang ingin Anda masukkan.\n\n4. Masukkan jam masuk dan jam pulang untuk setiap karyawan.\n\n5. Klik tombol ""Simpan"" untuk menyimpan data.\n\n6. Klik tombol ""Cetak"" untuk mencetak laporan absensi.	
+verifikasi pembayaranva|\n\nVerifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lain yang diperlukan. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+minta va mahasiswa|\n\n1. Menjaga kesehatan\n2. Menjaga kebersihan\n3. Menjaga kejujuran\n4. Menjaga kedisiplinan\n5. Menjaga keteraturan\n6. Menjaga keterampilan\n7. Menjaga komitmen\n8. Menjaga konsistensi\n9. Menjaga kreativitas\n10. Menjaga kemandirian.	
+lagi error|\n\nError yang mungkin terjadi adalah error syntax, error runtime, error logic, error input/output, dan error kompilasi.	
+kuliah luring selesai mode tm materi chapter 14|\n\nSetelah kuliah daring selesai, materi yang dibahas adalah Chapter 14. Materi ini mencakup topik-topik seperti:\n\n1. Konsep Dasar Ekonomi\n2. Teori Permintaan dan Penawaran\n3. Hukum Permintaan dan Penawaran\n4. Faktor-faktor yang Mempengaruhi Permintaan dan Penawaran\n5. Analisis Permintaan dan Penawaran\n6. Kebijakan Permintaan dan Penawaran\n7. Analisis Elastisitas\n8. Elastisitas Permintaan dan Penawaran\n9. Kebijakan Harga\n10. Kebijakan Subsidi dan Pajak"	
+iteng ajukan surat keterangan kuliah|\n\nUntuk mengajukan surat keterangan kuliah, Anda harus menghubungi bagian akademik di universitas Anda. Anda harus menyediakan informasi tentang nama, nomor mahasiswa, dan informasi lain yang diperlukan. Setelah itu, Anda harus mengisi formulir permintaan surat keterangan kuliah dan mengirimkannya ke bagian akademik. Bagian akademik akan memproses permintaan Anda dan mengirimkan surat keterangan kuliah ke alamat Anda.	
+input abesensi mode tm pvvk|\n\nMode TM PVVK adalah mode absensi yang menggunakan teknologi pengenalan wajah (facial recognition) untuk mengidentifikasi dan mencatat kehadiran karyawan. Mode ini memungkinkan karyawan untuk melakukan absensi dengan hanya menggunakan wajah mereka.	
+input abesensi mode tm pvvk|\n\nMode TM PVVK adalah mode absensi yang menggunakan teknologi pengenalan wajah (facial recognition) untuk mengidentifikasi dan mencatat kehadiran karyawan. Mode ini memungkinkan karyawan untuk melakukan absensi dengan hanya menggunakan wajah mereka.	
+input absens tm jtxe|\n\nUntuk memasukkan absensi TM JTXE, Anda harus mengakses aplikasi absensi yang disediakan oleh JTXE. Setelah masuk ke aplikasi, Anda dapat memasukkan data absensi Anda dengan mengisi kolom yang tersedia. Anda juga dapat mengunduh laporan absensi yang telah Anda masukkan.	
+input absens tm jtxe|\n\nUntuk memasukkan absensi TM JTXE, Anda harus mengakses aplikasi absensi yang telah disediakan oleh perusahaan. Setelah masuk ke aplikasi, Anda dapat memasukkan data absensi Anda dengan mengisi kolom yang tersedia. Anda juga dapat mengunduh laporan absensi yang telah Anda masukkan.	
+minta bukti pembayaran va|\n\nHalo,\n\nTerima kasih telah melakukan pembayaran. Untuk membuktikan pembayaran Anda, silakan cek email Anda. Kami telah mengirimkan bukti pembayaran Anda sebagai lampiran. Jika Anda tidak menerima email tersebut, silakan hubungi kami.\n\nTerima kasih.
+minta bukti pembayaran va|\n\nHalo,\n\nTerima kasih telah melakukan pembayaran. Untuk membuktikan pembayaran Anda, silakan cek email Anda. Kami telah mengirimkan bukti pembayaran Anda sebagai lampiran. Jika Anda tidak menerima email tersebut, silakan hubungi kami.\n\nTerima kasih.	
 agita
 agita
 agita
