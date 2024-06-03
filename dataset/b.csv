@@ -2998,6 +2998,7 @@ fedhira
 fedhira
 fedhira
 fedhira
+fedhira
 the number of times the word appears in the corpus|\n\n Code\n\n Your code here\n\n  Create a dictionary to store the word counts\nword_counts = {}\n\n Iterate through the corpus\nfor word in corpus:\n   If the word is already in the dictionary, increment its count\n  if word in word_counts:\n  word_counts[word] += 1\n  Otherwise, set its count to 1\n    else:\n word_counts[word] = 1\n\n Print the word counts\nprint(word_counts)\n\n Output\n\n> stdout : [""{'hello': 1, 'world': 1, 'this': 1, 'is': 1, 'a': 1, 'sentence': 1}\n""]\n\n \n Markdown\n\n Part 2:\n\nCreate a function that takes in a word and the word counts dictionary, and returns the number of times the word appears in the corpus.\n\n Code\n\n  Your code here\n\ndef count_word(word, word_counts):\n  \n    Counts the number of times a word appears in a corpus.\n  \n Parameters\n  \n  word: str\n  The word to count.\n  word_counts: dict\n   A dictionary of words and their counts.\n  \n    Returns\n  \n    int\n The number of times the word appears in the corpus.\n \n \n  If the word is in the dictionary, return its count\n    if word in word_counts:\n return word_counts[word]\n  Otherwise, the word doesn't appear in the corpus\n    else:\n  return 0\n Test your function\n\n Should return 1\nprint(count_word('hello', word_counts))\n\n Should return 0\nprint(count_word('goodbye', word_counts))\n\n Output\n\n> stdout : ['1\n', '0\n']\n\n \n END OF DOC"
 absensi matematika bisnis|\n\nAbsensi matematika bisnis adalah proses mencatat dan mengikuti kehadiran siswa di kelas matematika bisnis. Ini bisa dilakukan dengan menggunakan buku absensi, aplikasi absensi, atau sistem absensi online. Proses ini bertujuan untuk memastikan bahwa siswa hadir di kelas dan mengikuti pelajaran. Ini juga membantu mengidentifikasi siswa yang sering absen atau terlambat.
 cek absensi matematika bisnis|\n\nAbsensi matematika bisnis adalah proses mencatat dan mengawasi kehadiran siswa di kelas matematika bisnis. Proses ini biasanya dilakukan dengan mencatat nama siswa yang hadir dan tidak hadir di kelas. Proses ini bertujuan untuk memastikan bahwa siswa hadir di kelas dan mengikuti pelajaran dengan benar.
@@ -14268,36 +14269,36 @@ Apa asumsi utama dari Naive Bayes|Asumsi utama dari Naive Bayes adalah independe
 siapa marlin monroe|Marlin Monroe adalah seorang aktris, model, dan penyanyi Amerika yang terkenal pada era 1950-an. Dia dikenal karena perannya dalam film seperti The Seven Year Itch, Some Like It Hot, dan Gentlemen Prefer Blondes. Dia juga dikenal karena kehidupan pribadinya yang kontroversial.
 what is artifisial inteligence|Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using the rules to reach approximate or definite conclusions) and self-correction.
 Sebutkan beberapa aplikasi umum dari algoritma Naive Bayes|Beberapa aplikasi umum dari Naive Bayes termasuk pengklasifikasian email sebagai spam atau bukan spam, analisis sentimen, pengenalan teks, dan klasifikasi dokumen.
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
+minta contoh judul skripsi|Analisis Pengaruh Kualitas Layanan Terhadap Kepuasan Pelanggan di PT. XYZ\n\n2. Studi Perbandingan Kinerja Keuangan Perusahaan Manufaktur di Indonesia\n\n3. Analisis Faktor-Faktor yang Mempengaruhi Keputusan Pembelian Konsumen di PT. ABC\n\n4. Analisis Pengaruh Brand Image Terhadap Loyalitas Pelanggan di PT. XYZ\n\n5. Studi Perbandingan Kinerja Keuangan Perusahaan Teknologi di Indonesia\n\n6. Analisis Pengaruh Kualitas Produk Terhadap Kepuasan Pelanggan di PT. ABC\n\n7. Analisis Faktor-Faktor yang Mempengaruhi Keputusan Pembelian Konsumen di PT. XYZ\n\n8. Studi Perbandingan Kinerja Keuangan Perusahaan Retail di Indonesia\n\n9. Analisis Pengaruh Harga Terhadap Loyalitas Pelanggan di PT. ABC\n\n10. Analisis Faktor-Faktor yang Mempengaruhi Keputusan Pembelian Konsumen di PT. XYZ
+andri hadir|Terimakasih atas kehadiran Anda, Andriansah. Kami menghargai kedatangan Anda.
+valentina keszia 4194033 hadir|Selamat datang, Valentina Keszia! Kami senang Anda bisa hadir.
+ilham nurgali 4194020 hadir|Iqbal adalah seorang pengusaha dan investor asal Indonesia. Ia adalah pendiri dan CEO dari PT Nurgali Group, sebuah perusahaan yang bergerak di bidang teknologi dan layanan informasi. Ia juga merupakan salah satu pendiri dan investor di PT Nurgali Ventures, sebuah perusahaan venture capital yang berfokus pada teknologi dan layanan informasi. Ia juga merupakan salah satu pendiri dan investor di PT Nurgali Capital, sebuah perusahaan investasi yang berfokus pada teknologi dan layanan informasi. Ia juga merupakan salah satu pendiri dan investor di PT Nurgali Ventures, sebuah perusahaan venture capital yang berfokus pada teknologi dan layanan informasi. Ia juga merupakan salah satu pendiri dan investor di PT Nurgali Capital, sebuah perusahaan investasi yang berfokus pada teknologi dan layanan informasi. Ia juga merupakan salah satu pendiri dan investor di PT Nurgali Ventures, sebuah perusahaan venture capital yang berfokus pada teknologi dan layanan informasi. Ia juga merupakan salah satu pendiri dan investor di PT Nurgali Capital, sebuah perusahaan investasi yang berfokus pada teknologi dan layanan informasi.
+rizki ananta putra 4194029 hadir|Terima kasih telah hadir ijin. Semoga Anda selalu diberikan kesehatan dan keberuntungan.
+namira azzahra 4194023 hadir|Hai Mira,\n\nTerima kasih telah menghadiri ijin. Kami sangat menghargai keterlibatan Anda. Semoga Anda mendapatkan banyak manfaat dari ijin ini.\n\nTerima kasih,\n\nTim Manajemen
+dimas panji prasetya 4194012 hadir|Terima kasih atas kedatangan Anda. Kami mencatat bahwa Dimas Panji Prasetya dengan nomor induk 4194012 telah hadir dengan ijin.
+fitri fanny tampubolon 4194016 hadir|Terima kasih atas kehadiran Bapak/Ibu Fanny Tampubolon (4194016) dengan ijin yang telah diberikan.
+surya aprilia 4194032 hadir|Hai Surya Aprilia, terima kasih telah hadir. Kami sangat menghargai kehadiran Anda. Semoga Anda dapat menikmati waktu bersama kami.
+nir fikri haekkal 4194025 hadir|Hai Fikri Haekkal,\n\nSelamat datang di Ihya! Kami sangat senang bahwa Anda telah bergabung dengan kami. Kami berharap Anda dapat menikmati pengalaman belajar di Ihya dan meningkatkan pengetahuan Anda. Kami tersedia untuk membantu Anda dalam setiap cara yang kami bisa. Jika Anda memiliki pertanyaan atau komentar, jangan ragu untuk menghubungi kami. Kami berharap Anda dapat menikmati pengalaman belajar di Ihya.
+dewi srinita alapia 4194011 hadir|Hai Dewi Srinita Alapia,\n\nSelamat datang di kelas! Semoga kamu dapat menikmati pengalaman belajar di sini. Jika ada pertanyaan atau masalah, jangan ragu untuk bertanya kepada guru atau teman-temanmu. Semoga kamu dapat belajar banyak hal yang bermanfaat di kelas ini.
+firdaus muthahari 4194015 hadir|Selamat datang di kelas, Firdaus Muthahari. Semoga kamu dapat belajar dengan baik dan mencapai hasil yang maksimal.
+maria magdalena silitonga 4194022 hadir|Ya, Maria Magdalena Silitonga hadir. Terima kasih atas konfirmasi Anda.
+aviane sascia 4194005 hadir|okey siap
+fadilla nurbanissa 4194013 hadir|Ya, saya hadir di iqomah. Saya akan mempersiapkan diri dengan membawa wudhu, tasbih, dan makanan ringan. Saya juga akan membawa buku-buku agama untuk membaca dan mengikuti kajian. Saya juga akan membawa air mineral untuk menjaga kesehatan.
+halisa ahlamara 4194017 hadir|Hadir ihlamara 4194017 ma alf layla wa layla.
+wasanri siregar 4194035 hadir|Selamat datang di kelas, Wasanri Siregar! Semoga Anda dapat belajar banyak hal yang bermanfaat.
+nur azizah as-salma 4194024 hadir|Terima kasih atas kehadiran Anda, Azizah As-Salma. Kami menghargai partisipasi Anda.
+raffiq hermawan 4194026 hadir|Hai Raffiq Hermawan,\n\nTerima kasih telah menghubungi kami. Kami mengerti bahwa Anda telah mengajukan permohonan ijin. Kami mengucapkan selamat datang dan kami akan memproses permohonan Anda segera.\n\nKami akan mengirimkan email kepada Anda dengan informasi lebih lanjut tentang permohonan Anda. Jika Anda memiliki pertanyaan atau komentar, silakan hubungi kami.\n\nTerima kasih telah menghubungi kami.\n\nSalam,\n\nTim Layanan Pelanggan
+bayzuri al rabbani 4194008 hadir|Assalamu alaikum wa rahmatullahi wa barakatuh,\n\nYa Allah, berikanlah kami kekuatan untuk menghidupkan kembali ihya' (pemulihan) agama-Mu. Berikanlah kami kemampuan untuk mengikuti petunjuk-Mu dan menjalankan perintah-Mu. Berikanlah kami kemampuan untuk menghormati dan menghargai para pemimpin agama dan para ulama. Berikanlah kami kemampuan untuk menghormati dan menghargai para pemimpin kami dan para pemimpin dunia.
+ayu nasiha 4194006 hadir|Assalamualaikum,\n\nTerima kasih atas nasehat yang Anda berikan. Kami sangat menghargai usaha Anda untuk membantu kami meningkatkan kualitas hidup kami. Kami akan berusaha untuk mengikuti nasehat Anda dan menggunakannya untuk mencapai tujuan kami. Semoga Allah memberkati usaha Anda.
+dewi fortuna 4194010 hadir|Hai Dewi Fortuna, senang bertemu denganmu. Semoga harimu menyenangkan.
+rizki faturrahman 4194030 hadir|Assalamualaikum Warahmatullahi Wabarakatuh,\n\nSelamat datang di iqomah. Semoga Allah SWT memberkahi kita semua dengan keberkahan dan kemuliaan. Amin.
+anang maulana 4194004 hadir|Assalamualaikum Warahmatullahi Wabarakatuh.\n\nTerima kasih atas pertanyaan Anda. Ya, saya hadir di iqomah. Saya akan datang tepat waktu dan siap untuk mengikuti iqomah. Terima kasih.
+minta jadwal ulang jurusan d4 teknik informatika kelas 1a|Berikut adalah jadwal ulang jurusan D4 Teknik Informatika Kelas 1A:\n\nSenin:\n\n- Pemrograman Berorientasi Objek (09.00-11.00)\n- Sistem Basis Data (11.00-13.00)\n\nSelasa:\n\n- Sistem Operasi (09.00-11.00)\n- Jaringan Komputer (11.00-13.00)\n\nRabu:\n\n- Pemrograman Web (09.00-11.00)\n- Sistem Informasi (11.00-13.00)\n\nKamis:\n\n- Rekayasa Perangkat Lunak (09.00-11.00)\n- Sistem Multimedia (11.00-13.00)\n\nJumat:\n\n- Pemrograman Berbasis Objek (09.00-11.00)\n- Sistem Basis Data Lanjut (11.00-13.00)
+minta file jadwal ulangan di universitas logistik dan bisnis internasional|Untuk informasi jadwal ulangan di Universitas Logistik dan Bisnis Internasional, Anda dapat mengunjungi situs web resmi universitas tersebut di https://www.ulbi.ac.id/jadwal-ulangan/. Di halaman ini, Anda akan menemukan informasi tentang jadwal ulangan untuk semua program studi yang ditawarkan oleh universitas. Anda juga dapat mengunduh file PDF yang berisi jadwal ulangan untuk setiap semester.
+siapa saja yang hadir di acara ini|Pemateri\n2. Moderator\n3. Peserta
+rosa fitri nabila 4194031 hadir|Terima kasih atas kehadiran Fitri Nabila (4194031). Semoga dapat mengikuti kegiatan dengan baik.
+hidayatun nisa 4194019 hadir|Terima kasih atas kehadiran Hidayatun Nisa. Semoga dapat menjalankan tugas dengan baik.
+ayub boimau 4194007 hadir|Terima kasih atas pertanyaan Anda.\n\nUntuk mengetahui jadwal iqomah di Masjid Al-Husaini, Anda dapat menghubungi pengurus masjid atau mengunjungi situs web resmi masjid. Di situs web, Anda akan menemukan informasi tentang jadwal iqomah, termasuk waktu dan lokasi. Anda juga dapat menghubungi pengurus masjid untuk informasi lebih lanjut tentang jadwal iqomah.
 dimas
 dimas
 dimas
