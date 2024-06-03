@@ -7299,36 +7299,36 @@ kamu dimana|\n\nSaya berada di Jakarta, Indonesia.
 apa itu nikah|\n\nNikah adalah sebuah pernikahan yang sah di mata agama Islam. Pernikahan ini merupakan sebuah ikatan yang diatur oleh syariat Islam dan diikatkan oleh dua orang yang bersedia untuk menikah. Pernikahan ini diawali dengan prosesi akad nikah yang dilakukan oleh kedua belah pihak. Setelah akad nikah, maka kedua belah pihak telah resmi menjadi suami istri.
 berikan contoh pertanyaan|\n\nBerapa kali kata the muncul dalam teks ini?\n\nThe word *the* appears in the text 8 times.
 kamu dimana|\n\nSaya berada di Jakarta, Indonesia.
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
-fatwa
+kode php|,.php\n §§ 1000\n<?php\n\nfunction cari_jodoh($nama, $status, $usia, $tinggi, $pekerjaan)\n{\n    if ($status == *single* && $usia >= 20 && $usia <= 30 && $tinggi >= 160 && $pekerjaan == *programmer*) {\n        echo *Selamat $nama, kami menemukan jodoh yang cocok untukmu, dia adalah seseorang yang juga single, berusia 20-30 tahun, tinggi 160 cm dan bekerja sebagai programmer*;\n    } else {\n        echo *Maaf $nama, kami tidak menemukan jodoh yang cocok untukmu*;\n    }\n}\n\necho cari_jodoh(*Rizki*, *single*, 25, 170, *programmer*);\necho *<br>*;\necho cari_jodoh(*Rizki*, *single*, 25, 150, *programmer*);\n\n?>\n §§ COM\ncari_jodoh.php\n §§ --- cari_jodoh.php\n-    if ($status == *single* && $usia >= 20 && $usia <= 30 && $tinggi >= 160 && $pekerjaan == *programmer*) {\n §§ 1004\n+    if ($status == *single* && $usia >= 20 && $usia <= 30 && $tinggi >= 160 && ($pekerjaan == *programmer* or $pekerjaan == *guru*)) {\n §§ --- cari_jodoh.php\n §§ 1014\n+echo *<br>*;\n+echo cari_jodoh(*Rizki*, *single*, 25, 170, *guru*);\n
+hai|\n\nHai, senang bertemu denganmu. Apa yang bisa saya bantu?
+kamu nanya|rarrwgh
+kamu bertanya tanya|diam lu dilan cepmek
+motivasi diri|\n\nSaya ingin menjadi seorang pengusaha sukses.\n\nUntuk mencapai tujuan tersebut, saya akan membuat rencana yang jelas dan menetapkan tujuan jangka pendek dan jangka panjang. Saya akan mencari informasi tentang bisnis dan peluang yang tersedia, serta mempelajari cara mengelola bisnis dan mengelola keuangan. Saya juga akan mencari mentor yang dapat memberikan saran dan dukungan. Saya akan mencari peluang untuk berinvestasi dan mengembangkan bisnis saya. Saya akan mencari cara untuk meningkatkan pengetahuan dan keterampilan saya, serta membangun jaringan yang kuat. Saya akan mengikuti pelatihan dan seminar bisnis untuk meningkatkan kemampuan saya. Saya juga akan mencari cara untuk meningkatkan kemampuan manajemen saya.
+handle twitter|\n\nTwitter Handle\n\n@TwitterHandle
+bagaimana verifikasi pembayara va dilakukan|\n\nVerifikasi pembayaran biasanya dilakukan oleh pihak yang menerima pembayaran. Proses verifikasi ini bertujuan untuk memastikan bahwa pembayaran yang diterima adalah benar dan valid. Proses verifikasi pembayaran biasanya melibatkan pemeriksaan dokumen yang relevan, seperti bukti pembayaran, informasi kontak, dan informasi lain yang diperlukan. Setelah verifikasi, pihak yang menerima pembayaran akan mengkonfirmasi bahwa pembayaran telah diterima dan divalidasi.
+perwalian kemarin banyak yg ngga absen i kan pantau|\n\nMaaf, saya tidak bisa membantu Anda dengan masalah ini. Anda harus menghubungi pihak sekolah untuk mendapatkan informasi lebih lanjut tentang perwalian kemarin.
+error id  63da3704e925c82026e9003e|coba revisi isi pesan dan kirim ulang lagi ke i atau hubungi admin kami di 021-12345678
+error id  63da3704e925c82026e9003e|coba revisi isi pesan dan kirim ulang lagi ke i atau hubungi admin kami di 021-12345678
+berikan contoh kode|package com.example.demo.controller;\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(*/user*)\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(*/all*)\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(*/add*)\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(*/update*)\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(*/delete/{id}*)\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
+ih i ini gmn biar gak pake qr code mulu|\n\nAnda dapat menggunakan metode pembayaran lain seperti transfer bank, kartu kredit, atau metode pembayaran digital lainnya. Anda juga dapat menggunakan metode pembayaran manual seperti pembayaran tunai atau cek.
+hallo|\n\nHallo, ada apa bang?
+minta transkip nilai|\n\nBerikut adalah transkip nilai Anda:\n\nMata Kuliah / Nilai\nMatematika - A\nFisika - B\nKimia - A\nBiologi - A
+minta transkip nilai|\n\nBerikut adalah transkip nilai Anda:\n\nMata Kuliah / Nilai\nMatematika - A\nFisika - B\nKimia - A\nBiologi - A
+berikan contoh pertanyaan|\n\nBerapa kali kata the muncul dalam teks ini?\n\nThe word *the* appears in the text 8 times.
+berikan contoh pertanyaan|\n\nBerapa kali kata the muncul dalam teks ini?\n\nThe word *the* appears in the text 8 times.
+halo|halo halo
+minta transkrip nilai|\n\nUntuk meminta transkrip nilai, Anda harus menghubungi kantor akademik di universitas Anda. Anda harus menyertakan informasi tentang diri Anda, seperti nama lengkap, nomor mahasiswa, dan informasi lain yang diperlukan. Anda juga harus menyertakan biaya yang dikenakan untuk meminta transkrip nilai. Setelah menerima permintaan Anda, kantor akademik akan mengirimkan transkrip nilai ke alamat yang Anda berikan.
+minta slip mengajar 202301|\n\nMohon maaf, slip mengajar 202301 tidak dapat kami berikan. Anda dapat menghubungi bagian akademik untuk informasi lebih lanjut.
+target stunting jawa barat|\n\nStunting is a serious public health problem in West Java, Indonesia. It is estimated that more than one-third of children under five years of age in the province are stunted. Stunting is caused by a combination of factors, including poor nutrition, inadequate health care, and inadequate access to clean water and sanitation. The government of West Java has taken steps to address the issue, including providing nutrition education and health services, improving access to clean water and sanitation, and promoting breastfeeding.
+terjemahkan bahasa indonesia|\n\nStunting merupakan masalah kesehatan masyarakat yang serius di Jawa Barat, Indonesia. Diperkirakan lebih dari sepertiga anak balita di provinsi ini mengalami stunting. Stunting disebabkan oleh berbagai faktor, termasuk gizi buruk, layanan kesehatan yang tidak memadai, serta akses yang tidak memadai terhadap air bersih dan sanitasi. Pemerintah Jawa Barat telah mengambil langkah-langkah untuk mengatasi masalah ini, termasuk memberikan pendidikan gizi dan layanan kesehatan, meningkatkan akses terhadap air bersih dan sanitasi, serta mempromosikan pemberian ASI.
+penyebab stunting|\n\nPenyebab stunting adalah:\n\n1. Kekurangan gizi: Kekurangan gizi adalah penyebab utama stunting. Kekurangan gizi dapat disebabkan oleh kurangnya asupan makanan yang bergizi, kurangnya akses ke makanan bergizi, dan kurangnya pengetahuan tentang nutrisi.\n\n2. Sanitasi buruk: Sanitasi buruk dapat menyebabkan infeksi yang menyebabkan malnutrisi. Infeksi yang sering terjadi pada anak-anak yang tinggal di lingkungan yang tidak bersih adalah diare, infeksi saluran pernapasan, dan infeksi parasit.\n\n3. Kondisi sosial ekonomi: Kondisi sosial ekonomi yang buruk dapat menyebabkan anak-anak tidak mendapatkan asupan gizi yang cukup. Kondisi ini juga dapat menyebabkan anak-anak tidak mendapatkan akses ke layanan kesehatan yang memadai.\n\n4. Kondisi lingkungan: Kondisi lingkungan yang buruk dapat menyebabkan anak-anak terpapar polusi udara, polusi air, dan bahan kimia berbahaya. Hal ini dapat menyebabkan anak-anak mengalami malnutrisi.
+tf idf adalah|sebuah metode yang digunakan untuk mengukur tingkat relevansi suatu kata dalam sebuah dokumen. Metode ini mengukur tingkat kepentingan suatu kata dalam sebuah dokumen dengan mengukur jumlah kata yang muncul dalam dokumen tersebut dan juga jumlah dokumen yang mengandung kata tersebut. Metode ini berguna untuk mengidentifikasi kata-kata yang paling penting dalam sebuah dokumen.
+kepanjangn tf idf|\n\nTF-IDF (term frequency-inverse document frequency) adalah metode statistik yang digunakan untuk mengukur pentingnya sebuah kata dalam sebuah dokumen atau koleksi dokumen. Metode ini mengukur jumlah kata yang muncul dalam sebuah dokumen dan mengurangi bobot kata yang muncul dalam banyak dokumen. Ini membantu menekankan kata-kata yang unik dan penting dalam dokumen yang dianalisis. TF-IDF digunakan dalam berbagai aplikasi, termasuk mesin pencari, analisis teks, dan pembelajaran mesin. Metode ini hanya dapat digunakan untuk string, bukan untuk data numerik.
+9884520201694099|\n\n§ Output\n\n> ['0.9884520201694099']\n\n\n§ Code\n\n\n \n§ END OF DOC
+ulbi bagus gak|\n\nbagus banget bang, saran gua masuk jurusan IT kalo pengen kuliah di ULBI wkwkwk, canda ULBI
+saran game|\n\n1. Grand Theft Auto V\n2. The Witcher 3: Wild Hunt\n3. Red Dead Redemption 2\n4. Minecraft\n5. Overwatch\n6. The Legend of Zelda: Breath of the Wild\n7. Fortnite\n8. Stardew Valley\n9. Rocket League\n10. Super Mario Odyssey
+saran artis jav|\n\n1. Maria Ozawa\n2. Sora Aoi\n3. Yua Mikami\n4. Akiho Yoshizawa\n5. Kaho Shibuya\n6. Anri Okita\n7. Miho Ichiki\n8. Yui Hatano\n9. Rola Takizawa\n10. Julia JAV
+apa jabatan puan|\n\nPuan adalah sebutan untuk seseorang yang tidak diketahui namanya. Oleh itu, tidak ada jabatan yang ditetapkan untuk puan.
 fatwa
 fatwa
 fatwa
