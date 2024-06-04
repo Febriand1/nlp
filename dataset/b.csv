@@ -1421,36 +1421,36 @@ package com.example.demo.controller;|\n\nimport com.example.demo.model.User;\nim
 cara menambahkan item baru|\n\n//Menambahkan item baru ke dalam array\nlet menu = ["Nasi Goreng", "Mie Goreng", "Sate"];\n\nmenu.push("Ayam Bakar");\n\nconsole.log(menu); // Output: ["Nasi Goreng", "Mie Goreng", "Sate", "Ayam Bakar"]
 tapi aman|\n\nAman is a term used to describe someone who is trustworthy and reliable. It is often used to describe someone who is honest and has strong moral values.
 tapi aman|\n\nAman is a term used to describe someone who is trustworthy and reliable. It is often used to describe someone who is honest and has strong moral values.
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
+tanggal berapa sekarang|\n\nHari ini tanggal 28 April 2020.
+tanggal berapa sekarang|\n\nHari ini tanggal 28 April 2020.
+ajukan surat aktif kuliah|\n\nUntuk mengajukan surat aktif kuliah, Anda harus mengajukan permohonan ke kantor akademik atau kantor registrasi di universitas Anda. Anda harus menyertakan salinan transkrip akademik Anda dan juga menyertakan salinan bukti pembayaran biaya kuliah. Setelah itu, Anda harus menunggu konfirmasi dari kantor akademik atau registrasi untuk mendapatkan surat aktif kuliah.
+hari ini udah tahun baru|\n\nSelamat Tahun Baru! Semoga tahun baru ini menjadi tahun yang lebih baik dari tahun sebelumnya. Semoga kita semua diberkati dengan kesehatan, kebahagiaan, dan kemakmuran.
+hari ini udah tahun baru|\n\nSelamat Tahun Baru! Semoga tahun baru ini menjadi tahun yang lebih baik dari tahun sebelumnya. Semoga kita semua diberkati dengan kesehatan, kebahagiaan, dan kemakmuran.
+input presensi mode tmrfcz|\n\nMode TMRFCZ adalah mode presensi yang digunakan untuk mencatat waktu masuk dan waktu pulang karyawan. Mode ini terdiri dari 4 huruf yaitu T (Time In), M (Meal Out), R (Return from Meal), F (Time Out), C (Compensatory Time In) dan Z (Compensatory Time Out).
+minta jumlah bimbingan i1|\n\nMaaf, kami tidak dapat memberikan informasi tentang jumlah bimbingan I1. Anda harus menghubungi pihak yang bertanggung jawab untuk informasi lebih lanjut.
+the number of times the word appears in the text.|\n\nThe word "the" appears in the text a total of 8 times.
+input presensin zrej|\n\nI am present.
+iteung liat absensi|\n\nUntuk melihat absensi, Anda dapat menggunakan berbagai cara. Salah satu cara yang paling umum adalah dengan menggunakan sistem absensi yang tersedia di sekolah atau perusahaan. Sistem ini biasanya menyimpan data absensi setiap hari dan dapat dilihat oleh semua orang yang berhak. Anda juga dapat menggunakan aplikasi absensi yang tersedia di toko aplikasi untuk melihat absensi. Aplikasi ini dapat membantu Anda untuk mengatur dan mengawasi absensi siswa atau karyawan. Selain itu, Anda juga dapat menggunakan laporan absensi yang dibuat oleh guru atau pengawas untuk melihat absensi.
+input absensi bfmk|\n\nUntuk menginput absensi di BFMK, Anda harus mengikuti langkah-langkah berikut:\n\n1. Masuk ke situs web BFMK.\n2. Klik tombol "Absensi" di bagian atas halaman.\n3. Pilih jenis absensi yang ingin Anda masukkan.\n4. Masukkan informasi yang diperlukan, seperti nama, tanggal, jam masuk, dan jam pulang.\n5. Klik tombol "Simpan" untuk menyimpan data absensi.\n6. Setelah data disimpan, Anda akan melihat konfirmasi bahwa data telah berhasil disimpan.
+input absensi wlfl|\n\nInput absensi WLFL tidak dapat dilakukan secara manual. WLFL menggunakan sistem absensi otomatis yang dapat diakses melalui aplikasi atau website. Aplikasi atau website ini memungkinkan para karyawan untuk melakukan absensi dengan menggunakan kartu identitas atau kode unik.
+kirim pembayaran|\n\nSetelah pembayaran diterima, kami akan memproses pesanan Anda dan mengirimkan produk yang Anda pesan. Kami akan mengirimkan email konfirmasi kepada Anda setelah pesanan Anda selesai diproses.
+minta surat untuk orangtua|\n\nAssalamualaikum,\n\nKepada Yth.\n\nBapak/Ibu Orang Tua/Wali Murid\n\ndi Tempat\n\nDengan hormat,\n\nKami dari pihak sekolah mengucapkan terima kasih atas partisipasi dan dukungan yang telah diberikan kepada anak-anak kami.\n\nKami ingin mengingatkan bahwa pembayaran SPP untuk semester ini telah jatuh tempo. Kami mohon agar Bapak/Ibu dapat melakukan pembayaran sebelum tanggal yang telah ditentukan.\n\nJika ada pertanyaan, silakan hubungi kami di nomor telepon sekolah atau melalui email.\n\nKami menghargai partisipasi dan dukungan Anda.\n\nTerima kasih.\n\nHormat kami,\n\nPihak Sekolah
+minta pembayaran spp semester 2|\n\nKepada Yth,\n\nSaudara/i \n\nTerima kasih atas kepercayaan Saudara/i kepada kami dalam menyelesaikan pembayaran SPP semester 2.\n\nBerikut adalah rincian pembayaran SPP semester 2:\n\nJumlah yang harus dibayar: Rp. ________\n\nMetode pembayaran: \n\n1. Transfer bank: \n\nNama Bank: \n\nNomor Rekening: \n\nAtas Nama: \n\n2. Pembayaran tunai di kantor kami: \n\nAlamat: \n\nJam Operasional: \n\nHarap melakukan pembayaran sesuai dengan jumlah dan metode yang telah ditentukan. Jika ada pertanyaan, silakan hubungi kami di nomor ________.\n\nTerima kasih.\n\nHormat kami,\n\nNama Perusahaan
+input absensu tm wrlb|\n\nUntuk mengakses sistem absensi TM WRLB, Anda harus memiliki akun yang dibuat oleh administrator. Setelah memiliki akun, Anda dapat masuk ke sistem absensi TM WRLB dengan menggunakan nama pengguna dan kata sandi Anda. Setelah masuk, Anda dapat melihat daftar absensi, menambahkan absensi baru, mengedit absensi yang sudah ada, dan melihat laporan absensi.
+kelas luring selasai mode tm materi big data dan cloud computing|\n\nTerima kasih telah mengikuti kelas daring kami tentang Big Data dan Cloud Computing. Kami berharap Anda telah memperoleh pengetahuan yang bermanfaat dan dapat menerapkannya dalam pekerjaan Anda. Jika Anda memiliki pertanyaan lebih lanjut tentang topik ini, jangan ragu untuk menghubungi kami.
+kelas luring selasai mode tm materi big data dan cloud computing|\n\nTerima kasih telah mengikuti kelas daring kami tentang Big Data dan Cloud Computing. Kami berharap Anda telah memperoleh pengetahuan yang bermanfaat dan dapat menerapkannya dalam pekerjaan Anda. Jika Anda memiliki pertanyaan lebih lanjut tentang topik ini, jangan ragu untuk menghubungi kami.
+virtual account 9884520201604134|\n\nThis virtual account number is associated with a specific bank account. It is used to identify the account when making payments or transfers.
+input absensi dlti|\n\nDLTI adalah singkatan dari Data Link Technologies, Inc. Data Link Technologies, Inc. adalah perusahaan teknologi yang berbasis di California, Amerika Serikat. Perusahaan ini menyediakan layanan teknologi informasi dan komunikasi, termasuk jaringan, infrastruktur, dan layanan konsultasi. Perusahaan ini juga menyediakan layanan absensi, yang memungkinkan perusahaan untuk mengatur dan mengawasi kehadiran karyawan. Layanan ini mencakup pemantauan kehadiran, pengelolaan jam kerja, dan laporan kehadiran.
+input absenai tm sxue|\n\nSelamat datang di Sekolah XUE.
+beli roti kukus dimana|\n\nAnda dapat membeli roti kukus di toko roti, supermarket, pasar tradisional, atau toko roti online.
+beli roti kukus dimana|\n\nAnda dapat membeli roti kukus di toko roti, supermarket, pasar tradisional, atau toko roti online.
+yang deket puskesmas|\n\n1. Rumah Makan Sederhana\n2. Warung Kopi\n3. Toko Roti\n4. Toko Buah\n5. Toko Sayur\n6. Toko Buku\n7. Apotek\n8. Salon Kecantikan\n9. Tempat Fotokopi\n10. Toko Alat Kesehatan
+yang deket puskesmas|\n\n1. Rumah Makan Sederhana\n2. Toko Obat\n3. Apotek\n4. Klinik Gigi\n5. Klinik Kecantikan\n6. Klinik Pratama\n7. Klinik Anak\n8. Klinik Mata\n9. Klinik Kulit\n10. Klinik Akupuntur
+minta surat mahasiswa aktif|\n\nBerikut ini adalah contoh surat keterangan mahasiswa aktif:\n\nKepada Yth,\n\nPihak Universitas ___________\n\nDi Tempat\n\nDengan Hormat,\n\nMelalui surat ini, saya ingin menyatakan bahwa saya adalah mahasiswa aktif di Universitas ___________. Saya telah mendaftar dan mengikuti program studi ___________ di universitas tersebut sejak tahun ___________.\n\nSebagai bukti bahwa saya adalah mahasiswa aktif di universitas tersebut, saya lampirkan salinan bukti pendaftaran dan salinan bukti pembayaran biaya kuliah.\n\nDemikian surat ini saya buat, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n[Nama]\n\nMahasiswa Universitas ___________
+input absensi mode wbfc|\n\nSelamat datang di mode absensi WBFC. Silakan masukkan nama Anda untuk memulai proses absensi.
+kelas lurinh selesai mode tm materi uji hipotesis komparatif|\n\nUji hipotesis komparatif adalah metode statistik yang digunakan untuk membandingkan dua atau lebih populasi atau sampel. Ini digunakan untuk menguji hipotesis yang menyatakan bahwa ada perbedaan signifikan antara dua atau lebih populasi atau sampel. Uji hipotesis komparatif dapat digunakan untuk menguji hipotesis yang menyatakan bahwa ada perbedaan signifikan antara dua atau lebih variabel. Uji hipotesis komparatif juga dapat digunakan untuk menguji hipotesis yang menyatakan bahwa ada perbedaan signifikan antara dua atau lebih kelompok.
+input presensi t rdnt|\n\nInput presensi t rdnt adalah proses memasukkan data presensi karyawan ke dalam sistem. Data presensi yang dimasukkan biasanya berupa informasi waktu masuk dan waktu pulang karyawan, serta informasi lainnya seperti alasan keterlambatan atau alasan absen.
+minta transkrip nilai|\n\nUntuk meminta transkrip nilai, Anda harus menghubungi kantor akademik di universitas Anda. Anda harus menyertakan informasi tentang diri Anda, seperti nama lengkap, nomor mahasiswa, dan informasi lain yang diperlukan. Anda juga harus menyertakan biaya yang dikenakan untuk meminta transkrip nilai. Setelah menerima permintaan Anda, kantor akademik akan mengirimkan transkrip nilai ke alamat yang Anda berikan.
 juwita
 juwita
 juwita
