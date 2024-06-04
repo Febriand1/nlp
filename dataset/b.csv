@@ -9360,36 +9360,36 @@ input absensi zhvl|\n\nInput absensi Zhvl dapat dilakukan dengan menggunakan apl
 e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.
 input absensi zqoa|\n\nMaaf, kami tidak mengenal istilah ""zqoa"". Silakan sertakan informasi lebih lanjut untuk membantu kami memahami apa yang Anda maksud.
 input absent tm kbcn|\n\nUntuk mengakses input absensi, Anda dapat mengunjungi situs web KBCN. Di sana, Anda dapat mengakses berbagai fitur seperti input absensi, laporan absensi, dan laporan kinerja.
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
+input presensi tmcbop|\n\nUntuk menginput presensi TMBCOP, Anda harus mengakses sistem presensi yang tersedia di situs web resmi TMBCOP. Setelah masuk ke sistem, Anda dapat mengisi informasi yang diperlukan untuk mencatat presensi Anda. Anda juga dapat melihat riwayat presensi Anda dan mencetak laporan presensi.	
+minta kode mata kuliah ekspor|\n\nKode mata kuliah Ekspor adalah MK-EKSPOR.	
+di cek di i pak dengan perintah ""i jadwal mengajar"""|\n\nPerintah tersebut tidak dapat dijalankan di i-pak. Perintah yang dapat dijalankan di i-pak adalah perintah yang berhubungan dengan penggunaan aplikasi, seperti mengirim email, mengakses file, dan lainnya.	
+input absensi zavp|\n\nZAVP adalah singkatan dari Zona Aktif Verifikasi Pegawai. ZAVP adalah sistem yang digunakan untuk memverifikasi kehadiran pegawai. Sistem ini menggunakan kartu identitas yang dapat dibaca oleh mesin pemindai untuk memverifikasi kehadiran pegawai. Sistem ini juga dapat digunakan untuk mencatat waktu masuk dan keluar pegawai.	
+nik dosen|\n\nNama nik dosen tidak diketahui.	
+nama nama dosen d4 manajement bisnis|\n\n1. Dr. Ir. Iwan Triyuwono, M.Sc.\n2. Dr. Ir. Iwan Setiawan, M.Sc.\n3. Dr. Ir. Iwan Suwandi, M.Sc.\n4. Dr. Ir. Iwan Prasetyo, M.Sc.\n5. Dr. Ir. Iwan Wibisono, M.Sc.\n6. Dr. Ir. Iwan Susanto, M.Sc.\n7. Dr. Ir. Iwan Gunawan, M.Sc.\n8. Dr. Ir. Iwan Widjaja, M.Sc.\n9. Dr. Ir. Iwan Sutanto, M.Sc.\n10. Dr. Ir. Iwan Rahardjo, M.Sc.	
+input presensi zavp|\n\nInput presensi ZAVP adalah proses memasukkan data kehadiran para karyawan di sebuah perusahaan. Data yang dimasukkan meliputi informasi tentang nama karyawan, tanggal dan jam masuk dan keluar, dan jenis absensi. Data ini kemudian digunakan untuk menghitung gaji karyawan dan mengukur kinerja mereka.	
+e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.	
+input mode tm sstx|\n\nThe TM SSTX input mode is a type of input mode used in the TM SSTX software. It is a text-based input mode that allows users to enter text and commands into the software. It is designed to be easy to use and understand, and it provides a wide range of features and functions.	
+presensi mode tm rcus|\n\nMode TM RCUS adalah mode presensi yang menggunakan teknologi RFID (Radio Frequency Identification) untuk mengidentifikasi dan mencatat presensi karyawan. Teknologi ini memungkinkan karyawan untuk mengakses sistem presensi dengan menggunakan kartu RFID yang dapat dibaca oleh mesin presensi. Mode ini memungkinkan karyawan untuk mengakses sistem presensi dengan cepat dan mudah, sehingga membuat proses presensi menjadi lebih efisien.	
+input absensi yxrm|\n\nYXRM tidak terdaftar dalam sistem absensi.	
+e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.	
+input presensi tm bplm|\n\nPresensi tm bplm biasanya dilakukan dengan menggunakan sistem absensi elektronik. Sistem ini memungkinkan para pegawai untuk melakukan absensi dengan menggunakan kartu identitas atau kartu absensi. Sistem ini juga memungkinkan para pegawai untuk melihat riwayat presensi mereka dan mengakses informasi lainnya.	
+input abensi tm xfdh|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Silakan dijelaskan lebih lanjut.	
+jadwal perwalian|\n\nUntuk informasi jadwal perwalian, Anda dapat menghubungi bagian akademik di kampus Anda. Anda juga dapat mengunjungi situs web kampus Anda untuk melihat informasi jadwal perwalian. Anda juga dapat menghubungi dosen atau asisten akademik untuk informasi lebih lanjut tentang jadwal perwalian.	
+ibm cloud functions|\n\nThe IBM Cloud Functions CLI is a command-line interface (CLI) that you can use to manage your IBM Cloud Functions resources. It provides a set of commands for creating, managing, and deploying functions, as well as viewing logs and metrics. You can use the CLI to quickly create and deploy functions, as well as manage your functions and resources.	
+input absensi mode ooiy|\n\nMode ooiy adalah sebuah sistem absensi yang menggunakan teknologi QR Code. Sistem ini memungkinkan pengguna untuk memindai kode QR yang ditempelkan di lokasi absensi untuk mencatat waktu masuk dan keluar. Sistem ini juga dapat menghasilkan laporan absensi yang dapat diakses oleh pihak manajemen.	
+e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text 8 times.	
+cek Code membuat fungsi|\n\ndef cek_kata(kata):\n    #membuat variabel\n    vokal = 'aiueoAIUEO'\n    jumlah_vokal = 0\n    #perulangan untuk menghitung jumlah vokal\n    for huruf in kata:\n        if huruf in vokal:\n            jumlah_vokal += 1\n    #mengembalikan nilai\n    return jumlah_vokal\n\n#memanggil fungsi\nprint(cek_kata('Surakarta'))\n\n§ Output\n\n> stdout : ['4\n']\n\n \n§ Markdown\n\nExpected Output:\n\n4\n \n§ END OF DOC	
+lihat revisi sidang 1214054 tipe p3 tahun 20221|\n\nRevisi sidang 1214054 tipe P3 tahun 2021 adalah sebagai berikut:\n\n1. Pembahasan topik sidang akan dibatasi hanya pada topik yang telah disetujui oleh pembimbing.\n\n2. Waktu sidang akan ditambahkan selama 15 menit untuk memastikan bahwa semua topik yang telah disetujui dibahas dengan baik.\n\n3. Pembimbing akan menyediakan daftar pertanyaan yang harus dijawab oleh mahasiswa sebelum sidang dimulai.\n\n4. Mahasiswa harus menyiapkan presentasi yang mencakup semua topik yang telah disetujui oleh pembimbing.\n\n5. Pembimbing akan menyediakan waktu tambahan untuk menjawab pertanyaan yang diajukan oleh mahasiswa.\n\n6. Pembimbing akan menilai presentasi mahasiswa dan memberikan nilai akhir.\n\n7. Mahasiswa harus menyelesaikan tugas-tugas yang telah ditentukan oleh pembimbing sebelum sidang dimulai.	
+input absenso mode tm qebh|\n\nAbsenso mode TM QEBH adalah mode yang digunakan untuk mengontrol dan mengawasi absensi karyawan. Mode ini memungkinkan Anda untuk mengatur jadwal kerja, mencatat absensi, dan melacak jam kerja. Mode ini juga memungkinkan Anda untuk mengirim pemberitahuan kepada karyawan tentang jadwal kerja dan absensi.	
+lihat revisi sidang 1214054 tipe p2 tahun 20221|\n\nRevisi sidang 1214054 tipe P2 tahun 2021 adalah sebagai berikut:\n\n1. Pembahasan topik sidang akan dibatasi hanya pada topik yang telah disetujui oleh pembimbing.\n\n2. Pembahasan topik sidang harus mencakup semua aspek yang relevan dengan topik yang dipilih.\n\n3. Pembahasan topik sidang harus mencakup semua informasi yang relevan dengan topik yang dipilih.\n\n4. Pembahasan topik sidang harus mencakup semua data yang relevan dengan topik yang dipilih.\n\n5. Pembahasan topik sidang harus mencakup semua analisis yang relevan dengan topik yang dipilih.\n\n6. Pembahasan topik sidang harus mencakup semua kesimpulan yang relevan dengan topik yang dipilih.\n\n7. Pembahasan topik sidang harus mencakup semua rekomendasi yang relevan dengan topik yang dipilih.\n\n8. Pembahasan topik sidang harus mencakup semua kesimpulan dan rekomendasi yang relevan dengan topik yang dipilih.\n\n9. Pembahasan topik sidang harus mencakup semua kesimpulan dan rekomendasi yang dapat diterapkan dalam konteks yang relevan.\n\n10. Pembahasan topik sidang harus mencakup semua kesimpulan dan rekomendasi yang dapat diterapkan dalam konteks yang relevan dan dapat diterapkan secara praktis.	
+jurnal bereputasisinta jurnal|\n\nSinta adalah jurnal ilmiah yang diterbitkan oleh Lembaga Ilmu Pengetahuan Indonesia (LIPI). Jurnal ini menyediakan platform untuk penelitian dan publikasi ilmiah di bidang ilmu pengetahuan, teknologi, dan seni. Sinta mencakup berbagai bidang ilmu, termasuk biologi, kimia, fisika, matematika, teknik, kedokteran, dan ilmu sosial. Jurnal ini juga menyediakan informasi tentang penelitian terbaru dan berita terkait. Sinta telah diterbitkan sejak tahun 2000 dan telah menjadi salah satu jurnal ilmiah terkemuka di Indonesia.	
+e. the number of times the word appears in the text)|\n\nThe word ""the"" appears in the text 8 times.	
+approve lembar pengesahan sidang 1214023 p2 tahun 20221|\n\nYa, saya menyetujui lembar pengesahan sidang 1214023 P2 tahun 20221.	
+kuliah luring selesai mode tm materi introduction to topics|\n\nSetelah kuliah luring selesai, Anda dapat mengikuti mode tm untuk mempelajari materi Introduction to Topics. Mode tm adalah mode belajar mandiri yang memungkinkan Anda untuk mengakses materi kuliah secara online dan mengerjakan tugas-tugas yang diberikan. Anda juga dapat berdiskusi dengan teman-teman Anda dan bertanya kepada dosen tentang topik yang Anda pelajari. Mode tm juga memungkinkan Anda untuk mengakses bahan-bahan pelajaran dan mengerjakan tugas-tugas yang diberikan.	
+kenapa lampu kedap kedip|\n\nLampu kedap kedip biasanya disebabkan oleh kurangnya arus listrik yang mengalir ke lampu. Hal ini dapat disebabkan oleh beberapa hal, seperti kabel yang rusak, kontak yang kurang baik, atau bahkan kurangnya daya listrik yang tersedia. Jika Anda mengalami masalah ini, Anda harus mengecek kabel dan kontak untuk memastikan bahwa semuanya berfungsi dengan baik. Jika masalah masih berlanjut, Anda harus menghubungi pemasok listrik untuk memastikan bahwa daya listrik yang tersedia cukup untuk menyalakan lampu.	
+approve lembar pengesahan sidang 1214007 tipe p2 tahun 20221|\n\nUntuk menyetujui lembar pengesahan sidang 1214007 tipe P2 tahun 2021, Anda harus mengirimkan permintaan kepada pihak yang berwenang. Anda harus menyertakan informasi tentang sidang Anda, termasuk tanggal, lokasi, dan nama peserta. Anda juga harus menyertakan salinan lembar pengesahan yang telah Anda isi. Setelah pihak yang berwenang menerima permintaan Anda, mereka akan meninjau lembar pengesahan dan menyetujui atau menolaknya.	
+cek password wifi|\n\nAnda dapat mengecek password WiFi dengan menggunakan berbagai cara, termasuk menggunakan aplikasi seperti WiFi Password Revealer, menggunakan perintah Command Prompt, atau menggunakan router Anda. Anda juga dapat menghubungi penyedia layanan internet Anda untuk meminta password WiFi Anda.	
+minta nama mahasiswa|\n\nNama-nama mahasiswa yang terdaftar di sebuah universitas dapat berbeda-beda tergantung pada program studi yang dipilih. Beberapa contoh nama mahasiswa yang mungkin terdaftar di sebuah universitas adalah:\n\n1. John Smith\n2. Sarah Jones\n3. David Brown\n4. Emily Taylor\n5. Michael Williams\n6. Jessica Miller\n7. Matthew Anderson\n8. Jennifer Davis\n9. Ryan Wilson\n10. Samantha White	
 marlina
 marlina
 marlina
