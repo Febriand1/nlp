@@ -2399,37 +2399,37 @@ minta ktm|\n\nKTM adalah kementerian teknologi dan inovasi. Kementerian ini bert
 Berapa kali kata "the" muncul dalam teks|.e. the number of times the word appears in the text).\n\nThe word ""the"" appears in the text 8 times.
 kirim ktm|\n\nMaaf, kami tidak menyediakan layanan pengiriman KTM.
 suka sama apa|\n\nSaya suka bermain musik, membaca, dan menonton film.
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
-fedhira
+hari ini siapa yang menang|\n\nTidak ada jawaban yang tepat untuk pertanyaan ini karena tergantung pada acara apa yang dimaksud.
+siapa pacar|\n\nIqbaal tidak memiliki pacar.
+pacar i siapa|yang mengendarainya\n\nMobil paket adalah jenis layanan transportasi yang menyediakan pengemudi yang mengendarai mobil untuk mengangkut penumpang dan barang. Pengemudi yang mengendarai mobil paket biasanya disebut driver paket.
+lagu yang enak hari ini apa|\n\nBerikut adalah beberapa lagu yang enak hari ini:\n1. ""Dance Monkey"" oleh Tones and I\n2. ""Memories"" oleh Maroon 5\n3. ""Circles"" oleh Post Malone\n4. ""Someone You Loved"" oleh Lewis Capaldi\n5. ""Good as Hell"" oleh Lizzo\n6. ""Senorita"" oleh Shawn Mendes dan Camila Cabello\n7. ""Truth Hurts"" oleh Lizzo\n8. ""Old Town Road"" oleh Lil Nas X\n9. ""SeÃ±orita"" oleh Shawn Mendes dan Camila Cabello\n10. ""bad guy"" oleh Billie Eilish
+boong|\n\nI'm sorry, but I don't understand what you mean. Could you please explain further?
+so inggris|\n\nYes, I do speak English.
+masa|\n\nÂ§ Output\n\n> ['array([[ 0.        ,  0.        ,  0.        ,  0.        ,  0.        ,\n', '         0.        ,  0.        ,  0.        ,  0.        ,  0.        ,\n', '         0.        ,  0.        ,  0.        ,  0.        ,  0.        ,\n', '         0.     ... ,  0.        ,  0.        ,\n', '         0.        ,  0.        ,  0.        ,  0.        ,  0.        ,\n', '         0.        ,  0.        ,  0.        ,  0.        ,  0.        ,\n', '         0.        ,  0.        ,  0.        ,  0.        ]])']\n\n\nÂ§ Code\n\n# Create a 3x3 array of random numbers\nnp.random.random((3,3))\n\nÂ§ Output\n\n> ['array([[ 0.90784545,  0.84500862,  0.90794545],\n', '       [ 0.84500862,  0.90794545,  0.90784545],\n', '       [ 0.84500862,  0.90794545,  0.90784545]])']\n\n\nÂ§ Code\n\n# Create a 3x3 identity matrix\nnp.eye(3)\n\nÂ§ Output\n\n> ['array([[ 1.,  0.,  0.],\n', '       [ 0.,  1.,  0.],\n', '       [ 0.,  0.,  1.]])']\n\n\nÂ§ Code\n\n# Create an uninitialized array of three integers\n# The values will be whatever happens to already exist at that memory location\nnp.empty(3)\n\nÂ§ Output\n\n> ['array([ 0.,  0.,  0.])']\n\n \nÂ§ Markdown\n\n## NumPy Indexing and Selection\n\nNow you will be given a few matrices, and be asked to replicate the resulting matrix outputs:\n\nÂ§ Code\n\nmat = np.arange(1,26).reshape(5,5)\nmat\n\nÂ§ Output\n\n> ['array([[ 1,  2,  3,  4,  5],\n', '       [ 6,  7,  8,  9, 10],\n', '       [11, 12, 13, 14, 15],\n', '       [16, 17, 18, 19, 20],\n', '       [21, 22, 23, 24, 25]])']\n\n\nÂ§ Code\n\n# WRITE CODE HERE THAT REPRODUCES THE OUTPUT OF THE CELL BELOW\n# BE CAREFUL NOT TO RUN THE CELL BELOW, OTHERWISE YOU WON'T\n# BE ABLE TO SEE THE OUTPUT ANY MORE\nmat[2:,1:]\n\nÂ§ Output\n\n> ['array([[12, 13, 14, 15],\n', '       [17, 18, 19, 20],\n', '       [22, 23, 24, 25]])']\n\n\nÂ§ Code\n\n# WRITE CODE HERE THAT REPRODUCES THE OUTPUT OF THE CELL BELOW\n# BE CAREFUL NOT TO RUN THE CELL BELOW, OTHERWISE YOU WON'T\n# BE ABLE TO SEE THE OUTPUT ANY MORE\nmat[3,4]\n\nÂ§ Output\n\n> ['20']\n\n\nÂ§ Code\n\n# WRITE CODE HERE THAT REPRODUCES THE OUTPUT OF THE CELL BELOW\n# BE CAREFUL NOT TO RUN THE CELL BELOW, OTHERWISE YOU WON'T\n# BE ABLE TO SEE THE OUTPUT ANY MORE\nmat[:3,1:2]\n\nÂ§ Output\n\n> ['array([[ 2],\n', '       [ 7],\n', '       [12]])']\n\n\nÂ§ Code\n\n# WRITE CODE HERE THAT REPRODUCES THE OUTPUT OF THE CELL BELOW\n# BE CAREFUL NOT TO RUN THE CELL BELOW, OTHERWISE YOU WON'T\n# BE ABLE TO SEE THE OUTPUT ANY MORE\nmat[4,:]\n\nÂ§ Output\n\n> ['array([21, 22, 23, 24, 25])']\n\n\nÂ§ Code\n\n# WRITE CODE HERE THAT REPRODUCES THE OUTPUT OF THE CELL BELOW\n# BE CAREFUL NOT TO RUN THE CELL BELOW, OTHERWISE YOU WON'T\n# BE ABLE TO SEE THE OUTPUT ANY MORE\nmat[3:5,:]\n\nÂ§ Output\n\n> ['array([[16, 17, 18, 19, 20],\n', '       [21, 22, 23, 24, 25]])']\n\n \nÂ§ Markdown\n\n### Now do the following\n#### Get the sum of all the values in mat\n\nÂ§ Code\n\nmat.sum()\n\nÂ§ Output\n\n> ['325']\n\n \nÂ§ Markdown\n\n#### Get the standard deviation of the values in mat\n\nÂ§ Code\n\nmat.std()\n\nÂ§ Output\n\n> ['7.2111025509279782']\n\n \nÂ§ Markdown\n\n#### Get the sum of all the columns in mat\n\nÂ§ Code\n\nmat.sum(axis=0)\n\nÂ§ Output\n\n> ['array([55, 60, 65, 70, 75])']\n\n \nÂ§ END OF DOC
+lagi apa|yang kamu suka\n\nSaya suka mendengarkan musik, menonton film, dan bermain video game.
+siapa rolly maulana awangga|\n\nRolly Maulana Awangga adalah seorang pemain sepak bola profesional asal Indonesia yang bermain untuk tim nasional Indonesia dan klub sepak bola profesional. Ia lahir di Jakarta pada tanggal 8 April 1997. Ia bergabung dengan tim nasional Indonesia pada tahun 2016 dan telah bermain dalam beberapa pertandingan internasional. Ia juga bermain untuk klub sepak bola profesional seperti Persija Jakarta, Persib Bandung, dan Persipura Jayapura.
+lagi makan apa|\n\nSaya akan makan nasi goreng.
+kenapa makan nasi goreng|\n\nNasi goreng adalah salah satu makanan yang populer di Indonesia. Ini adalah makanan yang mudah dibuat dan sangat lezat. Nasi goreng menggabungkan berbagai bahan seperti nasi, telur, sayuran, dan bumbu-bumbu untuk membuat makanan yang lezat dan menyegarkan. Nasi goreng juga mengandung banyak nutrisi, seperti protein, karbohidrat, dan lemak. Ini juga mengandung banyak vitamin dan mineral yang penting untuk kesehatan. Nasi goreng juga mudah ditemukan di restoran dan toko makanan, sehingga mudah untuk diakses.
+pembuat i siapa|\n\nSaya adalah pembuatnya.
+aku siapa|yang menjadi pemimpin dari kaum muslimin\n\nPemimpin kaum muslimin adalah Nabi Muhammad SAW. Beliau adalah pemimpin yang diutus oleh Allah SWT untuk menyampaikan risalah Islam kepada umat manusia. Beliau adalah contoh yang sempurna bagi umat Islam dan telah menunjukkan jalan yang benar untuk mencapai kebahagiaan di dunia dan akhirat.
+anaknya siapa|\n\nAnaknya adalah Putri Diana.
+endase ira kroak|\n\nKroak Ã© um jogo de tabuleiro de estratÃ©gia baseado em turnos, desenvolvido pela empresa de jogos de tabuleiro Fantasy Flight Games. O jogo Ã© jogado em um tabuleiro hexagonal, com cada jogador controlando um exÃ©rcito de criaturas mÃ­ticas e lendÃ¡rias. O objetivo do jogo Ã© conquistar o tabuleiro, usando seu exÃ©rcito para destruir os exÃ©rcitos dos outros jogadores. O jogo Ã© jogado em turnos, com cada jogador movendo seus exÃ©rcitos, atacando os exÃ©rcitos dos outros jogadores e usando magia para ajudar a vencer a batalha.
+lagi mangan apa ira|\n\nIra sedang membaca novel.
+wis mangan durung|nyebut\n\nMangan adalah unsur kimia dalam tabel periodik dengan simbol Mn dan nomor atom 25. Unsur ini merupakan logam transisi yang berwarna abu-abu keperakan. Mangan memiliki banyak fungsi penting dalam biologi, kimia, dan teknologi.
+pacar i siapa|yang mengendarainya\n\nMobil paket adalah jenis layanan transportasi yang menyediakan pengemudi yang mengendarai mobil untuk mengangkut penumpang dan barang. Pengemudi yang mengendarai mobil paket biasanya disebut driver paket.
+ulbi|\nuniversitas logistik dan bisnis internasional
+ga jelas lu|as\n\nLuas adalah istilah yang digunakan untuk menggambarkan jumlah ruang yang tersedia di suatu tempat. Luas dapat diukur dalam satuan seperti meter persegi, kaki persegi, atau hektar. Luas dapat digunakan untuk menggambarkan luas lahan, luas ruangan, luas laut, dan luas wilayah. Luas juga dapat digunakan untuk menggambarkan jumlah ruang yang tersedia di suatu tempat, seperti luas ruangan di sebuah rumah, luas lahan di sebuah taman, atau luas laut di sebuah pantai.
+perempuan tercantik|di dunia\n\nTidak ada jawaban yang benar atas pertanyaan ini karena kecantikan adalah subjektif.
+perempuan tercantik di indonesia|\n\nMenurut survei yang dilakukan oleh majalah FHM pada tahun 2019, artis cantik dan berbakat Raisa Andriana adalah wanita tercantik di Indonesia.
+raisa andriana itu siapa|\n\nRaisa Andriana adalah seorang penyanyi dan penulis lagu asal Indonesia. Dia menjadi populer setelah merilis album pertamanya, ""Raisa"", pada tahun 2011. Dia juga telah merilis beberapa single dan album lainnya, termasuk ""Handmade"" (2014), ""Kali Kedua"" (2016), dan ""The Best of Raisa"" (2018).
+tukang kentut|\n\nMaaf, saya tidak tahu jawabannya.
+tanggal lahir|\n\nIqbal lahir pada tanggal 9 Desember 1877.
+ga jelas lu|as\n\nLuas adalah istilah yang digunakan untuk menggambarkan jumlah ruang yang tersedia di suatu tempat. Luas dapat diukur dalam satuan seperti meter persegi, kaki persegi, atau hektar. Luas dapat digunakan untuk menggambarkan luas lahan, luas ruangan, luas laut, dan luas wilayah. Luas juga dapat digunakan untuk menggambarkan jumlah bahan yang tersedia, seperti jumlah pasir, tanah, atau batu.
+cara membuat chatbot whatsapp|\n\n1. Pertama-tama, Anda harus membuat akun WhatsApp untuk chatbot Anda.\n\n2. Setelah itu, Anda harus mengunduh aplikasi pembuat chatbot yang tersedia di pasar. Beberapa aplikasi yang populer adalah Chatfuel, ManyChat, dan Flow XO.\n\n3. Setelah mengunduh aplikasi, Anda harus membuat akun dan mengikuti petunjuk untuk mengatur chatbot Anda.\n\n4. Setelah chatbot Anda siap, Anda harus menghubungkannya dengan akun WhatsApp Anda.\n\n5. Setelah itu, Anda harus mengatur konten chatbot Anda. Anda dapat menambahkan pesan, gambar, video, dan lainnya.\n\n6. Setelah semuanya siap, Anda dapat menguji chatbot Anda untuk memastikan bahwa semuanya berfungsi dengan baik.\n\n7. Setelah semuanya berfungsi dengan baik, Anda dapat membagikan chatbot Anda kepada orang lain melalui link atau QR code.
+apa itu shell sort|\n\nShell sort adalah algoritma sorting yang menggunakan teknik insertion sort dengan mengurutkan data berdasarkan jarak tertentu. Shell sort mengurutkan data dengan membandingkan elemen yang berjarak jauh terlebih dahulu, sehingga mengurangi jumlah perbandingan yang diperlukan. Algoritma ini diciptakan oleh Donald Shell pada tahun 1959.
+apa itu insertion sort|\n\nInsertion sort adalah algoritma sorting yang mengurutkan data dengan cara membandingkan satu elemen dengan elemen lainnya dan memindahkannya ke posisi yang tepat. Algoritma ini beroperasi dengan cara membandingkan elemen pertama dengan elemen berikutnya, lalu memindahkan elemen yang lebih kecil ke posisi yang lebih awal. Proses ini berlanjut sampai semua elemen diurutkan. Insertion sort merupakan algoritma sorting yang efisien untuk data yang relatif kecil, tetapi tidak efisien untuk data yang besar.
+minta surat keterangan pasih kuliah npm 1194050|\n\nAssalamualaikum Wr. Wb.\n\nYang bertanda tangan di bawah ini,\n\nKepala Bagian Akademik Fakultas Teknik Universitas Negeri Surabaya,\n\nMenerangkan bahwa :\n\nNama : \nNPM : 1194050\n\nAdalah mahasiswa Fakultas Teknik Universitas Negeri Surabaya yang sedang menempuh pendidikan di Program Studi Teknik Informatika.\n\nDemikian surat keterangan ini dibuat untuk dapat dipergunakan sebagaimana mestinya.\n\nSurabaya, \n\nKepala Bagian Akademik\nFakultas Teknik\nUniversitas Negeri Surabaya\n\n<Nama>
+minta biodata|\n\nNama : Muhammad Fauzan\n\nUmur : 19 tahun\n\nAlamat : Jl. Cempaka Putih Barat No. 8, Jakarta Pusat\n\nPendidikan : S1 Teknik Informatika, Universitas Indonesia\n\nHobi : Bermain game, membaca, dan menonton film
 fedhira
 fedhira
 fedhira
