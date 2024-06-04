@@ -14388,36 +14388,36 @@ jangan ngetik love you|Tolong jangan ngetik Love You.
 Bagaimana cara menambahkan ekstensi PHP di Laragon|Untuk menambahkan ekstensi PHP di Laragon, Anda bisa mengunduh ekstensi yang diinginkan dari situs resmi PHP, kemudian menyalinnya ke folder ext di direktori instalasi PHP Anda. Setelah itu, aktifkan ekstensi tersebut di file php.ini.
 wswb ok sy msh rapat blm direview dan lagi eror|Maaf, saya tidak dapat membantu Anda dengan masalah ini. Anda harus menghubungi pihak yang bertanggung jawab untuk memeriksa dan meninjau rapat Anda. Jika Anda masih mengalami masalah, silakan hubungi tim dukungan teknis untuk mendapatkan bantuan lebih lanjut.
 Apa kelebihan menggunakan Laragon dibandingkan dengan XAMPP atau WAMP|Kelebihan Laragon dibandingkan dengan XAMPP atau WAMP antara lain adalah instalasi yang lebih cepat dan mudah, dukungan untuk banyak teknologi, kemampuan untuk mengatur project dengan cepat, performa yang lebih baik, serta fitur tambahan seperti pembuatan domain virtual otomatis dan dukungan untuk berbagai versi PHP.
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
-dimas
+gabisa matematika|ya belajar lah.
+pandung dosen|Beri hormat dan salam saat bertemu dengan dosen.\n\n2. Berpakaian rapi dan sopan saat bertemu dengan dosen.\n\n3. Berbicara dengan sopan dan bahasa yang baik saat bertemu dengan dosen.\n\n4. Jangan mengganggu dosen saat sedang mengajar.\n\n5. Jangan mengganggu dosen saat sedang berdiskusi dengan mahasiswa lain.\n\n6. Jangan mengganggu dosen saat sedang mengerjakan tugasnya.\n\n7. Jangan mengganggu dosen saat sedang berbicara dengan orang lain.\n\n8. Jangan mengganggu dosen saat sedang berpikir.\n\n9. Jangan mengganggu dosen saat sedang mengerjakan tugasnya.\n\n10. Jangan mengganggu dosen saat sedang berbicara dengan orang lain.
+Apa itu Blade di Laravel|Blade adalah template engine yang disertakan dengan Laravel, yang memungkinkan Anda menggunakan logika pemrograman seperti loops dan conditional statements dalam tampilan HTML.
+Bagaimana cara menampilkan variabel di Blade|Anda dapat menampilkan variabel di Blade dengan menggunakan notasi kurung kurawal ganda seperti ini: {{ $variableName }}.
+Bagaimana cara menulis komentar di Blade|Untuk menulis komentar di Blade, gunakan sintaks {{-- Ini adalah komentar --}}. Komentar ini tidak akan muncul di HTML yang dihasilkan.
+Apa fungsi dari directive @yield di Blade|Directive @yield digunakan untuk menentukan bagian yang dapat diisi oleh konten lain di dalam template Blade. Biasanya digunakan dalam layout untuk menentukan tempat di mana konten halaman akan ditampilkan.
+Bagaimana cara meng-extend layout di Blade|Untuk meng-extend layout, gunakan directive @extends('namaLayout') di bagian atas file Blade Anda. Ini memungkinkan Anda menggunakan layout sebagai template dasar
+mendung nih|apa itu mendung aku gatau.
+Apa perbedaan antara @include dan @extends di Blade|include menyertakan tampilan Blade lain ke dalam tampilan saat ini, sementara @extends digunakan untuk mewarisi layout dari template dasar.
+Apa itu Next.js|Next.js adalah framework React yang memungkinkan pengembangan aplikasi web dengan rendering sisi server (SSR) dan fitur-fitur seperti static site generation (SSG), routing otomatis, dan API routes.
+Apa perbedaan antara SSR dan SSG di Next.js|SSR (Server-Side Rendering) merender halaman pada waktu permintaan, sehingga setiap permintaan mendapatkan versi terbaru dari halaman. SSG (Static Site Generation) merender halaman saat build time dan menghasilkan HTML statis yang sangat cepat diakses oleh pengguna.
+Bagaimana cara membuat halaman baru di Next.js|Untuk membuat halaman baru di Next.js, cukup tambahkan file JavaScript atau TypeScript di dalam folder pages. Nama file akan menjadi URL halaman tersebut. Misalnya, pages/about.js akan menjadi /about.
+Apa itu dynamic routing di Next.js|Dynamic routing di Next.js memungkinkan Anda membuat rute dinamis menggunakan tanda kurung kotak di nama file dalam folder pages. Contohnya, pages/posts/[id].js akan menciptakan rute dinamis yang dapat diakses dengan URL seperti /posts/1, /posts/2, dll.
+uhuuuyyy|cihuyyyyy.
+Bagaimana cara menggunakan API Routes di Next.js|API Routes di Next.js memungkinkan Anda membuat endpoint API dalam aplikasi Anda. Anda dapat membuat file JavaScript atau TypeScript di dalam folder pages/api. Misalnya, pages/api/hello.js akan membuat endpoint /api/hello yang bisa diakses dengan HTTP GET request.
+minta akreditasi|Untuk meminta akreditasi, Anda harus mengirimkan aplikasi ke badan akreditasi yang relevan. Aplikasi ini harus berisi informasi tentang organisasi Anda, termasuk tujuan, struktur, dan program yang tersedia. Anda juga harus menyertakan dokumen lain yang relevan, seperti laporan keuangan, laporan audit, dan laporan evaluasi. Setelah aplikasi diajukan, badan akreditasi akan meninjau dokumen dan melakukan audit lapangan untuk memastikan bahwa organisasi Anda memenuhi standar akreditasi.
+Apa itu Image Optimization di Next.js|Image Optimization di Next.js menyediakan komponen next/image yang otomatis mengoptimalkan gambar untuk kinerja yang lebih baik, termasuk loading yang lebih cepat dan pengaturan ukuran gambar secara responsif.
+Apa itu getStaticProps dan kapan sebaiknya digunakan|getStaticProps adalah fungsi Next.js yang digunakan untuk mengambil data pada build time untuk halaman yang menggunakan Static Site Generation (SSG). Fungsi ini sebaiknya digunakan ketika data tidak sering berubah dan Anda ingin halaman di-render dengan cepat dari konten statis.
+malesin ah|apasih kamu pemalas.
+kenapa batu itu keras|karna kalau lembek bubur.
+gajelas|emang kamu gajelas.
+lagi error kayak nya miss|konfigurasi\n\nKesalahan konfigurasi biasanya disebabkan oleh kesalahan dalam pengaturan sistem atau aplikasi. Untuk memperbaiki masalah ini, Anda harus memeriksa semua pengaturan yang terkait dengan sistem atau aplikasi yang bermasalah. Jika Anda tidak yakin tentang bagaimana cara mengkonfigurasi sistem atau aplikasi, Anda harus mencari bantuan dari ahli teknis yang berpengalaman.
+Apa itu MQTT?|MQTT adalah protokol jaringan yang digunakan untuk komunikasi machine-to-machine (M2M) dan Internet of Things (IoT).
+Apa singkatan dari MQTT?|MQTT singkatan dari Message Queuing Telemetry Transport.
+Mengapa MQTT digunakan di IoT?|MQTT digunakan di IoT karena protokol ini ringan, mudah diimplementasikan, dan efisien untuk perangkat dengan sumber daya terbatas.
+Bagaimana MQTT bekerja?|MQTT bekerja dengan model publish/subscribe, di mana perangkat dapat berlangganan atau menerbitkan pesan ke topik tertentu di broker MQTT.
+Apa itu broker MQTT?|Broker MQTT adalah server yang bertanggung jawab untuk menerima semua pesan, memfilter, dan meneruskannya ke klien yang sesuai.
+Apa perbedaan MQTT dan HTTP?|MQTT lebih ringan dan efisien dibandingkan HTTP, serta menggunakan lebih sedikit bandwidth, menjadikannya lebih cocok untuk perangkat IoT.
+Apa fungsi dari QoS dalam MQTT?|QoS (Quality of Service) dalam MQTT menentukan tingkat jaminan pengiriman pesan antara penerbit dan penerima.
+Apa itu topik dalam MQTT?|Topik dalam MQTT adalah saluran virtual yang digunakan untuk mengategorikan pesan yang diterbitkan oleh klien.
 dimas
 dimas
 dimas
