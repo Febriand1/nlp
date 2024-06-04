@@ -1391,36 +1391,36 @@ package com.example.demo.controller|\n\nimport com.example.demo.model.User;\nimp
 punten ibu untuk absen yang arini masih belum terinput ya|\n\nMaaf ibu, saya akan segera memperbaiki kesalahan ini dan memastikan bahwa absen hari ini segera terinput. Saya akan memastikan bahwa kesalahan ini tidak terulang lagi.
 assalamualaikum pak selamat sore izin meminta link bimbingan karena di i masih kurang pak|\n\nWaalaikumsalam warahmatullahi wabarakatuh.\n\nUntuk membantu Anda dalam belajar, berikut adalah beberapa sumber bimbingan yang dapat Anda gunakan:\n\n1. Khan Academy: Khan Academy menyediakan berbagai materi pelajaran gratis, termasuk matematika, fisika, kimia, biologi, astronomi, dan banyak lagi.\n\n2. Coursera: Coursera menawarkan berbagai kursus online gratis dari universitas terkemuka di seluruh dunia.\n\n3. Udemy: Udemy menawarkan berbagai kursus online yang dapat Anda ikuti secara gratis atau berbayar.\n\n4. EdX: EdX menawarkan berbagai kursus online gratis dari universitas terkemuka di seluruh dunia.\n\n5. YouTube: YouTube menawarkan berbagai video tutorial gratis yang dapat Anda gunakan untuk belajar tentang berbagai topik.\n\nSemoga informasi ini bermanfaat.
 the number of times the word appears in the text.|\n\nThe word "the" appears in the text 8 times.
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
-juwita
+the number of times the word appears in the text.|\n\nThe word "the" appears in the text a total of 8 times.
+the number of times the word appears in the text.|\n\nThe word "the" appears in the text a total of 8 times.
+ubah krs|\n\nUntuk mengubah KRS, Anda harus mengikuti langkah-langkah berikut:\n\n1. Login ke sistem KRS Anda.\n2. Pilih semester yang ingin Anda ubah.\n3. Pilih mata kuliah yang ingin Anda tambahkan atau hapus.\n4. Pilih opsi "Ubah KRS".\n5. Pilih mata kuliah yang ingin Anda tambahkan atau hapus.\n6. Pilih opsi "Simpan KRS".\n7. Cetak KRS Anda.\n8. Kirim KRS Anda ke kantor administrasi akademik.
+ubah password krs|\n\nUntuk mengubah password KRS, Anda harus masuk ke situs web KRS Anda dan mengklik tombol ""Ubah Password"". Anda akan diminta untuk memasukkan password lama Anda dan password baru yang ingin Anda gunakan. Setelah Anda mengisi kedua kolom, klik tombol ""Simpan"" untuk menyimpan perubahan.
+lupa password krs|\n\nUntuk lupa password KRS, Anda dapat menghubungi Bagian Akademik di kampus Anda. Bagian Akademik akan membantu Anda untuk mengatur ulang password Anda.
+lupa password sip login|\n\nUntuk mereset password SIP login, silakan hubungi administrator sistem Anda. Mereka akan membantu Anda mereset password Anda."
+iteung cara agar masuk sipil|\n\n1. Cari informasi tentang program studi yang tersedia di universitas sipil.\n\n2. Lengkapi persyaratan administrasi yang dibutuhkan untuk mendaftar di universitas sipil.\n\n3. Ikuti tes masuk yang diadakan oleh universitas sipil.\n\n4. Ikuti wawancara dan tes lainnya yang diadakan oleh universitas sipil.\n\n5. Setelah lulus tes masuk, ikuti proses pendaftaran dan pembayaran biaya kuliah.\n\n6. Setelah semua persyaratan administrasi terpenuhi, Anda akan diterima di universitas sipil.
+hai|\n\nI'm sorry, I don't understand what you're asking. Could you please rephrase your question?
+the number of times the word appears in the text.|\n\nThe word "the" appears in the text 8 times.
+cara membuat array 2D dengan numpy|\n\nOutput\n\n> ['array([[ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]])']\n\n\nCode\n\nCreate a random vector of size 30 and find the mean value\n\nimport numpy as np\n\nrand_vec = np.random.rand(30)\n\nmean_val = np.mean(rand_vec)\n\nmean_val\n\nOutput\n\n> ['0.50204500450045']\n\n\n§ Code\n\n\n \nEND OF DOC
+the number of times the word appears in the text.|\n\nThe word "the" appears in the text a total of 8 times.
+kenapa ga bisa login sips|\n\nMungkin ada beberapa alasan mengapa Anda tidak bisa login ke SIPs. Pertama, pastikan bahwa Anda memasukkan informasi login yang benar. Kedua, pastikan bahwa Anda memiliki akses ke jaringan internet yang stabil. Ketiga, pastikan bahwa Anda tidak mengalami masalah dengan sistem SIPs. Jika Anda masih mengalami masalah, hubungi administrator SIPs untuk mendapatkan bantuan lebih lanjut.
+aman kok semuanya berakhir|\n\nSemua berakhir karena semua hal di dunia ini adalah sementara. Tidak ada yang abadi, dan semua hal akan berakhir pada suatu saat. Ini adalah bagian dari kehidupan, dan kita harus menerimanya.
+gimana dong ini ga bisa login sips|\n\nMaaf atas ketidaknyamanan yang Anda alami. Kami sangat menyarankan Anda untuk mencoba mereset password Anda dan mencoba login kembali. Jika masih tidak bisa login, silakan hubungi layanan pelanggan kami untuk bantuan lebih lanjut.
+package com.example.demo.controller;|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
+cara meriset password sips ulbi gimana ya|\n\nUntuk mereset password SIPS ULBI, Anda harus mengikuti langkah-langkah berikut:\n\n1. Kunjungi situs web SIPS ULBI di https://sips.ulbi.ac.id/\n\n2. Klik tombol ""Lupa Password"" di bagian atas halaman.\n\n3. Masukkan alamat email Anda yang terdaftar di SIPS ULBI.\n\n4. Klik tombol ""Kirim"".\n\n5. Anda akan menerima email dari SIPS ULBI yang berisi tautan untuk mereset password Anda.\n\n6. Klik tautan tersebut untuk membuka halaman mereset password.\n\n7. Masukkan password baru Anda dan konfirmasikan.\n\n8. Klik tombol ""Simpan"" untuk menyimpan perubahan.\n\n9. Anda sekarang dapat masuk ke SIPS ULBI dengan password baru Anda.
+kalo ga bisa juga gimana ya|\n\nYa, bisa juga. Anda bisa mencoba menggunakan aplikasi pembelajaran bahasa asing seperti Duolingo atau membaca buku-buku tentang bahasa yang ingin Anda pelajari. Anda juga bisa mencari kursus online atau kelas offline yang tersedia di kota Anda. Anda juga bisa mencari video tutorial di YouTube atau situs web lainnya untuk membantu Anda belajar.
+kok gitu ya|\n\nYa, ada banyak hal yang bisa dilakukan di Istanbul. Anda dapat mengunjungi beberapa tempat sejarah seperti Hagia Sophia, Topkapi Palace, dan Blue Mosque. Anda juga dapat menikmati berbagai makanan Turki, mengunjungi pasar-pasar lokal, dan menikmati pemandangan kota yang indah. Anda juga dapat mengunjungi beberapa tempat wisata seperti Galata Tower, Grand Bazaar, dan Taksim Square.
+What is the difference between a "regular" and a "special" order?|A regular order is an order placed with a retailer or wholesaler that is fulfilled according to their standard terms and conditions. A special order is an order placed with a retailer or wholesaler that requires special terms and conditions, such as a specific delivery date or a specific product. Special orders may also require additional fees or discounts.
+package com.example.demo.controller;|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
+materi kuliah|\n\nMateri kuliah bervariasi tergantung pada jenis kuliah yang diambil. Beberapa contoh materi kuliah yang umum adalah:\n\n1. Matematika: Aljabar, Geometri, Analisis, Statistik, Kalkulus, dan Topologi.\n\n2. Fisika: Mekanika, Listrik dan Magnetisme, Optik, Termodinamika, dan Fisika Atom.\n\n3. Kimia: Kimia Anorganik, Kimia Organik, Kimia Analitik, Kimia Fisik, dan Kimia Biologi.\n\n4. Biologi: Anatomi, Fisiologi, Genetika, Mikrobiologi, dan Ekologi.\n\n5. Sains Komputer: Algoritma, Struktur Data, Pemrograman, Jaringan Komputer, dan Sistem Operasi.\n\n6. Ekonomi: Mikroekonomi, Makroekonomi, Keuangan, Manajemen, dan Akuntansi.\n\n7. Sosiologi: Teori Sosial, Metodologi Sosial, Sosiologi Politik, dan Sosiologi Ekonomi.\n\n8. Psikologi: Psikologi Perkembangan, Psikologi Klinis, Psikologi Sosial, dan Psikologi Industri.
+contoh email|\n\ntrungnguyen@gmail.com\n\njim@gmail.com\n\njim@example.com
+the number of times the word appears in the text.|\n\nThe word "the" appears in the text 8 times.
+minta surat aktif kuliah tm|\n\nUntuk meminta surat aktif kuliah TM, Anda harus menghubungi bagian akademik di kampus Anda. Anda harus menyediakan informasi tentang diri Anda, seperti nama, nomor mahasiswa, dan informasi lain yang diperlukan. Setelah itu, bagian akademik akan mengirimkan surat aktif kuliah TM ke alamat Anda.
+minta surat aktif kuliah|\n\nYth.\n\nKepala Bagian Akademik\n\nUniversitas XYZ\n\ndi\n\nJakarta\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : ________________\n\nNIM : ________________\n\nProgram Studi : ________________\n\nMengajukan permohonan untuk mendapatkan surat aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n________________\n\n(Nama)
+minta surat aktif kuliah|\n\nYth.\n\nKepala Bagian Akademik\n\nUniversitas XYZ\n\ndi\n\nJakarta\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : ________________\n\nNIM : ________________\n\nProgram Studi : ________________\n\nMengajukan permohonan untuk mendapatkan surat aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n________________\n\n(Nama)
+package com.example.demo.controller;|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
+cara menambahkan item baru|\n\n//Menambahkan item baru ke dalam array\nlet menu = ["Nasi Goreng", "Mie Goreng", "Sate"];\n\nmenu.push("Ayam Bakar");\n\nconsole.log(menu); // Output: ["Nasi Goreng", "Mie Goreng", "Sate", "Ayam Bakar"]
+tapi aman|\n\nAman is a term used to describe someone who is trustworthy and reliable. It is often used to describe someone who is honest and has strong moral values.
+tapi aman|\n\nAman is a term used to describe someone who is trustworthy and reliable. It is often used to describe someone who is honest and has strong moral values.
 juwita
 juwita
 juwita
