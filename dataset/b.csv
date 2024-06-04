@@ -9300,36 +9300,36 @@ apaan|\n\nKesä on Suomessa yleensä kuuma ja aurinkoinen. Se alkaa toukokuussa 
 menu hari ini apa ya|\n\n1. Nasi Goreng\n2. Ayam Goreng\n3. Sayur Asem\n4. Tumis Kangkung\n5. Mie Goreng\n6. Sate Ayam\n7. Telur Dadar\n8. Tempe Goreng\n9. Gado-Gado\n10. Bakso
 di input ke sini atau langsung ke i bu|input kesini.
 ihh|\n\n#include <iostream>\n#include <string>\n\nusing namespace std;\n\nint main()\n{\n    string name;\n    cout << ""What is your name? "";\n    cin >> name;\n    cout << ""Hello, "" << name << ""!"" << endl;\n    return 0;\n}
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
-marlina
+hello|\n\nHi there! How can I help you?
+perbaiki code|\n\n#include <iostream>\n#include <string>\n\nusing namespace std;\n\nint main()\n{\n    string name;\n    cout << ""What is your name? "";\n    cin >> name;\n    cout << ""Hello, "" << name << ""!"" << endl;\n    return 0;\n}
+package com.example.demo.controller|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n    public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}
+gimana i aja|\n\nHai, terima kasih atas pertanyaannya\n\nUntuk menjawab pertanyaan Anda, saya akan memberikan beberapa saran. Pertama, Anda harus membuat rencana yang jelas tentang apa yang ingin Anda lakukan. Ini akan membantu Anda menentukan tujuan Anda dan mengatur waktu Anda dengan lebih baik. Kedua, Anda harus mencari cara untuk meningkatkan produktivitas Anda. Ini bisa meliputi mengatur ruang kerja Anda, mengatur jadwal Anda, dan mencari cara untuk mengurangi gangguan. Ketiga, Anda harus mencari cara untuk meningkatkan keterampilan Anda. Ini bisa meliputi mengikuti kursus, membaca buku, atau menonton video tutorial. Terakhir, Anda harus mencari cara untuk meningkatkan motivasi Anda. Ini bisa meliputi menetapkan tujuan jangka pendek, mengikuti program belajar, atau bergabung dengan komunitas yang mendukung.\n\nSemoga ini membantu. Selamat mencoba!
+e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.
+approve lembar pengesahan sidang 1214053 p2 tahun20221|\n\nYa, saya menyetujui lembar pengesahan sidang 1214053 P2 tahun 20221.
+terimakasih|\n\nTerima kasih.
+terimakasih|\n\nTerima kasih.
+sama sama|\n\nSama sama is a phrase used in Indonesian and Malay to mean ""you're welcome"" or ""same to you"". It is used as a response to someone expressing gratitude or appreciation.
+minta tanda mahasiswa|\n\nTanda mahasiswa biasanya berupa kartu mahasiswa yang diterbitkan oleh universitas atau sekolah tinggi yang dituju. Kartu mahasiswa biasanya berisi informasi tentang nama, nomor identitas, foto, dan informasi lainnya tentang mahasiswa. Kartu mahasiswa juga dapat digunakan untuk mendapatkan diskon di berbagai tempat, seperti toko, restoran, dan lainnya.
+minta kartu tanda mahsiswa|\n\nUntuk mendapatkan kartu tanda mahasiswa, Anda harus menghubungi kantor administrasi universitas Anda. Anda harus menyediakan dokumen yang diperlukan, seperti fotokopi KTP, fotokopi ijazah, dan fotokopi transkrip nilai. Setelah menyerahkan dokumen tersebut, Anda akan diberikan kartu tanda mahasiswa.
+minta kode mata kuliah manajemen pembelian|\n\nKode mata kuliah Manajemen Pembelian adalah MKM-101.
+minta kode grup mata kuliah manajemen pembelian|\n\nKode grup mata kuliah Manajemen Pembelian adalah MKM-PEM-001.
+apa kabar|\n\nHalo, baik-baik saja. Terima kasih.
+minta kode mata kuliah manajemen pembelian|\n\nKode mata kuliah Manajemen Pembelian adalah MKM-101.
+minta data kode grup mata kuliah prodi d4 logistik niaga|\n\nData kode grup mata kuliah Prodi D4 Logistik Niaga adalah sebagai berikut:\n\n- Kode Grup Mata Kuliah: LOGN-D4\n- Nama Grup Mata Kuliah: Logistik Niaga D4
+e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.
+jadwal mengajar|\n\nBerikut adalah jadwal mengajar saya:\n\nSenin:\n\n- Matematika (09.00-10.00)\n- Fisika (10.00-11.00)\n- Kimia (11.00-12.00)\n\nSelasa:\n\n- Bahasa Inggris (09.00-10.00)\n- Sejarah (10.00-11.00)\n- Geografi (11.00-12.00)\n\nRabu:\n\n- Matematika (09.00-10.00)\n- Bahasa Indonesia (10.00-11.00)\n- Biologi (11.00-12.00)\n\nKamis:\n\n- Fisika (09.00-10.00)\n- Ekonomi (10.00-11.00)\n- Sosiologi (11.00-12.00)\n\nJumat:\n\n- Matematika (09.00-10.00)\n- Bahasa Inggris (10.00-11.00)\n- Sejarah (11.00-12.00)
+input presensi tmpqqp|\n\nPresensi tmpqqp dapat dicatat dengan menggunakan aplikasi presensi atau software presensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat dan mengelola data presensi karyawan. Aplikasi ini juga dapat membantu Anda untuk menghitung jumlah jam kerja, jam lembur, dan lainnya.
+e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text 8 times.
+waalaikumsalam hari ini saya tdk ke kampus krn ada rapat dg pt pos silahkan kirim laporan yg sudah di revisinya dengan ba revisi dari i nya laporan yg sudah di revisinya di beri texthighlight kirim ke email saya di sennyhandayaniedu@gmailcom|\n\nWaalaikumsalam. Terima kasih atas pertanyaan Anda. Saya akan mengirim laporan yang sudah direvisi dengan teks yang dihighlight ke email Anda di sennyhandayaniedu@gmail.com. Jika ada pertanyaan lain, silakan hubungi saya. Terima kasih.
+nilai presensi pengantar sistem logistik 1a semester ganjil ta 20222023|\n\nNilai presensi pengantar sistem logistik 1a semester ganjil TA 2022/2023 adalah bergantung pada kebijakan masing-masing universitas. Beberapa universitas mungkin memiliki persyaratan presensi minimal, sementara yang lain mungkin tidak. Anda harus menghubungi kantor akademik universitas Anda untuk informasi lebih lanjut tentang persyaratan presensi untuk mata kuliah ini.
+jadwal|\n\nKami menyediakan jadwal untuk berbagai kegiatan di seluruh dunia. Anda dapat menemukan jadwal untuk acara olahraga, konser, pertunjukan teater, pameran seni, dan banyak lagi. Anda dapat mencari jadwal berdasarkan lokasi, tanggal, dan jenis acara. Anda juga dapat mencari jadwal berdasarkan nama artis atau tim. Kami juga menyediakan informasi tentang tiket, lokasi, dan informasi lainnya yang berkaitan dengan acara.
+jadwal kelas|\n\n| Hari | Jam | Mata Kuliah |\n|------|-----|------------|\n| Senin | 09.00 - 10.00 | Algoritma dan Pemrograman |\n| Selasa | 10.00 - 11.00 | Sistem Basis Data |\n| Rabu | 11.00 - 12.00 | Sistem Operasi |\n| Kamis | 12.00 - 13.00 | Rekayasa Perangkat Lunak |\n| Jumat | 13.00 - 14.00 | Interaksi Manusia dan Komputer |
+minta surat keterangan aktif kuliah|\n\nYang bertanda tangan di bawah ini,\n\nKepala Bagian Akademik Fakultas Ilmu Komputer Universitas XYZ,\n\nMenerangkan bahwa :\n\nNama : ________________\nNIM : ________________\n\nAdalah mahasiswa Fakultas Ilmu Komputer Universitas XYZ yang sedang aktif mengikuti perkuliahan pada semester ___________ tahun ajaran ___________.\n\nDemikian surat keterangan ini dibuat dengan sebenarnya dan dapat dipergunakan sebagaimana mestinya.\n\nHormat kami,\n\nKepala Bagian Akademik\nFakultas Ilmu Komputer\nUniversitas XYZ
+minta surat aktif kuliah|\n\nYth.\n\nKepala Bagian Akademik\n\nUniversitas XYZ\n\ndi\n\nJakarta\n\nDengan hormat,\n\nSaya yang bertanda tangan di bawah ini:\n\nNama : ________________\n\nNIM : ________________\n\nProgram Studi : ________________\n\nMengajukan permohonan untuk mendapatkan surat aktif kuliah.\n\nDemikian surat permohonan ini saya sampaikan, atas perhatian dan kerjasamanya saya ucapkan terima kasih.\n\nHormat saya,\n\n________________\n\n(Nama)
+input absensi cwin|\n\nUntuk mengakses sistem absensi Cwin, Anda harus memiliki akun Cwin. Setelah memiliki akun, Anda dapat mengakses sistem absensi Cwin melalui situs web resmi Cwin. Di halaman utama, Anda akan melihat tombol ""Absensi"" di bagian atas halaman. Klik tombol ini untuk masuk ke halaman absensi. Di halaman absensi, Anda dapat melihat daftar absensi, menambahkan absensi baru, mengedit absensi yang sudah ada, dan melihat laporan absensi.
+input absensi xtgv|\n\nX = Tidak Hadir, T = Hadir, G = Izin, V = Sakit
+spt tahunan badan usaha|\n\nSebuah badan usaha harus menyusun laporan keuangan tahunan yang mencakup laporan laba rugi, laporan arus kas, laporan perubahan ekuitas, laporan posisi keuangan, dan laporan lainnya yang relevan. Laporan keuangan tahunan juga harus mencakup laporan auditor yang menyatakan bahwa laporan keuangan telah disusun sesuai dengan standar akuntansi yang berlaku. Laporan keuangan tahunan juga harus mencakup laporan manajemen yang menyajikan analisis dan komentar tentang kinerja keuangan badan usaha.
+input presensi tmpqqp|\n\nPresensi tmpqqp dapat dicatat dengan menggunakan aplikasi presensi atau software presensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat dan mengelola data presensi karyawan. Aplikasi ini juga dapat membantu Anda untuk menghitung jumlah jam kerja, jam lembur, dan lainnya.
 marlina
 marlina
 marlina
