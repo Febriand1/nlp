@@ -13476,40 +13476,39 @@ Apakah kita dapat menggunakan layanan pihak ketiga dengan GitHub Pages?|Ya, Anda
 Apa itu software architecture style|Software architecture style adalah pola atau gaya arsitektur yang digunakan dalam merancang dan mengorganisasi komponen perangkat lunak, seperti client-server, layering, atau microservices.
 Bagaimana cara menangani validasi form untuk input yang dihasilkan oleh sensor atau perangkat IoT (Internet of Things)?|Validasi form untuk input yang memerlukan validasi lintas-bahasa atau lokal dapat menggunakan pesan kesalahan yang disesuaikan dengan preferensi bahasa pengguna.
 Bagaimana cara menambahkan efek animasi pada alert saat muncul dari bawah layar?|Anda dapat menggunakan kelas animasi Bootstrap atau menambahkan aturan CSS kustom untuk memberikan efek animasi saat alert muncul dari bawah layar.
-bagaimana menambahkan judul pada card di bootstrap|Anda dapat menambahkan judul pada Card dengan menggunakan kelas card-title di elemen yang sesuai.||
+bagaimana menambahkan judul pada card di bootstrap|Anda dapat menambahkan judul pada Card dengan menggunakan kelas card-title di elemen yang sesuai.
 Apakah normalisasi data dapat meningkatkan interpretasi hasil analisis faktor?|Normalisasi data dapat meningkatkan interpretasi hasil analisis faktor. Normalisasi membantu menyesuaikan kontribusi variabel dalam faktor yang dihasilkan.
 Bagaimana cara mengelola versi framework di Vercel?|Anda dapat mengelola versi framework di Vercel dengan mengubah dependensi proyek Anda. Anda juga dapat mengonfigurasi versi framework yang digunakan selama proses build di pengaturan proyek.
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
-danidalll
+Apa peran JavaScript dalam validasi form?|JavaScript memainkan peran penting dalam validasi form dengan memungkinkan manipulasi DOM dan logika validasi kustom.
+Bagaimana cara mengimplementasikan validasi form dengan regular expression?|Regular expression (regex) digunakan untuk memvalidasi input dengan pola tertentu, seperti alamat email, format tanggal, atau karakter khusus."|
+Bagaimana cara menangani validasi form untuk input yang memerlukan format waktu atau tanggal tertentu?|Validasi form untuk input waktu atau tanggal memerlukan pemahaman tentang format tanggal dan waktu serta penggunaan pustaka atau API yang tepat.
+cara login sip|Untuk login ke SIP, Anda harus memiliki akun SIP yang dibuat oleh administrator. Setelah memiliki akun, Anda dapat login dengan menggunakan nama pengguna dan kata sandi yang diberikan. Setelah login, Anda dapat mengakses berbagai fitur SIP, seperti mengirim dan menerima panggilan, mengatur panggilan, mengatur kontak, dan lainnya.
+tidak bisa login sip ulbi|Untuk masalah login SIP ULBI, Anda harus menghubungi administrator SIP ULBI di kampus Anda. Mereka akan dapat membantu Anda dengan masalah login Anda.
+minta kontak bauk|Untuk menghubungi Bauk, Anda dapat menghubungi nomor telepon +62 812-8999-8999 atau email bauk@bauk.co.id.
+input absensi|Untuk mengakses sistem absensi, Anda harus memiliki akun yang dibuat oleh administrator. Setelah memiliki akun, Anda dapat masuk ke sistem absensi dan memasukkan data absensi Anda. Anda juga dapat melihat data absensi yang telah Anda masukkan sebelumnya.
+input absensi|Untuk mengakses sistem absensi, Anda harus memiliki akun yang dibuat oleh administrator. Setelah memiliki akun, Anda dapat masuk ke sistem absensi dan memasukkan data absensi Anda. Anda juga dapat melihat data absensi yang telah Anda masukkan sebelumnya.
+input absensi|Untuk mengakses sistem absensi, Anda harus memiliki akun yang dibuat oleh administrator. Setelah memiliki akun, Anda dapat masuk ke sistem absensi dan memasukkan data absensi Anda. Anda juga dapat melihat data absensi yang telah Anda masukkan sebelumnya.
+selamat pagi|selamat pagi juga
+reset password|If you have forgotten your password, you can reset it by visiting the website of the service or application you are trying to access. Depending on the service, you may be able to reset your password by providing your email address or answering security questions. You may also be able to reset your password by using a one-time code sent to your phone or email address.
+Selamat siang ibi|ibu kali maksud nya, jangan dibiasain typo dong
+kenapa gabisa login sip|Ada beberapa alasan mengapa Anda tidak dapat masuk ke SIP. Ini termasuk: salah memasukkan nama pengguna atau kata sandi, koneksi internet yang lemah, masalah dengan server SIP, atau masalah dengan perangkat yang Anda gunakan untuk mengakses SIP.
+input absensi tmouua|Input absensi telah diterima. Terima kasih.
+input absesnsi mode tm wrmb|TM WRMB adalah sebuah sistem absensi yang menggunakan teknologi RFID (Radio Frequency Identification) untuk membaca kartu identifikasi yang dibawa oleh karyawan. Sistem ini memungkinkan karyawan untuk melakukan absensi dengan cepat dan mudah dengan menempelkan kartu identifikasinya pada mesin absensi. Sistem ini juga dapat mencatat waktu masuk dan keluar karyawan, sehingga memudahkan pengelolaan data absensi.
+input absensi mode  ahof|Mode ahof adalah mode absensi yang menggunakan sistem absensi berbasis teknologi untuk membantu proses pengawasan dan pengelolaan absensi karyawan. Mode ahof memungkinkan perusahaan untuk mengontrol dan mengawasi absensi karyawan secara real-time, memungkinkan perusahaan untuk mengidentifikasi dan mengambil tindakan terhadap karyawan yang tidak hadir tanpa harus menghabiskan waktu untuk mencatat dan mengawasi absensi secara manual. Mode ahof juga memungkinkan perusahaan untuk mengatur dan mengontrol jam kerja karyawan, memungkinkan perusahaan untuk mengatur jam kerja karyawan secara efisien dan memastikan bahwa karyawan hadir tepat waktu.
+hi|Hi there! How can I help you?
+lagi apa|yang kamu lakukan\n\nSebelumnya, saya baru saja menyelesaikan tugas yang diberikan oleh guru saya. Saya juga mengerjakan beberapa tugas lainnya seperti membaca buku dan mengerjakan latihan soal. Selain itu, saya juga menonton beberapa video di YouTube untuk menambah pengetahuan saya. Sekarang, saya sedang mengerjakan tugas lain yang diberikan oleh guru saya.
+aku galau|ya Galau adalah perasaan yang berasal dari konflik antara dua pilihan atau dua keinginan yang berbeda. Jika Anda merasa galau, maka Anda harus mencari tahu apa yang Anda inginkan dan membuat keputusan yang tepat. Anda juga harus mencari tahu alasan mengapa Anda merasa galau dan mencoba untuk menyelesaikan masalah yang mendasarinya. Jika Anda masih merasa galau, Anda dapat berbicara dengan teman atau keluarga Anda untuk mendapatkan dukungan dan saran.
+yang saya inginkan supaya tidak galau adalah bakso bolehkah kamu membelikan bakso kepadaku|Maaf, saya tidak bisa membelikan bakso kepadamu. Namun, saya bisa memberikan saran untuk mengurangi galau. Cobalah untuk melakukan hal-hal yang menyenangkan seperti bermain musik, menonton film, atau berkumpul bersama teman-teman. Juga, cobalah untuk berolahraga dan bermeditasi untuk menenangkan pikiran. Semoga saran ini membantu.
+presensi tm yuxc|Presensi TM YUXC adalah aplikasi yang memungkinkan para karyawan untuk melakukan absensi secara online. Aplikasi ini memungkinkan para karyawan untuk melakukan absensi dengan menggunakan kartu identitas atau kode QR. Aplikasi ini juga memungkinkan para karyawan untuk melihat riwayat presensi mereka dan mengirim laporan presensi kepada atasan mereka. Aplikasi ini juga memungkinkan para karyawan untuk mengatur jadwal kerja mereka dan mengirim notifikasi kepada atasan mereka tentang perubahan jadwal.
+oh ya hitung beres uts nggak akan ada perkuliahan lagi kan dan masuk kampus tanggal berapa ya iteng|Maaf, saya tidak bisa memberikan informasi tentang tanggal masuk kampus. Anda harus menghubungi pihak kampus untuk informasi lebih lanjut.
+selesai uts tanggal berapa item|Tanggal penyelesaian UTS tergantung pada jadwal yang ditetapkan oleh institusi pendidikan Anda. Anda harus menghubungi pihak sekolah Anda untuk mengetahui tanggal penyelesaian UTS.
+Apa yang dimaksud dengan ""dependency hell"" dalam pengujian unit?|Dependency hell adalah situasi di mana pengujian unit menjadi sulit atau tidak mungkin dilakukan karena terlalu banyak dependensi eksternal atau dependensi yang rumit.
+apa itu kelas card-footer-scroll-y di Bootstrap|Kelas card-footer-scroll-y tidak ada di Bootstrap. Mungkin yang dimaksud adalah menambahkan properti CSS overflow-y: auto; pada elemen card-footer untuk memberikan efek scroll pada footer.
+Bagaimana cara membuat plot swarm menggunakan library Seaborn?|Anda dapat membuat plot swarm menggunakan fungsi sns.swarmplot() dalam Seaborn dengan memberikan data yang sesuai sebagai parameter.
+inpur absensi tm hvju|Untuk menginput absensi TM HVJU, Anda dapat mengakses aplikasi absensi yang telah disediakan oleh pihak TM HVJU. Anda dapat mengakses aplikasi tersebut melalui website resmi TM HVJU. Setelah masuk ke aplikasi, Anda dapat mengisi data absensi sesuai dengan kebutuhan Anda.
+Apakah Vercel menyediakan fitur autoscaling?|Ya, Vercel menyediakan fitur autoscaling yang secara otomatis akan menyesuaikan kapasitas aplikasi Anda berdasarkan permintaan yang diterima. Ini membantu memastikan kinerja optimal bahkan saat lalu lintas meningkat tajam.
+Apakah Forms Bootstrap cocok untuk proyek e-commerce?|Ya, Forms Bootstrap cocok untuk proyek e-commerce karena dapat digunakan untuk membuat formulir pendaftaran, formulir pembayaran, formulir pengiriman, dan sebagainya.
+Apakah Forms Bootstrap cocok untuk proyek besar?|Ya, Forms Bootstrap cocok untuk proyek besar maupun kecil. Dengan kemampuan untuk mengelola dan menyusun formulir secara efisien, Bootstrap dapat meningkatkan produktivitas pengembangan dalam proyek yang lebih kompleks.
 danidalll
 danidalll
 danidalll
